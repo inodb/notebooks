@@ -1,0 +1,2283 @@
+Input	Match type	Approved symbol	Approved name	HGNC ID	Location
+AARS	Approved symbol	AARS	alanyl-tRNA synthetase	HGNC:20	16q22.1
+ABCA13	Approved symbol	ABCA13	ATP-binding cassette, sub-family A (ABC1), member 13	HGNC:14638	7p12.3
+ABCA7	Approved symbol	ABCA7	ATP-binding cassette, sub-family A (ABC1), member 7	HGNC:37	19p13.3
+ABCB10	Approved symbol	ABCB10	ATP-binding cassette, sub-family B (MDR/TAP), member 10	HGNC:41	1q32
+ABCB8	Approved symbol	ABCB8	ATP-binding cassette, sub-family B (MDR/TAP), member 8	HGNC:49	7q36.1
+ABCC10	Approved symbol	ABCC10	ATP-binding cassette, sub-family C (CFTR/MRP), member 10	HGNC:52	6p12.3
+ABCF1	Approved symbol	ABCF1	ATP-binding cassette, sub-family F (GCN20), member 1	HGNC:70	6p21.33
+ABCF2	Approved symbol	ABCF2	ATP-binding cassette, sub-family F (GCN20), member 2	HGNC:71	7q36.1
+ABCF3	Approved symbol	ABCF3	ATP-binding cassette, sub-family F (GCN20), member 3	HGNC:72	3q27.1
+ABHD11	Approved symbol	ABHD11	abhydrolase domain containing 11	HGNC:16407	7q11.23
+ABI1	Approved symbol	ABI1	abl-interactor 1	HGNC:11320	10p12.1
+ABI3	Approved symbol	ABI3	ABI family, member 3	HGNC:29859	17q21.3
+ABL2	Approved symbol	ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase	HGNC:77	1q25.2
+ACAD9	Approved symbol	ACAD9	acyl-CoA dehydrogenase family, member 9	HGNC:21497	3q21.3
+ACADS	Approved symbol	ACADS	acyl-CoA dehydrogenase, C-2 to C-3 short chain	HGNC:90	12q24.31
+ACAP1	Approved symbol	ACAP1	ArfGAP with coiled-coil, ankyrin repeat and PH domains 1	HGNC:16467	17p13.1
+ACBD3	Approved symbol	ACBD3	acyl-CoA binding domain containing 3	HGNC:15453	1q41
+ACBD5	Approved symbol	ACBD5	acyl-CoA binding domain containing 5	HGNC:23338	10p12.1
+ACBD6	Approved symbol	ACBD6	acyl-CoA binding domain containing 6	HGNC:23339	1q25.3
+ACBD7	Approved symbol	ACBD7	acyl-CoA binding domain containing 7	HGNC:17715	10p13
+ACP6	Approved symbol	ACP6	acid phosphatase 6, lysophosphatidic	HGNC:29609	1q21
+ACSBG1	Approved symbol	ACSBG1	acyl-CoA synthetase bubblegum family member 1	HGNC:29567	15q23-q24
+ACSF2	Approved symbol	ACSF2	acyl-CoA synthetase family member 2	HGNC:26101	17q21.33
+ACSL5	Approved symbol	ACSL5	acyl-CoA synthetase long-chain family member 5	HGNC:16526	10q25.2
+ACTN4	Approved symbol	ACTN4	actinin, alpha 4	HGNC:166	19q13
+ACTR1A	Approved symbol	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast)	HGNC:167	10q24
+ACY3	Approved symbol	ACY3	aminoacylase 3	HGNC:24104	11q13.2
+ADAM15	Approved symbol	ADAM15	ADAM metallopeptidase domain 15	HGNC:193	1q21.3
+ADAM20	Approved symbol	ADAM20	ADAM metallopeptidase domain 20	HGNC:199	14q24.2
+ADAP1	Approved symbol	ADAP1	ArfGAP with dual PH domains 1	HGNC:16486	7p22.3
+ADAR	Approved symbol	ADAR	adenosine deaminase, RNA-specific	HGNC:225	1q21.3
+ADCK4	Approved symbol	ADCK4	aarF domain containing kinase 4	HGNC:19041	19q13.2
+ADH1A	Approved symbol	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	HGNC:249	4q23
+ADH1B	Approved symbol	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide	HGNC:250	4q23
+ADH1C	Approved symbol	ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide	HGNC:251	4q23
+ADIPOR1	Approved symbol	ADIPOR1	adiponectin receptor 1	HGNC:24040	1q32.1
+ADK	Approved symbol	ADK	adenosine kinase	HGNC:257	10q22.2
+ADO	Approved symbol	ADO	2-aminoethanethiol (cysteamine) dioxygenase	HGNC:23506	10q21.3
+ADORA2A	Approved symbol	ADORA2A	adenosine A2a receptor	HGNC:263	22q11.23
+ADPRHL2	Approved symbol	ADPRHL2	ADP-ribosylhydrolase like 2	HGNC:21304	1p34.3
+ADRA1B	Approved symbol	ADRA1B	adrenoceptor alpha 1B	HGNC:278	5q33.3
+ADRB2	Approved symbol	ADRB2	adrenoceptor beta 2, surface	HGNC:286	5q31-q32
+ADSS	Approved symbol	ADSS	adenylosuccinate synthase	HGNC:292	1q44
+AFAP1L1	Approved symbol	AFAP1L1	actin filament associated protein 1-like 1	HGNC:26714	5q33.1
+AGBL3	Approved symbol	AGBL3	ATP/GTP binding protein-like 3	HGNC:27981	7q33
+AGPAT4	Approved symbol	AGPAT4	1-acylglycerol-3-phosphate O-acyltransferase 4	HGNC:20885	6q25.3
+AGPAT6	Approved symbol	AGPAT6	1-acylglycerol-3-phosphate O-acyltransferase 6	HGNC:20880	8p11.21
+AGPAT9	Approved symbol	AGPAT9	1-acylglycerol-3-phosphate O-acyltransferase 9	HGNC:28157	4q21.23
+AGTRAP	Approved symbol	AGTRAP	angiotensin II receptor-associated protein	HGNC:13539	1p36.22
+AHCTF1	Approved symbol	AHCTF1	AT hook containing transcription factor 1	HGNC:24618	1q44
+AHCYL1	Approved symbol	AHCYL1	adenosylhomocysteinase-like 1	HGNC:344	1p13
+AICDA	Approved symbol	AICDA	activation-induced cytidine deaminase	HGNC:13203	12p13
+AIDA	Approved symbol	AIDA	axin interactor, dorsalization associated	HGNC:25761	1q41
+AK1	Approved symbol	AK1	adenylate kinase 1	HGNC:361	9q34.1
+AK2	Approved symbol	AK2	adenylate kinase 2	HGNC:362	1p35.1
+AK7	Approved symbol	AK7	adenylate kinase 7	HGNC:20091	14q32.31
+AKNA	Approved symbol	AKNA	AT-hook transcription factor	HGNC:24108	9q32
+AKR1A1	Approved symbol	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	HGNC:380	1p33-p32
+AKR1E2	Approved symbol	AKR1E2	aldo-keto reductase family 1, member E2	HGNC:23437	10p15.2
+ALDH16A1	Approved symbol	ALDH16A1	aldehyde dehydrogenase 16 family, member A1	HGNC:28114	19q13.33
+ALDH18A1	Approved symbol	ALDH18A1	aldehyde dehydrogenase 18 family, member A1	HGNC:9722	10q24.1
+ALDH3B1	Approved symbol	ALDH3B1	aldehyde dehydrogenase 3 family, member B1	HGNC:410	11q13
+ALDH9A1	Approved symbol	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	HGNC:412	1q24.1
+ALDOA	Approved symbol	ALDOA	aldolase A, fructose-bisphosphate	HGNC:414	16p11.2
+ALG1	Approved symbol	ALG1	ALG1, chitobiosyldiphosphodolichol beta-mannosyltransferase	HGNC:18294	16p13.3
+ALG2	Approved symbol	ALG2	ALG2, alpha-1,3/1,6-mannosyltransferase	HGNC:23159	9q31.1
+ALG3	Approved symbol	ALG3	ALG3, alpha-1,3- mannosyltransferase	HGNC:23056	3q27.3
+ALKBH1	Approved symbol	ALKBH1	alkB, alkylation repair homolog 1 (E. coli)	HGNC:17911	14q24
+ALKBH3	Approved symbol	ALKBH3	alkB, alkylation repair homolog 3 (E. coli)	HGNC:30141	11p11.2
+ALX1	Approved symbol	ALX1	ALX homeobox 1	HGNC:1494	12q21.31
+AMIGO2	Approved symbol	AMIGO2	adhesion molecule with Ig-like domain 2	HGNC:24073	12q13.11
+AMN	Approved symbol	AMN	amnion associated transmembrane protein	HGNC:14604	14q32.32
+AMN	Synonyms	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	HGNC:61	Xq28
+AMPD1	Approved symbol	AMPD1	adenosine monophosphate deaminase 1	HGNC:468	1p13
+AMPD3	Approved symbol	AMPD3	adenosine monophosphate deaminase 3	HGNC:470	11p15
+ANAPC16	Approved symbol	ANAPC16	anaphase promoting complex subunit 16	HGNC:26976	10q22.2
+ANGEL2	Approved symbol	ANGEL2	angel homolog 2 (Drosophila)	HGNC:30534	1q32.3
+ANGPTL6	Approved symbol	ANGPTL6	angiopoietin-like 6	HGNC:23140	19p13.2
+ANKK1	Approved symbol	ANKK1	ankyrin repeat and kinase domain containing 1	HGNC:21027	11q23.2
+ANKRD13A	Approved symbol	ANKRD13A	ankyrin repeat domain 13A	HGNC:21268	12q24.12
+ANKRD16	Approved symbol	ANKRD16	ankyrin repeat domain 16	HGNC:23471	10p15.1
+ANKRD26	Approved symbol	ANKRD26	ankyrin repeat domain 26	HGNC:29186	10p12.1
+ANKRD42	Approved symbol	ANKRD42	ankyrin repeat domain 42	HGNC:26752	11q14.1
+ANKRD54	Approved symbol	ANKRD54	ankyrin repeat domain 54	HGNC:25185	22q13.1
+ANKS1A	Approved symbol	ANKS1A	ankyrin repeat and sterile alpha motif domain containing 1A	HGNC:20961	6p21.31
+ANP32E	Approved symbol	ANP32E	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	HGNC:16673	1q22
+ANXA1	Approved symbol	ANXA1	annexin A1	HGNC:533	9q21.13
+ANXA10	Approved symbol	ANXA10	annexin A10	HGNC:534	4q32.3
+ANXA11	Approved symbol	ANXA11	annexin A11	HGNC:535	10q22.3
+ANXA2	Approved symbol	ANXA2	annexin A2	HGNC:537	15q22.2
+ANXA2P1	Approved symbol	ANXA2P1	annexin A2 pseudogene 1	HGNC:538	4q31.3
+ANXA2P2	Approved symbol	ANXA2P2	annexin A2 pseudogene 2	HGNC:539	9p13.3
+ANXA7	Approved symbol	ANXA7	annexin A7	HGNC:545	10q22.2
+AP1B1	Approved symbol	AP1B1	adaptor-related protein complex 1, beta 1 subunit	HGNC:554	22q12.2
+AP1M1	Approved symbol	AP1M1	adaptor-related protein complex 1, mu 1 subunit	HGNC:13667	19p13.11
+AP3M1	Approved symbol	AP3M1	adaptor-related protein complex 3, mu 1 subunit	HGNC:569	10q22.2
+APH1A	Approved symbol	APH1A	APH1A gamma secretase subunit	HGNC:29509	1q21.2
+APITD1	Approved symbol	APITD1	apoptosis-inducing, TAF9-like domain 1	HGNC:23163	1p36.22
+APOA1BP	Approved symbol	APOA1BP	apolipoprotein A-I binding protein	HGNC:18453	1q21
+APOBEC3D	Approved symbol	APOBEC3D	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3D	HGNC:17354	22q13.1
+APOBEC3G	Approved symbol	APOBEC3G	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G	HGNC:17357	22q13.1-q13.2
+APOL1	Approved symbol	APOL1	apolipoprotein L, 1	HGNC:618	22q13.1
+APOL2	Approved symbol	APOL2	apolipoprotein L, 2	HGNC:619	22q12.3
+APOL3	Approved symbol	APOL3	apolipoprotein L, 3	HGNC:14868	22q13.1
+APOL6	Approved symbol	APOL6	apolipoprotein L, 6	HGNC:14870	22q12.3
+AQP7	Approved symbol	AQP7	aquaporin 7	HGNC:640	9p13
+ARAP1	Approved symbol	ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	HGNC:16925	11q13.3
+ARF1	Approved symbol	ARF1	ADP-ribosylation factor 1	HGNC:652	1q42.13
+ARFGAP2	Approved symbol	ARFGAP2	ADP-ribosylation factor GTPase activating protein 2	HGNC:13504	11p11.2-p11.12
+ARFGEF1	Approved symbol	ARFGEF1	ADP-ribosylation factor guanine nucleotide-exchange factor 1 (brefeldin A-inhibited)	HGNC:15772	8q13
+ARHGAP12	Approved symbol	ARHGAP12	Rho GTPase activating protein 12	HGNC:16348	10p11.22
+ARHGAP21	Approved symbol	ARHGAP21	Rho GTPase activating protein 21	HGNC:23725	10p12.31
+ARHGAP23	Approved symbol	ARHGAP23	Rho GTPase activating protein 23	HGNC:29293	17q12
+ARHGAP9	Approved symbol	ARHGAP9	Rho GTPase activating protein 9	HGNC:14130	12q13.3
+ARHGEF11	Approved symbol	ARHGEF11	Rho guanine nucleotide exchange factor (GEF) 11	HGNC:14580	1q21
+ARHGEF2	Approved symbol	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	HGNC:682	1q21-q22
+ARID4B	Approved symbol	ARID4B	AT rich interactive domain 4B (RBP1-like)	HGNC:15550	1q42.3
+ARID5B	Approved symbol	ARID5B	AT rich interactive domain 5B (MRF1-like)	HGNC:17362	10q11.22
+ARL2	Approved symbol	ARL2	ADP-ribosylation factor-like 2	HGNC:693	11q13
+ARL3	Approved symbol	ARL3	ADP-ribosylation factor-like 3	HGNC:694	10q23.3
+ARL5B	Approved symbol	ARL5B	ADP-ribosylation factor-like 5B	HGNC:23052	10p13
+ARL8A	Approved symbol	ARL8A	ADP-ribosylation factor-like 8A	HGNC:25192	1q32.1
+ARMC2	Approved symbol	ARMC2	armadillo repeat containing 2	HGNC:23045	6q21
+ARMC4	Approved symbol	ARMC4	armadillo repeat containing 4	HGNC:25583	10p12.1
+ARMC5	Approved symbol	ARMC5	armadillo repeat containing 5	HGNC:25781	16p11
+ARMC7	Approved symbol	ARMC7	armadillo repeat containing 7	HGNC:26168	17q25
+ARMCX5	Approved symbol	ARMCX5	armadillo repeat containing, X-linked 5	HGNC:25772	Xq22.1-q22.3
+ARNT	Approved symbol	ARNT	aryl hydrocarbon receptor nuclear translocator	HGNC:700	1q21
+ARNTL2	Approved symbol	ARNTL2	aryl hydrocarbon receptor nuclear translocator-like 2	HGNC:18984	12p12.2-p11.2
+ARPC1A	Approved symbol	ARPC1A	actin related protein 2/3 complex, subunit 1A, 41kDa	HGNC:703	7q22.1
+ARPC1B	Approved symbol	ARPC1B	actin related protein 2/3 complex, subunit 1B, 41kDa	HGNC:704	7q22.1
+ARPC2	Approved symbol	ARPC2	actin related protein 2/3 complex, subunit 2, 34kDa	HGNC:705	2q36.1
+ARPC5	Approved symbol	ARPC5	actin related protein 2/3 complex, subunit 5, 16kDa	HGNC:708	1q
+ARRB2	Approved symbol	ARRB2	arrestin, beta 2	HGNC:712	17p13
+ARSG	Approved symbol	ARSG	arylsulfatase G	HGNC:24102	17q24.2
+ARV1	Approved symbol	ARV1	ARV1 homolog (S. cerevisiae)	HGNC:29561	1q42.2
+ASAH2	Approved symbol	ASAH2	N-acylsphingosine amidohydrolase (non-lysosomal ceramidase) 2	HGNC:18860	10q11.23
+ASAH2B	Approved symbol	ASAH2B	N-acylsphingosine amidohydrolase (non-lysosomal ceramidase) 2B	HGNC:23456	10q11.23
+ASAP2	Approved symbol	ASAP2	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2	HGNC:2721	2p24
+ASB1	Approved symbol	ASB1	ankyrin repeat and SOCS box containing 1	HGNC:16011	2q37
+ASB13	Approved symbol	ASB13	ankyrin repeat and SOCS box containing 13	HGNC:19765	10p15.1
+ASB16	Approved symbol	ASB16	ankyrin repeat and SOCS box containing 16	HGNC:19768	17q21.31
+ASB2	Approved symbol	ASB2	ankyrin repeat and SOCS box containing 2	HGNC:16012	14q31-q32
+ASCC1	Approved symbol	ASCC1	activating signal cointegrator 1 complex subunit 1	HGNC:24268	10q22.1
+ASGR2	Approved symbol	ASGR2	asialoglycoprotein receptor 2	HGNC:743	17p
+ASH1L	Approved symbol	ASH1L	ash1 (absent, small, or homeotic)-like (Drosophila)	HGNC:19088	1q22
+ASH2L	Approved symbol	ASH2L	ash2 (absent, small, or homeotic)-like (Drosophila)	HGNC:744	8p11.2
+ASPG	Approved symbol	ASPG	asparaginase	HGNC:20123	14q32.33
+ASPM	Approved symbol	ASPM	asp (abnormal spindle) homolog, microcephaly associated (Drosophila)	HGNC:19048	1q31
+ASTE1	Approved symbol	ASTE1	asteroid homolog 1 (Drosophila)	HGNC:25021	3q21.3
+ATAD1	Approved symbol	ATAD1	ATPase family, AAA domain containing 1	HGNC:25903	10q23.31
+ATE1	Approved symbol	ATE1	arginyltransferase 1	HGNC:782	10q26
+ATF6	Approved symbol	ATF6	activating transcription factor 6	HGNC:791	1q23.3
+ATG7	Approved symbol	ATG7	autophagy related 7	HGNC:16935	3p25.3-p25.2
+ATG9A	Approved symbol	ATG9A	autophagy related 9A	HGNC:22408	2q35
+ATOH7	Approved symbol	ATOH7	atonal homolog 7 (Drosophila)	HGNC:13907	10q22.2
+ATOX1	Approved symbol	ATOX1	antioxidant 1 copper chaperone	HGNC:798	5q32
+ATP1B1	Approved symbol	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	HGNC:804	1q24.2
+ATP2B2	Approved symbol	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	HGNC:815	3p25.3
+ATP2B2	Previous symbol	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4	HGNC:817	1q32.1
+ATP2B4	Approved symbol	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4	HGNC:817	1q32.1
+ATP5C1	Approved symbol	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	HGNC:833	10p14
+ATP6V0D1	Approved symbol	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1	HGNC:13724	16q22
+ATP6V1B2	Approved symbol	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2	HGNC:854	8p21.3
+ATP6V1C1	Approved symbol	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	HGNC:856	8p22.3
+ATP6V1F	Approved symbol	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F	HGNC:16832	7q32.1
+ATP6V1H	Approved symbol	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	HGNC:18303	8q11.2
+ATRNL1	Approved symbol	ATRNL1	attractin-like 1	HGNC:29063	10q26
+ATRX	Approved symbol	ATRX	alpha thalassemia/mental retardation syndrome X-linked	HGNC:886	Xq21.1
+ATXN2	Approved symbol	ATXN2	ataxin 2	HGNC:10555	12q23-q24.1
+AURKAPS1	Approved symbol	AURKAPS1	aurora kinase A pseudogene 1	HGNC:18611	1q41
+AVPI1	Approved symbol	AVPI1	arginine vasopressin-induced 1	HGNC:30898	10q24.2
+AVPR1B	Approved symbol	AVPR1B	arginine vasopressin receptor 1B	HGNC:896	1q32
+AZU1	Approved symbol	AZU1	azurocidin 1	HGNC:913	19p13.3
+B3GALNT2	Approved symbol	B3GALNT2	beta-1,3-N-acetylgalactosaminyltransferase 2	HGNC:28596	1q42.3
+B3GALT2	Approved symbol	B3GALT2	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 2	HGNC:917	1q31
+B3GALT4	Approved symbol	B3GALT4	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 4	HGNC:919	6p21.3
+B3GNT2	Approved symbol	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	HGNC:15629	2p15
+B3GNT7	Approved symbol	B3GNT7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	HGNC:18811	2q36.1
+B4GALT3	Approved symbol	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	HGNC:926	1q23.3
+B9D1	Approved symbol	B9D1	B9 protein domain 1	HGNC:24123	17p11.2
+B9D2	Approved symbol	B9D2	B9 protein domain 2	HGNC:28636	19q13.2
+BAALC	Approved symbol	BAALC	brain and acute leukemia, cytoplasmic	HGNC:14333	8q22.3
+BAG3	Approved symbol	BAG3	BCL2-associated athanogene 3	HGNC:939	10q25.2-q26.2
+BAIAP2	Approved symbol	BAIAP2	BAI1-associated protein 2	HGNC:947	17q25.3
+BAIAP2L1	Approved symbol	BAIAP2L1	BAI1-associated protein 2-like 1	HGNC:21649	7q22.1
+BATF2	Approved symbol	BATF2	basic leucine zipper transcription factor, ATF-like 2	HGNC:25163	11q13.1
+BAZ1B	Approved symbol	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	HGNC:961	7q11.23
+BBS1	Approved symbol	BBS1	Bardet-Biedl syndrome 1	HGNC:966	11q13
+BBS12	Approved symbol	BBS12	Bardet-Biedl syndrome 12	HGNC:26648	4q27
+BCAR1	Approved symbol	BCAR1	breast cancer anti-estrogen resistance 1	HGNC:971	16q23.1
+BCCIP	Approved symbol	BCCIP	BRCA2 and CDKN1A interacting protein	HGNC:978	10q26.2
+BCL2A1	Approved symbol	BCL2A1	BCL2-related protein A1	HGNC:991	15q24.3
+BCL2L1	Approved symbol	BCL2L1	BCL2-like 1	HGNC:992	20q11.21
+BCL2L12	Approved symbol	BCL2L12	BCL2-like 12 (proline rich)	HGNC:13787	19q13.3
+BCL7B	Approved symbol	BCL7B	B-cell CLL/lymphoma 7B	HGNC:1005	7q11.23
+BCL9	Approved symbol	BCL9	B-cell CLL/lymphoma 9	HGNC:1008	1q21
+BCL9L	Approved symbol	BCL9L	B-cell CLL/lymphoma 9-like	HGNC:23688	11q23.3
+BCO2	Approved symbol	BCO2	beta-carotene oxygenase 2	HGNC:18503	11q23.1
+BEND7	Approved symbol	BEND7	BEN domain containing 7	HGNC:23514	10p14
+BEST1	Approved symbol	BEST1	bestrophin 1	HGNC:12703	11q12
+BIN3	Approved symbol	BIN3	bridging integrator 3	HGNC:1054	8p21.2
+BLCAP	Approved symbol	BLCAP	bladder cancer associated protein	HGNC:1055	20q11.23
+BLNK	Approved symbol	BLNK	B-cell linker	HGNC:14211	10q23.2-q23.33
+BLOC1S2	Approved symbol	BLOC1S2	biogenesis of lysosomal organelles complex-1, subunit 2	HGNC:20984	10q24.31
+BLZF1	Approved symbol	BLZF1	basic leucine zipper nuclear factor 1	HGNC:1065	1q24
+BMPR1A	Approved symbol	BMPR1A	bone morphogenetic protein receptor, type IA	HGNC:1076	10q22.3
+BMS1	Approved symbol	BMS1	BMS1 ribosome biogenesis factor	HGNC:23505	10q11.21
+BNIP3L	Approved symbol	BNIP3L	BCL2/adenovirus E1B 19kDa interacting protein 3-like	HGNC:1085	8p21
+BNIPL	Approved symbol	BNIPL	BCL2/adenovirus E1B 19kD interacting protein like	HGNC:16976	1q21.2
+BOLA1	Approved symbol	BOLA1	bolA family member 1	HGNC:24263	1q21
+BPNT1	Approved symbol	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1	HGNC:1096	1q42
+BRAP	Approved symbol	BRAP	BRCA1 associated protein	HGNC:1099	12q24.12
+BRAP	Synonyms	C6orf89	chromosome 6 open reading frame 89	HGNC:21114	6p21.31
+BRF2	Approved symbol	BRF2	BRF2, RNA polymerase III transcription initiation factor 50 kDa subunit	HGNC:17298	8p11.23
+BRF2	Previous symbol	ZFP36L2	ZFP36 ring finger protein-like 2	HGNC:1108	2p22.3-p21
+BRI3	Approved symbol	BRI3	brain protein I3	HGNC:1109	7q21.3
+BRI3	Synonyms	ITM2C	integral membrane protein 2C	HGNC:6175	2q37
+BRMS1	Approved symbol	BRMS1	breast cancer metastasis suppressor 1	HGNC:17262	11q13.2
+BRMS1	Previous symbol	BRMS1L	breast cancer metastasis-suppressor 1-like	HGNC:20512	14q13.1
+BTAF1	Approved symbol	BTAF1	BTAF1 RNA polymerase II, B-TFIID transcription factor-associated, 170kDa	HGNC:17307	10q22-q23
+BTBD16	Approved symbol	BTBD16	BTB (POZ) domain containing 16	HGNC:26340	10q26.13
+BTBD3	Approved symbol	BTBD3	BTB (POZ) domain containing 3	HGNC:15854	20p12.2
+BTBD9	Approved symbol	BTBD9	BTB (POZ) domain containing 9	HGNC:21228	6p21
+BTG2	Approved symbol	BTG2	BTG family, member 2	HGNC:1131	1q32
+BTRC	Approved symbol	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase	HGNC:1144	10q24.32
+BUB3	Approved symbol	BUB3	BUB3 mitotic checkpoint protein	HGNC:1151	10q24
+C10orf111	Approved symbol	C10orf111	chromosome 10 open reading frame 111	HGNC:28582	10p13
+C10orf12	Approved symbol	C10orf12	chromosome 10 open reading frame 12	HGNC:23420	10q24.2
+C10orf2	Approved symbol	C10orf2	chromosome 10 open reading frame 2	HGNC:1160	10q24
+C10orf25	Approved symbol	C10orf25	chromosome 10 open reading frame 25	HGNC:23509	10q11.21
+C10orf32	Approved symbol	C10orf32	chromosome 10 open reading frame 32	HGNC:23516	10q24.33
+C10orf35	Approved symbol	C10orf35	chromosome 10 open reading frame 35	HGNC:23519	10q22.2
+C10orf76	Approved symbol	C10orf76	chromosome 10 open reading frame 76	HGNC:25788	10q24.32
+C10orf82	Approved symbol	C10orf82	chromosome 10 open reading frame 82	HGNC:28500	10q26.12
+C10orf88	Approved symbol	C10orf88	chromosome 10 open reading frame 88	HGNC:25822	10q26.13
+C11orf16	Approved symbol	C11orf16	chromosome 11 open reading frame 16	HGNC:1169	11p15.3
+C11orf49	Approved symbol	C11orf49	chromosome 11 open reading frame 49	HGNC:28720	11p11.2
+C11orf63	Approved symbol	C11orf63	chromosome 11 open reading frame 63	HGNC:26288	11q24.1
+C11orf88	Approved symbol	C11orf88	chromosome 11 open reading frame 88	HGNC:25061	11q23.1
+C12orf10	Approved symbol	C12orf10	chromosome 12 open reading frame 10	HGNC:17590	12q13.13
+C12orf43	Approved symbol	C12orf43	chromosome 12 open reading frame 43	HGNC:25719	12q24.31
+C12orf76	Approved symbol	C12orf76	chromosome 12 open reading frame 76	HGNC:33790	12q24.11
+C14orf105	Approved symbol	C14orf105	chromosome 14 open reading frame 105	HGNC:20189	14q22.2
+C14orf132	Approved symbol	C14orf132	chromosome 14 open reading frame 132	HGNC:20346	14q32.2
+C14orf80	Approved symbol	C14orf80	chromosome 14 open reading frame 80	HGNC:20127	14q32.33
+C15orf26	Approved symbol	C15orf26	chromosome 15 open reading frame 26	HGNC:26782	15q25.1
+C15orf39	Approved symbol	C15orf39	chromosome 15 open reading frame 39	HGNC:24497	15q23
+C15orf62	Approved symbol	C15orf62	chromosome 15 open reading frame 62	HGNC:34489	15q15.1
+C16orf46	Approved symbol	C16orf46	chromosome 16 open reading frame 46	HGNC:26525	16q23.2
+C16orf54	Approved symbol	C16orf54	chromosome 16 open reading frame 54	HGNC:26649	16p11.2
+C16orf70	Approved symbol	C16orf70	chromosome 16 open reading frame 70	HGNC:29564	16q22.1
+C16orf74	Approved symbol	C16orf74	chromosome 16 open reading frame 74	HGNC:23362	16q24.1
+C16orf86	Approved symbol	C16orf86	chromosome 16 open reading frame 86	HGNC:33755	16q22.1
+C17orf49	Approved symbol	C17orf49	chromosome 17 open reading frame 49	HGNC:28737	17p13.1
+C17orf80	Approved symbol	C17orf80	chromosome 17 open reading frame 80	HGNC:29601	17q25.1
+C19orf18	Approved symbol	C19orf18	chromosome 19 open reading frame 18	HGNC:28642	19q13.43
+C19orf25	Approved symbol	C19orf25	chromosome 19 open reading frame 25	HGNC:26711	19p13.3
+C19orf35	Approved symbol	C19orf35	chromosome 19 open reading frame 35	HGNC:24793	19p13.3
+C19orf44	Approved symbol	C19orf44	chromosome 19 open reading frame 44	HGNC:26141	19p13.11
+C19orf47	Approved symbol	C19orf47	chromosome 19 open reading frame 47	HGNC:26723	19q13.2
+C1GALT1	Approved symbol	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1	HGNC:24337	7p21.3
+C1QA	Approved symbol	C1QA	complement component 1, q subcomponent, A chain	HGNC:1241	1p36.3-p34.1
+C1orf101	Approved symbol	C1orf101	chromosome 1 open reading frame 101	HGNC:28491	1q44
+C1orf112	Approved symbol	C1orf112	chromosome 1 open reading frame 112	HGNC:25565	1q24.2
+C1orf115	Approved symbol	C1orf115	chromosome 1 open reading frame 115	HGNC:25873	1q41
+C1orf131	Approved symbol	C1orf131	chromosome 1 open reading frame 131	HGNC:25332	1q42.2
+C1orf158	Approved symbol	C1orf158	chromosome 1 open reading frame 158	HGNC:28567	1p36.21
+C1orf162	Approved symbol	C1orf162	chromosome 1 open reading frame 162	HGNC:28344	1p13.2
+C1orf198	Approved symbol	C1orf198	chromosome 1 open reading frame 198	HGNC:25900	1q42.2
+C1orf204	Approved symbol	C1orf204	chromosome 1 open reading frame 204	HGNC:27647	1q23.1
+C1orf226	Approved symbol	C1orf226	chromosome 1 open reading frame 226	HGNC:34351	1q23.3
+C1orf27	Approved symbol	C1orf27	chromosome 1 open reading frame 27	HGNC:24299	1q25
+C1orf35	Approved symbol	C1orf35	chromosome 1 open reading frame 35	HGNC:19032	1q42.13
+C1orf43	Approved symbol	C1orf43	chromosome 1 open reading frame 43	HGNC:29876	1q21.2
+C1orf53	Approved symbol	C1orf53	chromosome 1 open reading frame 53	HGNC:30003	1q31.3
+C1orf56	Approved symbol	C1orf56	chromosome 1 open reading frame 56	HGNC:26045	1q21.2
+C1orf74	Approved symbol	C1orf74	chromosome 1 open reading frame 74	HGNC:26319	1q32.2
+C22orf23	Approved symbol	C22orf23	chromosome 22 open reading frame 23	HGNC:18589	22q13.1
+C2CD3	Approved symbol	C2CD3	C2 calcium-dependent domain containing 3	HGNC:24564	11q13.4
+C2CD4D	Approved symbol	C2CD4D	C2 calcium-dependent domain containing 4D	HGNC:37210	1q21.3
+C2orf54	Approved symbol	C2orf54	chromosome 2 open reading frame 54	HGNC:26216	2q37.3
+C4BPA	Approved symbol	C4BPA	complement component 4 binding protein, alpha	HGNC:1325	1q32
+C5AR1	Approved symbol	C5AR1	complement component 5a receptor 1	HGNC:1338	19q13.3-q13.4
+C5orf49	Approved symbol	C5orf49	chromosome 5 open reading frame 49	HGNC:27028	5p15.31
+C5orf56	Approved symbol	C5orf56	chromosome 5 open reading frame 56	HGNC:33838	5q31.1
+C6orf132	Approved symbol	C6orf132	chromosome 6 open reading frame 132	HGNC:21288	6p21.1
+C6orf47	Approved symbol	C6orf47	chromosome 6 open reading frame 47	HGNC:19076	6p21.3
+C7orf26	Approved symbol	C7orf26	chromosome 7 open reading frame 26	HGNC:21702	7p22.1
+C7orf43	Approved symbol	C7orf43	chromosome 7 open reading frame 43	HGNC:25604	7q22.1
+C7orf49	Approved symbol	C7orf49	chromosome 7 open reading frame 49	HGNC:22432	7q33
+C7orf50	Approved symbol	C7orf50	chromosome 7 open reading frame 50	HGNC:22421	7p22.3
+C8A	Approved symbol	C8A	complement component 8, alpha polypeptide	HGNC:1352	1p32.2
+C8orf34	Approved symbol	C8orf34	chromosome 8 open reading frame 34	HGNC:30905	8q13
+C8orf76	Approved symbol	C8orf76	chromosome 8 open reading frame 76	HGNC:25924	8q24.13
+C9orf114	Approved symbol	C9orf114	chromosome 9 open reading frame 114	HGNC:26933	9q34.11
+C9orf116	Approved symbol	C9orf116	chromosome 9 open reading frame 116	HGNC:28435	9q34.3
+C9orf117	Approved symbol	C9orf117	chromosome 9 open reading frame 117	HGNC:27843	9q34.11
+C9orf156	Approved symbol	C9orf156	chromosome 9 open reading frame 156	HGNC:30967	9q31.1
+C9orf171	Approved symbol	C9orf171	chromosome 9 open reading frame 171	HGNC:33776	9q34.13
+C9orf24	Approved symbol	C9orf24	chromosome 9 open reading frame 24	HGNC:19919	9p11.2
+C9orf47	Approved symbol	C9orf47	chromosome 9 open reading frame 47	HGNC:23669	9q22.1
+C9orf50	Approved symbol	C9orf50	chromosome 9 open reading frame 50	HGNC:23677	9q34.2
+C9orf69	Approved symbol	C9orf69	chromosome 9 open reading frame 69	HGNC:31009	9q34.3
+C9orf9	Approved symbol	C9orf9	chromosome 9 open reading frame 9	HGNC:1367	9q34.13
+CABIN1	Approved symbol	CABIN1	calcineurin binding protein 1	HGNC:24187	22q11.23
+CACNG1	Approved symbol	CACNG1	calcium channel, voltage-dependent, gamma subunit 1	HGNC:1405	17q24
+CACYBP	Approved symbol	CACYBP	calcyclin binding protein	HGNC:30423	1q24-q25
+CALB1	Approved symbol	CALB1	calbindin 1, 28kDa	HGNC:1434	8q21.3
+CALM3	Approved symbol	CALM3	calmodulin 3 (phosphorylase kinase, delta)	HGNC:1449	19q13.2-q13.3
+CAMK2G	Approved symbol	CAMK2G	calcium/calmodulin-dependent protein kinase II gamma	HGNC:1463	10q22
+CAPG	Approved symbol	CAPG	capping protein (actin filament), gelsolin-like	HGNC:1474	2p11.2
+CAPN1	Approved symbol	CAPN1	calpain 1, (mu/I) large subunit	HGNC:1476	11q13
+CAPNS1	Approved symbol	CAPNS1	calpain, small subunit 1	HGNC:1481	19q13.1
+CAPZB	Approved symbol	CAPZB	capping protein (actin filament) muscle Z-line, beta	HGNC:1491	1p36.1
+CASC1	Approved symbol	CASC1	cancer susceptibility candidate 1	HGNC:29599	12p12.1
+CASC2	Approved symbol	CASC2	cancer susceptibility candidate 2 (non-protein coding)	HGNC:22933	10q26.12
+CASP1	Approved symbol	CASP1	caspase 1, apoptosis-related cysteine peptidase	HGNC:1499	11q23
+CAST	Approved symbol	CAST	calpastatin	HGNC:1515	5q15
+CAST	Synonyms	CD3EAP	CD3e molecule, epsilon associated protein	HGNC:24219	19q13.3
+CAST	Synonyms	ERC2	ELKS/RAB6-interacting/CAST family member 2	HGNC:31922	3p14.3
+CC2D2A	Approved symbol	CC2D2A	coiled-coil and C2 domain containing 2A	HGNC:29253	4p15.33
+CCAR1	Approved symbol	CCAR1	cell division cycle and apoptosis regulator 1	HGNC:24236	10q22.1
+CCDC102A	Approved symbol	CCDC102A	coiled-coil domain containing 102A	HGNC:28097	16q13
+CCDC103	Approved symbol	CCDC103	coiled-coil domain containing 103	HGNC:32700	17q21.31
+CCDC113	Approved symbol	CCDC113	coiled-coil domain containing 113	HGNC:25002	16q21
+CCDC114	Approved symbol	CCDC114	coiled-coil domain containing 114	HGNC:26560	19q13.32
+CCDC13	Approved symbol	CCDC13	coiled-coil domain containing 13	HGNC:26358	3p22.1
+CCDC137	Approved symbol	CCDC137	coiled-coil domain containing 137	HGNC:33451	17q25.3
+CCDC153	Approved symbol	CCDC153	coiled-coil domain containing 153	HGNC:27446	11q23.3
+CCDC25	Approved symbol	CCDC25	coiled-coil domain containing 25	HGNC:25591	8p21.1
+CCDC33	Approved symbol	CCDC33	coiled-coil domain containing 33	HGNC:26552	15q24.1
+CCDC40	Approved symbol	CCDC40	coiled-coil domain containing 40	HGNC:26090	17q25.3
+CCDC42B	Approved symbol	CCDC42B	coiled-coil domain containing 42B	HGNC:37100	12q24.13
+CCDC57	Approved symbol	CCDC57	coiled-coil domain containing 57	HGNC:27564	17q25.3
+CCDC6	Approved symbol	CCDC6	coiled-coil domain containing 6	HGNC:18782	10q21.2
+CCDC60	Approved symbol	CCDC60	coiled-coil domain containing 60	HGNC:28610	12q24.23
+CCDC65	Approved symbol	CCDC65	coiled-coil domain containing 65	HGNC:29937	12q13.12
+CCDC69	Approved symbol	CCDC69	coiled-coil domain containing 69	HGNC:24487	5q33.1
+CCDC71	Approved symbol	CCDC71	coiled-coil domain containing 71	HGNC:25760	3p21.31
+CCDC8	Approved symbol	CCDC8	coiled-coil domain containing 8	HGNC:25367	19q13.33
+CCDC89	Approved symbol	CCDC89	coiled-coil domain containing 89	HGNC:26762	11q14.1
+CCDC93	Approved symbol	CCDC93	coiled-coil domain containing 93	HGNC:25611	2q14.1
+CCDC96	Approved symbol	CCDC96	coiled-coil domain containing 96	HGNC:26900	4p16.1
+CCL17	Approved symbol	CCL17	chemokine (C-C motif) ligand 17	HGNC:10615	16q13
+CCL23	Approved symbol	CCL23	chemokine (C-C motif) ligand 23	HGNC:10622	17q12
+CCL5	Approved symbol	CCL5	chemokine (C-C motif) ligand 5	HGNC:10632	17q12
+CCM2	Approved symbol	CCM2	cerebral cavernous malformation 2	HGNC:21708	7p13
+CCNA1	Approved symbol	CCNA1	cyclin A1	HGNC:1577	13q12.3-q13
+CCND3	Approved symbol	CCND3	cyclin D3	HGNC:1585	6p21
+CCNJ	Approved symbol	CCNJ	cyclin J	HGNC:23434	10q23.33
+CCNY	Approved symbol	CCNY	cyclin Y	HGNC:23354	10p11.22
+CCR7	Approved symbol	CCR7	chemokine (C-C motif) receptor 7	HGNC:1608	17q12-q21.2
+CCRL2	Approved symbol	CCRL2	chemokine (C-C motif) receptor-like 2	HGNC:1612	3p21
+CCT3	Approved symbol	CCT3	chaperonin containing TCP1, subunit 3 (gamma)	HGNC:1616	1q23
+CD160	Approved symbol	CD160	CD160 molecule	HGNC:17013	1q21.2
+CD2	Approved symbol	CD2	CD2 molecule	HGNC:1639	1p13
+CD22	Approved symbol	CD22	CD22 molecule	HGNC:1643	19q13.1
+CD300A	Approved symbol	CD300A	CD300a molecule	HGNC:19319	17q25.2
+CD37	Approved symbol	CD37	CD37 molecule	HGNC:1666	19p13-q13.4
+CD38	Approved symbol	CD38	CD38 molecule	HGNC:1667	4p15.32
+CD46	Approved symbol	CD46	CD46 molecule, complement regulatory protein	HGNC:6953	1q32
+CD52	Approved symbol	CD52	CD52 molecule	HGNC:1804	1p36
+CD53	Approved symbol	CD53	CD53 molecule	HGNC:1686	1p13
+CD59	Approved symbol	CD59	CD59 molecule, complement regulatory protein	HGNC:1689	11p13
+CD6	Approved symbol	CD6	CD6 molecule	HGNC:1691	11q12.2
+CD70	Approved symbol	CD70	CD70 molecule	HGNC:11937	19p13
+CD74	Approved symbol	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	HGNC:1697	5q32
+CD79A	Approved symbol	CD79A	CD79a molecule, immunoglobulin-associated alpha	HGNC:1698	19q13.2
+CD82	Approved symbol	CD82	CD82 molecule	HGNC:6210	11p11.2
+CD93	Approved symbol	CD93	CD93 molecule	HGNC:15855	20p11.21
+CD97	Previous symbol	ADGRE5	adhesion G protein-coupled receptor E5	HGNC:1711	19p13.12
+CDC123	Approved symbol	CDC123	cell division cycle 123	HGNC:16827	10p13
+CDC20	Approved symbol	CDC20	cell division cycle 20	HGNC:1723	1p34.1
+CDC25B	Approved symbol	CDC25B	cell division cycle 25B	HGNC:1726	20p13
+CDC42BPA	Approved symbol	CDC42BPA	CDC42 binding protein kinase alpha (DMPK-like)	HGNC:1737	1q42.11
+CDC42SE1	Approved symbol	CDC42SE1	CDC42 small effector 1	HGNC:17719	1q21.1
+CDC73	Approved symbol	CDC73	cell division cycle 73	HGNC:16783	1q25
+CDH16	Approved symbol	CDH16	cadherin 16, KSP-cadherin	HGNC:1755	16q22.1
+CDH26	Approved symbol	CDH26	cadherin 26	HGNC:15902	20q13.33
+CDHR2	Approved symbol	CDHR2	cadherin-related family member 2	HGNC:18231	5q35.2
+CDK1	Approved symbol	CDK1	cyclin-dependent kinase 1	HGNC:1722	10q21.2
+CDK20	Approved symbol	CDK20	cyclin-dependent kinase 20	HGNC:21420	9q22.1
+CDK2AP2	Approved symbol	CDK2AP2	cyclin-dependent kinase 2 associated protein 2	HGNC:30833	11q13
+CDK5	Approved symbol	CDK5	cyclin-dependent kinase 5	HGNC:1774	7q36
+CDK9	Approved symbol	CDK9	cyclin-dependent kinase 9	HGNC:1780	9q34.1
+CDKN1A	Approved symbol	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	HGNC:1784	6p21.1
+CDKN2A	Approved symbol	CDKN2A	cyclin-dependent kinase inhibitor 2A	HGNC:1787	9p21
+CDKN2D	Approved symbol	CDKN2D	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	HGNC:1790	19p13
+CDNF	Approved symbol	CDNF	cerebral dopamine neurotrophic factor	HGNC:24913	10p13
+CDR2L	Approved symbol	CDR2L	cerebellar degeneration-related protein 2-like	HGNC:29999	17q25.1
+CEACAM3	Approved symbol	CEACAM3	carcinoembryonic antigen-related cell adhesion molecule 3	HGNC:1815	19q13.2
+CELA3B	Approved symbol	CELA3B	chymotrypsin-like elastase family, member 3B	HGNC:15945	1p36.12
+CENPF	Approved symbol	CENPF	centromere protein F, 350/400kDa	HGNC:1857	1q41
+CENPL	Approved symbol	CENPL	centromere protein L	HGNC:17879	1q25.1
+CENPM	Approved symbol	CENPM	centromere protein M	HGNC:18352	22q13.2
+CEP170	Approved symbol	CEP170	centrosomal protein 170kDa	HGNC:28920	1q44
+CEP250	Approved symbol	CEP250	centrosomal protein 250kDa	HGNC:1859	20q11.22
+CEP350	Approved symbol	CEP350	centrosomal protein 350kDa	HGNC:24238	1q25.2
+CEP55	Approved symbol	CEP55	centrosomal protein 55kDa	HGNC:1161	10q24.1
+CES2	Approved symbol	CES2	carboxylesterase 2	HGNC:1864	16q22.1
+CES2	Synonyms	CES1	carboxylesterase 1	HGNC:1863	16q22.2
+CFDP1	Approved symbol	CFDP1	craniofacial development protein 1	HGNC:1873	16q22.2-q22.3
+CFHR5	Approved symbol	CFHR5	complement factor H-related 5	HGNC:24668	1q31.3
+CFL1	Approved symbol	CFL1	cofilin 1 (non-muscle)	HGNC:1874	11q13.1
+CFLAR	Approved symbol	CFLAR	CASP8 and FADD-like apoptosis regulator	HGNC:1876	2q33-q34
+CHCHD1	Approved symbol	CHCHD1	coiled-coil-helix-coiled-coil-helix domain containing 1	HGNC:23518	10q22.3
+CHCHD6	Approved symbol	CHCHD6	coiled-coil-helix-coiled-coil-helix domain containing 6	HGNC:28184	3q21.3
+CHCHD7	Approved symbol	CHCHD7	coiled-coil-helix-coiled-coil-helix domain containing 7	HGNC:28314	8q11.23
+CHD1L	Approved symbol	CHD1L	chromodomain helicase DNA binding protein 1-like	HGNC:1916	1q21.1
+CHIT1	Approved symbol	CHIT1	chitinase 1 (chitotriosidase)	HGNC:1936	1q32.1
+CHML	Approved symbol	CHML	choroideremia-like (Rab escort protein 2)	HGNC:1941	1q43
+CHMP4A	Approved symbol	CHMP4A	charged multivesicular body protein 4A	HGNC:20274	14q12
+CHMP7	Approved symbol	CHMP7	charged multivesicular body protein 7	HGNC:28439	8p21.2
+CHST13	Approved symbol	CHST13	carbohydrate (chondroitin 4) sulfotransferase 13	HGNC:21755	3q21.3
+CHST4	Approved symbol	CHST4	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 4	HGNC:1972	16q22.2
+CHST5	Approved symbol	CHST5	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 5	HGNC:1973	16q23.1
+CHST6	Approved symbol	CHST6	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 6	HGNC:6938	16q22
+CHUK	Approved symbol	CHUK	conserved helix-loop-helix ubiquitous kinase	HGNC:1974	10q24-q25
+CIAPIN1	Approved symbol	CIAPIN1	cytokine induced apoptosis inhibitor 1	HGNC:28050	16q21
+CIB1	Approved symbol	CIB1	calcium and integrin binding 1 (calmyrin)	HGNC:16920	15q25.3-q26
+CIITA	Approved symbol	CIITA	class II, major histocompatibility complex, transactivator	HGNC:7067	16p13
+CISD1	Approved symbol	CISD1	CDGSH iron sulfur domain 1	HGNC:30880	10q21.3
+CITED2	Approved symbol	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	HGNC:1987	6q23.3
+CKM	Approved symbol	CKM	creatine kinase, muscle	HGNC:1994	19q13.32
+CLASP1	Approved symbol	CLASP1	cytoplasmic linker associated protein 1	HGNC:17088	2q14.2-q14.3
+CLDN1	Approved symbol	CLDN1	claudin 1	HGNC:2032	3q28-q29
+CLDN10	Approved symbol	CLDN10	claudin 10	HGNC:2033	13q31-q34
+CLDN15	Approved symbol	CLDN15	claudin 15	HGNC:2036	7q22
+CLDN16	Approved symbol	CLDN16	claudin 16	HGNC:2037	3q28
+CLDN5	Approved symbol	CLDN5	claudin 5	HGNC:2047	22q11.21
+CLEC10A	Approved symbol	CLEC10A	C-type lectin domain family 10, member A	HGNC:16916	17p13.2
+CLIC1	Approved symbol	CLIC1	chloride intracellular channel 1	HGNC:2062	6p21.3
+CLIP4	Approved symbol	CLIP4	CAP-GLY domain containing linker protein family, member 4	HGNC:26108	2p23
+CLIP4	Synonyms	UBASH3A	ubiquitin associated and SH3 domain containing A	HGNC:12462	21q22.3
+CLK2	Approved symbol	CLK2	CDC-like kinase 2	HGNC:2069	1q21
+CLK2	Synonyms	CLK2	CDC-like kinase 2	HGNC:2069	1q21
+CLN8	Approved symbol	CLN8	ceroid-lipofuscinosis, neuronal 8 (epilepsy, progressive with mental retardation)	HGNC:2079	8p23.3
+CLP1	Approved symbol	CLP1	cleavage and polyadenylation factor I subunit 1	HGNC:16999	11q12.1
+CMPK2	Approved symbol	CMPK2	cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial	HGNC:27015	2p25.2
+CNDP2	Approved symbol	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	HGNC:24437	18q22.3
+CNIH4	Approved symbol	CNIH4	cornichon family AMPA receptor auxiliary protein 4	HGNC:25013	1q42.12
+CNNM2	Approved symbol	CNNM2	cyclin and CBS domain divalent metal cation transport mediator 2	HGNC:103	10q24.32
+CNOT7	Approved symbol	CNOT7	CCR4-NOT transcription complex, subunit 7	HGNC:14101	8p22-p21.3
+CNR1	Approved symbol	CNR1	cannabinoid receptor 1 (brain)	HGNC:2159	6q14-q15
+CNR1	Synonyms	PCDHA@	protocadherin alpha cluster, complex locus	HGNC:8662	5q31
+CNR1	Synonyms	PCDHA4	protocadherin alpha 4	HGNC:8670	5q31
+CNST	Approved symbol	CNST	consortin, connexin sorting protein	HGNC:26486	1q44
+COASY	Approved symbol	COASY	CoA synthase	HGNC:29932	17q12-q21
+COASY	Synonyms	COASY	CoA synthase	HGNC:29932	17q12-q21
+COG1	Approved symbol	COG1	component of oligomeric golgi complex 1	HGNC:6545	17q25.1
+COG2	Approved symbol	COG2	component of oligomeric golgi complex 2	HGNC:6546	1q42.2
+COG7	Approved symbol	COG7	component of oligomeric golgi complex 7	HGNC:18622	16p12.2
+COG8	Approved symbol	COG8	component of oligomeric golgi complex 8	HGNC:18623	16q22.1
+COMMD4	Approved symbol	COMMD4	COMM domain containing 4	HGNC:26027	15q24.2
+COPA	Approved symbol	COPA	coatomer protein complex, subunit alpha	HGNC:2230	1q23.2
+COPE	Approved symbol	COPE	coatomer protein complex, subunit epsilon	HGNC:2234	19p13.11
+COPS5	Approved symbol	COPS5	COP9 signalosome subunit 5	HGNC:2240	8q13.1
+COPS6	Approved symbol	COPS6	COP9 signalosome subunit 6	HGNC:21749	7q22.1
+COPS7A	Approved symbol	COPS7A	COP9 signalosome subunit 7A	HGNC:16758	12p13.31
+COQ4	Approved symbol	COQ4	coenzyme Q4	HGNC:19693	9q34.2
+COQ9	Approved symbol	COQ9	coenzyme Q9	HGNC:25302	16q13
+CORO1A	Approved symbol	CORO1A	coronin, actin binding protein, 1A	HGNC:2252	16p11.2
+CORO7	Approved symbol	CORO7	coronin 7	HGNC:26161	16p13.3
+COX15	Approved symbol	COX15	cytochrome c oxidase assembly homolog 15 (yeast)	HGNC:2263	10q24
+COX6A1	Approved symbol	COX6A1	cytochrome c oxidase subunit VIa polypeptide 1	HGNC:2277	12q24
+COX6B2	Approved symbol	COX6B2	cytochrome c oxidase subunit VIb polypeptide 2 (testis)	HGNC:24380	19q13.42
+COX6C	Approved symbol	COX6C	cytochrome c oxidase subunit VIc	HGNC:2285	8q22.2
+CPAMD8	Approved symbol	CPAMD8	C3 and PZP-like, alpha-2-macroglobulin domain containing 8	HGNC:23228	19p13.12
+CPNE3	Approved symbol	CPNE3	copine III	HGNC:2316	8q21
+CPNE5	Approved symbol	CPNE5	copine V	HGNC:2318	6p21.2
+CPSF4	Approved symbol	CPSF4	cleavage and polyadenylation specific factor 4, 30kDa	HGNC:2327	7q22
+CRB1	Approved symbol	CRB1	crumbs family member 1, photoreceptor morphogenesis associated	HGNC:2343	1q31.3
+CRB2	Approved symbol	CRB2	crumbs family member 2	HGNC:18688	9q33.2
+CREB3L4	Approved symbol	CREB3L4	cAMP responsive element binding protein 3-like 4	HGNC:18854	1q21.2
+CREG1	Approved symbol	CREG1	cellular repressor of E1A-stimulated genes 1	HGNC:2351	1q24
+CREM	Approved symbol	CREM	cAMP responsive element modulator	HGNC:2352	10p12.1-p11.1
+CRIP1	Approved symbol	CRIP1	cysteine-rich protein 1 (intestinal)	HGNC:2360	14q32.33
+CRIP1	Synonyms	CNRIP1	cannabinoid receptor interacting protein 1	HGNC:24546	2p13
+CRTC2	Approved symbol	CRTC2	CREB regulated transcription coactivator 2	HGNC:27301	1q21.3
+CRYM	Approved symbol	CRYM	crystallin, mu	HGNC:2418	16p12.2
+CSF1	Approved symbol	CSF1	colony stimulating factor 1 (macrophage)	HGNC:2432	1p13.3
+CSF2RB	Approved symbol	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	HGNC:2436	22q12.3
+CSF3R	Approved symbol	CSF3R	colony stimulating factor 3 receptor (granulocyte)	HGNC:2439	1p35-p34.3
+CSGALNACT2	Approved symbol	CSGALNACT2	chondroitin sulfate N-acetylgalactosaminyltransferase 2	HGNC:24292	10q11.21
+CSNK1D	Approved symbol	CSNK1D	casein kinase 1, delta	HGNC:2452	17q25
+CSNK2B	Approved symbol	CSNK2B	casein kinase 2, beta polypeptide	HGNC:2460	6p21.33
+CSTA	Approved symbol	CSTA	cystatin A (stefin A)	HGNC:2481	3q21
+CSTF1	Approved symbol	CSTF1	cleavage stimulation factor, 3' pre-RNA, subunit 1, 50kDa	HGNC:2483	20q13.31
+CSTF2T	Approved symbol	CSTF2T	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa, tau variant	HGNC:17086	10q11
+CTBP2	Approved symbol	CTBP2	C-terminal binding protein 2	HGNC:2495	10q26.13
+CTDSP1	Approved symbol	CTDSP1	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1	HGNC:21614	2q35
+CTGF	Approved symbol	CTGF	connective tissue growth factor	HGNC:2500	6q23.2
+CTNNBL1	Approved symbol	CTNNBL1	catenin, beta like 1	HGNC:15879	20q11.23-q12
+CTNS	Approved symbol	CTNS	cystinosin, lysosomal cystine transporter	HGNC:2518	17p13
+CTRL	Approved symbol	CTRL	chymotrypsin-like	HGNC:2524	16q22.1
+CTSS	Approved symbol	CTSS	cathepsin S	HGNC:2545	1q21
+CTTN	Approved symbol	CTTN	cortactin	HGNC:3338	11q13
+CUEDC1	Approved symbol	CUEDC1	CUE domain containing 1	HGNC:31350	17q23.2
+CUEDC2	Approved symbol	CUEDC2	CUE domain containing 2	HGNC:28352	10q24.32
+CUL1	Approved symbol	CUL1	cullin 1	HGNC:2551	7q36.1
+CUL2	Approved symbol	CUL2	cullin 2	HGNC:2552	10p11.2
+CUL4B	Approved symbol	CUL4B	cullin 4B	HGNC:2555	Xq23
+CUL7	Approved symbol	CUL7	cullin 7	HGNC:21024	6p21.1
+CUTC	Approved symbol	CUTC	cutC copper transporter	HGNC:24271	10q24.31
+CWF19L1	Approved symbol	CWF19L1	CWF19-like 1, cell cycle control (S. pombe)	HGNC:25613	10q24.31
+CXCL1	Approved symbol	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	HGNC:4602	4q13.3
+CXCR1	Approved symbol	CXCR1	chemokine (C-X-C motif) receptor 1	HGNC:6026	2q35
+CYB561	Approved symbol	CYB561	cytochrome b561	HGNC:2571	17q23.3
+CYB561D2	Approved symbol	CYB561D2	cytochrome b561 family, member D2	HGNC:30253	3p21.3
+CYB5D1	Approved symbol	CYB5D1	cytochrome b5 domain containing 1	HGNC:26516	17p13.1
+CYB5R2	Approved symbol	CYB5R2	cytochrome b5 reductase 2	HGNC:24376	11p15.4
+CYBA	Approved symbol	CYBA	cytochrome b-245, alpha polypeptide	HGNC:2577	16q24
+CYC1	Approved symbol	CYC1	cytochrome c-1	HGNC:2579	8q24
+CYP4F12	Approved symbol	CYP4F12	cytochrome P450, family 4, subfamily F, polypeptide 12	HGNC:18857	19p13.1
+CYP4F3	Approved symbol	CYP4F3	cytochrome P450, family 4, subfamily F, polypeptide 3	HGNC:2646	19p13.12
+CYP8B1	Approved symbol	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	HGNC:2653	3p22.1
+CYTH4	Approved symbol	CYTH4	cytohesin 4	HGNC:9505	22q12.3-q13.1
+DAB2IP	Approved symbol	DAB2IP	DAB2 interacting protein	HGNC:17294	9q33.1-q33.3
+DAGLA	Approved symbol	DAGLA	diacylglycerol lipase, alpha	HGNC:1165	11q12.3
+DAGLB	Approved symbol	DAGLB	diacylglycerol lipase, beta	HGNC:28923	7p22.1
+DAK	Approved symbol	DAK	dihydroxyacetone kinase 2 homolog (S. cerevisiae)	HGNC:24552	11q12.2
+DALRD3	Approved symbol	DALRD3	DALR anticodon binding domain containing 3	HGNC:25536	3p21.31
+DAP3	Approved symbol	DAP3	death associated protein 3	HGNC:2673	1q22
+DAP3	Synonyms	DLGAP3	discs, large (Drosophila) homolog-associated protein 3	HGNC:30368	1p35.3-p34.1
+DAPK1	Approved symbol	DAPK1	death-associated protein kinase 1	HGNC:2674	9q34.1
+DARS2	Approved symbol	DARS2	aspartyl-tRNA synthetase 2, mitochondrial	HGNC:25538	1q25.1
+DAXX	Approved symbol	DAXX	death-domain associated protein	HGNC:2681	6p21.3
+DAZAP2	Approved symbol	DAZAP2	DAZ associated protein 2	HGNC:2684	12q13.13
+DBF4B	Approved symbol	DBF4B	DBF4 zinc finger B	HGNC:17883	17q21.31
+DBNDD2	Approved symbol	DBNDD2	dysbindin (dystrobrevin binding protein 1) domain containing 2	HGNC:15881	20q13.12
+DCAF6	Approved symbol	DCAF6	DDB1 and CUL4 associated factor 6	HGNC:30002	1q23.3
+DCAF8	Approved symbol	DCAF8	DDB1 and CUL4 associated factor 8	HGNC:24891	1q22-q23
+DCLRE1A	Approved symbol	DCLRE1A	DNA cross-link repair 1A	HGNC:17660	10q25.1
+DCLRE1C	Approved symbol	DCLRE1C	DNA cross-link repair 1C	HGNC:17642	10p13
+DCST1	Approved symbol	DCST1	DC-STAMP domain containing 1	HGNC:26539	1q22
+DCST2	Approved symbol	DCST2	DC-STAMP domain containing 2	HGNC:26562	1q22
+DDB2	Approved symbol	DDB2	damage-specific DNA binding protein 2, 48kDa	HGNC:2718	11p12-p11
+DDO	Approved symbol	DDO	D-aspartate oxidase	HGNC:2727	6q22.1
+DDX19A	Approved symbol	DDX19A	DEAD (Asp-Glu-Ala-Asp) box polypeptide 19A	HGNC:25628	16q22.1
+DDX19B	Approved symbol	DDX19B	DEAD (Asp-Glu-Ala-Asp) box polypeptide 19B	HGNC:2742	16q22.3
+DDX21	Approved symbol	DDX21	DEAD (Asp-Glu-Ala-Asp) box helicase 21	HGNC:2744	10q21
+DDX23	Approved symbol	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	HGNC:17347	12q13.11
+DDX47	Approved symbol	DDX47	DEAD (Asp-Glu-Ala-Asp) box polypeptide 47	HGNC:18682	12p13.2
+DDX50	Approved symbol	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	HGNC:17906	10q22.2
+DDX54	Approved symbol	DDX54	DEAD (Asp-Glu-Ala-Asp) box polypeptide 54	HGNC:20084	12q24.11
+DDX59	Approved symbol	DDX59	DEAD (Asp-Glu-Ala-Asp) box polypeptide 59	HGNC:25360	1q32.1
+DEDD	Approved symbol	DEDD	death effector domain containing	HGNC:2755	1q23.1
+DEDD2	Approved symbol	DEDD2	death effector domain containing 2	HGNC:24450	19q13.31
+DEGS1	Approved symbol	DEGS1	delta(4)-desaturase, sphingolipid 1	HGNC:13709	1q42.11
+DENND1A	Approved symbol	DENND1A	DENN/MADD domain containing 1A	HGNC:29324	9q34.11
+DENND1B	Approved symbol	DENND1B	DENN/MADD domain containing 1B	HGNC:28404	1q31.3
+DENND3	Approved symbol	DENND3	DENN/MADD domain containing 3	HGNC:29134	8q24.3
+DENND4B	Approved symbol	DENND4B	DENN/MADD domain containing 4B	HGNC:29044	1q21.3
+DERL1	Approved symbol	DERL1	derlin 1	HGNC:28454	8q24.13
+DERL3	Approved symbol	DERL3	derlin 3	HGNC:14236	22q11.23
+DHRS3	Approved symbol	DHRS3	dehydrogenase/reductase (SDR family) member 3	HGNC:17693	1p36.1
+DHRS7B	Approved symbol	DHRS7B	dehydrogenase/reductase (SDR family) member 7B	HGNC:24547	17p12
+DHTKD1	Approved symbol	DHTKD1	dehydrogenase E1 and transketolase domain containing 1	HGNC:23537	10p14
+DHX16	Approved symbol	DHX16	DEAH (Asp-Glu-Ala-His) box polypeptide 16	HGNC:2739	6p21.3
+DHX32	Approved symbol	DHX32	DEAH (Asp-Glu-Ala-His) box polypeptide 32	HGNC:16717	10q26.11-q26.2
+DHX58	Approved symbol	DHX58	DEXH (Asp-Glu-X-His) box polypeptide 58	HGNC:29517	17q21.2
+DIABLO	Approved symbol	DIABLO	diablo, IAP-binding mitochondrial protein	HGNC:21528	12q24.31
+DISC1	Approved symbol	DISC1	disrupted in schizophrenia 1	HGNC:2888	1q42.1
+DISP1	Approved symbol	DISP1	dispatched homolog 1 (Drosophila)	HGNC:19711	1q42.12
+DNA2	Approved symbol	DNA2	DNA replication helicase/nuclease 2	HGNC:2939	10q21.3-q22.1
+DNAH14	Approved symbol	DNAH14	dynein, axonemal, heavy chain 14	HGNC:2945	1q42.13
+DNAI1	Approved symbol	DNAI1	dynein, axonemal, intermediate chain 1	HGNC:2954	9p13.3
+DNAJB12	Approved symbol	DNAJB12	DnaJ (Hsp40) homolog, subfamily B, member 12	HGNC:14891	10q22
+DNAJB13	Approved symbol	DNAJB13	DnaJ (Hsp40) homolog, subfamily B, member 13	HGNC:30718	11q13.3
+DNAJB2	Approved symbol	DNAJB2	DnaJ (Hsp40) homolog, subfamily B, member 2	HGNC:5228	2q35
+DNAJB6	Approved symbol	DNAJB6	DnaJ (Hsp40) homolog, subfamily B, member 6	HGNC:14888	7q36.3
+DNAJC12	Approved symbol	DNAJC12	DnaJ (Hsp40) homolog, subfamily C, member 12	HGNC:28908	10q21.3
+DNAJC30	Approved symbol	DNAJC30	DnaJ (Hsp40) homolog, subfamily C, member 30	HGNC:16410	7q11.23
+DNAJC9	Approved symbol	DNAJC9	DnaJ (Hsp40) homolog, subfamily C, member 9	HGNC:19123	10q22.3
+DNALI1	Approved symbol	DNALI1	dynein, axonemal, light intermediate chain 1	HGNC:14353	1p35.1
+DNM2	Approved symbol	DNM2	dynamin 2	HGNC:2974	19p
+DNMBP	Approved symbol	DNMBP	dynamin binding protein	HGNC:30373	10q24.31
+DNTTIP1	Approved symbol	DNTTIP1	deoxynucleotidyltransferase, terminal, interacting protein 1	HGNC:16160	20q13.12
+DOCK1	Approved symbol	DOCK1	dedicator of cytokinesis 1	HGNC:2987	10q26.13-q26.3
+DPCD	Approved symbol	DPCD	deleted in primary ciliary dyskinesia homolog (mouse)	HGNC:24542	10q24.32
+DPEP2	Approved symbol	DPEP2	dipeptidase 2	HGNC:23028	16q22.1
+DPF2	Approved symbol	DPF2	D4, zinc and double PHD fingers family 2	HGNC:9964	11q13.1
+DPM3	Approved symbol	DPM3	dolichyl-phosphate mannosyltransferase polypeptide 3	HGNC:3007	1q22
+DPP9	Approved symbol	DPP9	dipeptidyl-peptidase 9	HGNC:18648	19p13.3
+DRAM1	Approved symbol	DRAM1	DNA-damage regulated autophagy modulator 1	HGNC:25645	12q23.2
+DSEL	Approved symbol	DSEL	dermatan sulfate epimerase-like	HGNC:18144	18q22.1
+DSTYK	Approved symbol	DSTYK	dual serine/threonine and tyrosine protein kinase	HGNC:29043	1q32
+DTHD1	Approved symbol	DTHD1	death domain containing 1	HGNC:37261	4p14
+DTL	Approved symbol	DTL	denticleless E3 ubiquitin protein ligase homolog (Drosophila)	HGNC:30288	1q32
+DTX2	Approved symbol	DTX2	deltex 2, E3 ubiquitin ligase	HGNC:15973	7q11.23
+DUSP12	Approved symbol	DUSP12	dual specificity phosphatase 12	HGNC:3067	1q21-q22
+DYNLRB2	Approved symbol	DYNLRB2	dynein, light chain, roadblock-type 2	HGNC:15467	16q23.3
+DYNLT1	Approved symbol	DYNLT1	dynein, light chain, Tctex-type 1	HGNC:11697	6q25.2-q25.3
+DYRK2	Approved symbol	DYRK2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2	HGNC:3093	12q15
+DYRK3	Approved symbol	DYRK3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	HGNC:3094	1q32
+DZIP1	Approved symbol	DZIP1	DAZ interacting zinc finger protein 1	HGNC:20908	13q32.1
+E2F4	Approved symbol	E2F4	E2F transcription factor 4, p107/p130-binding	HGNC:3118	16q22.1
+E2F7	Approved symbol	E2F7	E2F transcription factor 7	HGNC:23820	12q21.1
+EBF1	Approved symbol	EBF1	early B-cell factor 1	HGNC:3126	5q34
+ECD	Approved symbol	ECD	ecdysoneless homolog (Drosophila)	HGNC:17029	10q22.3
+ECD	Synonyms	SHFM1	split hand/foot malformation (ectrodactyly) type 1	HGNC:10845	7q21.3
+ECHS1	Approved symbol	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial	HGNC:3151	10q26.2-q26.3
+ECSCR	Approved symbol	ECSCR	endothelial cell surface expressed chemotaxis and apoptosis regulator	HGNC:35454	5q31.2
+EDC4	Approved symbol	EDC4	enhancer of mRNA decapping 4	HGNC:17157	16q22.1
+EDEM2	Approved symbol	EDEM2	ER degradation enhancer, mannosidase alpha-like 2	HGNC:15877	20q11.22
+EDEM3	Approved symbol	EDEM3	ER degradation enhancer, mannosidase alpha-like 3	HGNC:16787	1q25
+EEFSEC	Approved symbol	EEFSEC	eukaryotic elongation factor, selenocysteine-tRNA-specific	HGNC:24614	3q21.3
+EEPD1	Approved symbol	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1	HGNC:22223	7p14.2
+EFCAB6	Approved symbol	EFCAB6	EF-hand calcium binding domain 6	HGNC:24204	22q13.2
+EFHD2	Approved symbol	EFHD2	EF-hand domain family, member D2	HGNC:28670	1p36
+EFNA4	Approved symbol	EFNA4	ephrin-A4	HGNC:3224	1q21-q22
+EFR3A	Approved symbol	EFR3A	EFR3 homolog A (S. cerevisiae)	HGNC:28970	8q24.22
+EFTUD2	Approved symbol	EFTUD2	elongation factor Tu GTP binding domain containing 2	HGNC:30858	17q21.31
+EGLN1	Approved symbol	EGLN1	egl-9 family hypoxia-inducible factor 1	HGNC:1232	1q42.1
+EGLN2	Approved symbol	EGLN2	egl-9 family hypoxia-inducible factor 2	HGNC:14660	19q13.2
+EHD1	Approved symbol	EHD1	EH-domain containing 1	HGNC:3242	11q13
+EIF2AK1	Approved symbol	EIF2AK1	eukaryotic translation initiation factor 2-alpha kinase 1	HGNC:24921	7p22
+EIF2AK1	Synonyms	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	HGNC:9437	2p22-p21
+EIF2B1	Approved symbol	EIF2B1	eukaryotic translation initiation factor 2B, subunit 1 alpha, 26kDa	HGNC:3257	12q24.3
+EIF2B2	Approved symbol	EIF2B2	eukaryotic translation initiation factor 2B, subunit 2 beta, 39kDa	HGNC:3258	14q24.3
+EIF2S2	Approved symbol	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	HGNC:3266	20q11.2
+EIF3A	Approved symbol	EIF3A	eukaryotic translation initiation factor 3, subunit A	HGNC:3271	10q26.11
+EIF3A	Previous symbol	EIF6	eukaryotic translation initiation factor 6	HGNC:6159	20q11.2
+EIF3A	Synonyms	EIF3A	eukaryotic translation initiation factor 3, subunit A	HGNC:3271	10q26.11
+EIF3K	Approved symbol	EIF3K	eukaryotic translation initiation factor 3, subunit K	HGNC:24656	19q13.2
+EIF3K	Synonyms	EIF3K	eukaryotic translation initiation factor 3, subunit K	HGNC:24656	19q13.2
+EIF4EBP2	Approved symbol	EIF4EBP2	eukaryotic translation initiation factor 4E binding protein 2	HGNC:3289	10q21-q22
+EIF4H	Approved symbol	EIF4H	eukaryotic translation initiation factor 4H	HGNC:12741	7q11.23
+EIF6	Approved symbol	EIF6	eukaryotic translation initiation factor 6	HGNC:6159	20q11.2
+ELF3	Approved symbol	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	HGNC:3318	1q32.2
+ELK4	Approved symbol	ELK4	ELK4, ETS-domain protein (SRF accessory protein 1)	HGNC:3326	1q32
+EMG1	Approved symbol	EMG1	EMG1 N1-specific pseudouridine methyltransferase	HGNC:16912	12p13
+EML1	Approved symbol	EML1	echinoderm microtubule associated protein like 1	HGNC:3330	14q32
+EMP1	Approved symbol	EMP1	epithelial membrane protein 1	HGNC:3333	12p12.3
+ENAH	Approved symbol	ENAH	enabled homolog (Drosophila)	HGNC:18271	1q32.2
+ENDOG	Approved symbol	ENDOG	endonuclease G	HGNC:3346	9q34.1
+ENO1	Approved symbol	ENO1	enolase 1, (alpha)	HGNC:3350	1p36.2
+ENSA	Approved symbol	ENSA	endosulfine alpha	HGNC:3360	1q21.3
+ENTPD7	Approved symbol	ENTPD7	ectonucleoside triphosphate diphosphohydrolase 7	HGNC:19745	10q23-q24
+ENY2	Approved symbol	ENY2	enhancer of yellow 2 homolog (Drosophila)	HGNC:24449	8q23.1
+EP400	Approved symbol	EP400	E1A binding protein p400	HGNC:11958	12q24.33
+EPC1	Approved symbol	EPC1	enhancer of polycomb homolog 1 (Drosophila)	HGNC:19876	10p11
+EPHB2	Approved symbol	EPHB2	EPH receptor B2	HGNC:3393	1p36.1-p35
+EPHX1	Approved symbol	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic)	HGNC:3401	1q42.1
+EPPK1	Approved symbol	EPPK1	epiplakin 1	HGNC:15577	8q24.3
+EPRS	Approved symbol	EPRS	glutamyl-prolyl-tRNA synthetase	HGNC:3418	1q41
+EPS8L1	Approved symbol	EPS8L1	EPS8-like 1	HGNC:21295	19q13.42
+EPX	Approved symbol	EPX	eosinophil peroxidase	HGNC:3423	17q23.1
+ERAL1	Approved symbol	ERAL1	Era-like 12S mitochondrial rRNA chaperone 1	HGNC:3424	17q11.2
+ERCC1	Approved symbol	ERCC1	excision repair cross-complementation group 1	HGNC:3433	19q13.32
+ERCC6	Approved symbol	ERCC6	excision repair cross-complementation group 6	HGNC:3438	10q11
+EREG	Approved symbol	EREG	epiregulin	HGNC:3443	4q21.21
+ERI3	Approved symbol	ERI3	ERI1 exoribonuclease family member 3	HGNC:17276	1p34.1
+ERLIN1	Approved symbol	ERLIN1	ER lipid raft associated 1	HGNC:16947	10q24.31
+ERN2	Approved symbol	ERN2	endoplasmic reticulum to nucleus signaling 2	HGNC:16942	16p12.2
+ESR2	Approved symbol	ESR2	estrogen receptor 2 (ER beta)	HGNC:3468	14q21-q22
+ESRP1	Approved symbol	ESRP1	epithelial splicing regulatory protein 1	HGNC:25966	8q22.1
+ESRP2	Approved symbol	ESRP2	epithelial splicing regulatory protein 2	HGNC:26152	16q22.1
+EXO1	Approved symbol	EXO1	exonuclease 1	HGNC:3511	1q43
+EXOC6	Approved symbol	EXOC6	exocyst complex component 6	HGNC:23196	10q23.33
+EXOC8	Approved symbol	EXOC8	exocyst complex component 8	HGNC:24659	1q42.2
+EXOSC1	Approved symbol	EXOSC1	exosome component 1	HGNC:17286	10q24
+EXOSC4	Approved symbol	EXOSC4	exosome component 4	HGNC:18189	8q24.3
+EXOSC6	Approved symbol	EXOSC6	exosome component 6	HGNC:19055	16q22.1
+EXOSC7	Approved symbol	EXOSC7	exosome component 7	HGNC:28112	3p21.32
+EXT1	Approved symbol	EXT1	exostosin glycosyltransferase 1	HGNC:3512	8q24.11
+EZR	Approved symbol	EZR	ezrin	HGNC:12691	6q25.3
+F11R	Approved symbol	F11R	F11 receptor	HGNC:14685	1q21.2-q21.3
+F2RL3	Approved symbol	F2RL3	coagulation factor II (thrombin) receptor-like 3	HGNC:3540	19p12
+FADD	Approved symbol	FADD	Fas (TNFRSF6)-associated via death domain	HGNC:3573	11q13.3
+FAM107B	Approved symbol	FAM107B	family with sequence similarity 107, member B	HGNC:23726	10p14
+FAM13C	Approved symbol	FAM13C	family with sequence similarity 13, member C	HGNC:19371	10q21
+FAM149A	Approved symbol	FAM149A	family with sequence similarity 149, member A	HGNC:24527	4q35.1
+FAM149B1	Approved symbol	FAM149B1	family with sequence similarity 149, member B1	HGNC:29162	10q22.2
+FAM159A	Approved symbol	FAM159A	family with sequence similarity 159, member A	HGNC:28757	1p32.3
+FAM160B1	Approved symbol	FAM160B1	family with sequence similarity 160, member B1	HGNC:29320	10q26.11
+FAM166B	Approved symbol	FAM166B	family with sequence similarity 166, member B	HGNC:34242	9p13.3
+FAM168B	Approved symbol	FAM168B	family with sequence similarity 168, member B	HGNC:27016	2q21.1
+FAM171A1	Approved symbol	FAM171A1	family with sequence similarity 171, member A1	HGNC:23522	10p13
+FAM174B	Approved symbol	FAM174B	family with sequence similarity 174, member B	HGNC:34339	15q26.1
+FAM175B	Approved symbol	FAM175B	family with sequence similarity 175, member B	HGNC:28975	10q26.2
+FAM178A	Approved symbol	FAM178A	family with sequence similarity 178, member A	HGNC:17814	10q24.31
+FAM182B	Approved symbol	FAM182B	family with sequence similarity 182, member B	HGNC:34503	20p11.1
+FAM188A	Approved symbol	FAM188A	family with sequence similarity 188, member A	HGNC:23578	10p13
+FAM189B	Approved symbol	FAM189B	family with sequence similarity 189, member B	HGNC:1233	1q21
+FAM192A	Approved symbol	FAM192A	family with sequence similarity 192, member A	HGNC:29856	16q13
+FAM20B	Approved symbol	FAM20B	family with sequence similarity 20, member B	HGNC:23017	1q25.2
+FAM21C	Approved symbol	FAM21C	family with sequence similarity 21, member C	HGNC:23414	10q11.22
+FAM27B	Approved symbol	FAM27B	family with sequence similarity 27, member B	HGNC:23667	9q21.11
+FAM27C	Approved symbol	FAM27C	family with sequence similarity 27, member C	HGNC:23668	9q13
+FAM32A	Approved symbol	FAM32A	family with sequence similarity 32, member A	HGNC:24563	19p13.12-p13.11
+FAM35A	Approved symbol	FAM35A	family with sequence similarity 35, member A	HGNC:28773	10q23.2
+FAM45A	Approved symbol	FAM45A	family with sequence similarity 45, member A	HGNC:31793	10q25
+FAM45B	Approved symbol	FAM45B	family with sequence similarity 45, member B (pseudogene)	HGNC:30886	Xq26.1
+FAM63A	Approved symbol	FAM63A	family with sequence similarity 63, member A	HGNC:25648	1q21.2
+FAM65B	Approved symbol	FAM65B	family with sequence similarity 65, member B	HGNC:13872	6p22.3-p21.32
+FAM71E2	Approved symbol	FAM71E2	family with sequence similarity 71, member E2	HGNC:25278	19q13.42
+FAM72B	Approved symbol	FAM72B	family with sequence similarity 72, member B	HGNC:24805	1p12
+FAM72D	Approved symbol	FAM72D	family with sequence similarity 72, member D	HGNC:33593	1q21.1
+FAM78A	Approved symbol	FAM78A	family with sequence similarity 78, member A	HGNC:25465	9q34
+FAM83A	Approved symbol	FAM83A	family with sequence similarity 83, member A	HGNC:28210	8q24.13
+FAM83E	Approved symbol	FAM83E	family with sequence similarity 83, member E	HGNC:25972	19q13.33
+FAM83H	Approved symbol	FAM83H	family with sequence similarity 83, member H	HGNC:24797	8q24.3
+FAM91A1	Approved symbol	FAM91A1	family with sequence similarity 91, member A1	HGNC:26306	8q24.13
+FAM92B	Approved symbol	FAM92B	family with sequence similarity 92, member B	HGNC:24781	16q24.1
+FAM95B1	Approved symbol	FAM95B1	family with sequence similarity 95, member B1	HGNC:32318	9p11.2
+FAM96B	Approved symbol	FAM96B	family with sequence similarity 96, member B	HGNC:24261	16q22.1
+FANK1	Approved symbol	FANK1	fibronectin type III and ankyrin repeat domains 1	HGNC:23527	10q26.2
+FARP2	Approved symbol	FARP2	FERM, RhoGEF and pleckstrin domain protein 2	HGNC:16460	2q37.3
+FARS2	Approved symbol	FARS2	phenylalanyl-tRNA synthetase 2, mitochondrial	HGNC:21062	6p25.1
+FASTK	Approved symbol	FASTK	Fas-activated serine/threonine kinase	HGNC:24676	7q35
+FBXL2	Approved symbol	FBXL2	F-box and leucine-rich repeat protein 2	HGNC:13598	3p22.3
+FBXO18	Approved symbol	FBXO18	F-box protein, helicase, 18	HGNC:13620	10p15.1
+FBXO28	Approved symbol	FBXO28	F-box protein 28	HGNC:29046	1q42.12
+FBXO31	Approved symbol	FBXO31	F-box protein 31	HGNC:16510	16q24
+FBXO31	Synonyms	FBXO5	F-box protein 5	HGNC:13584	6q25-q26
+FBXO6	Approved symbol	FBXO6	F-box protein 6	HGNC:13585	1p36.22
+FBXW4	Approved symbol	FBXW4	F-box and WD repeat domain containing 4	HGNC:10847	10q24
+FBXW5	Approved symbol	FBXW5	F-box and WD repeat domain containing 5	HGNC:13613	9q34.3
+FCHSD2	Approved symbol	FCHSD2	FCH and double SH3 domains 2	HGNC:29114	11q13.3
+FDFT1	Approved symbol	FDFT1	farnesyl-diphosphate farnesyltransferase 1	HGNC:3629	8p23.1-p22
+FDPS	Approved symbol	FDPS	farnesyl diphosphate synthase	HGNC:3631	1q22
+FDXR	Approved symbol	FDXR	ferredoxin reductase	HGNC:3642	17q25.1
+FEN1	Approved symbol	FEN1	flap structure-specific endonuclease 1	HGNC:3650	11q12
+FFAR2	Approved symbol	FFAR2	free fatty acid receptor 2	HGNC:4501	19q13.1
+FGD2	Approved symbol	FGD2	FYVE, RhoGEF and PH domain containing 2	HGNC:3664	6p21.2
+FGFBP1	Approved symbol	FGFBP1	fibroblast growth factor binding protein 1	HGNC:19695	4p15.32
+FGFBP3	Approved symbol	FGFBP3	fibroblast growth factor binding protein 3	HGNC:23428	10q23.33
+FGFR2	Approved symbol	FGFR2	fibroblast growth factor receptor 2	HGNC:3689	10q25.3-q26
+FGR	Approved symbol	FGR	FGR proto-oncogene, Src family tyrosine kinase	HGNC:3697	1p36.2-p36.1
+FH	Approved symbol	FH	fumarate hydratase	HGNC:3700	1q42.1
+FHAD1	Approved symbol	FHAD1	forkhead-associated (FHA) phosphopeptide binding domain 1	HGNC:29408	1p36.21
+FHL2	Approved symbol	FHL2	four and a half LIM domains 2	HGNC:3703	2q12.2
+FIBP	Approved symbol	FIBP	fibroblast growth factor (acidic) intracellular binding protein	HGNC:3705	11q13.1
+FJX1	Approved symbol	FJX1	four jointed box 1 (Drosophila)	HGNC:17166	11p13
+FKBP1B	Approved symbol	FKBP1B	FK506 binding protein 1B, 12.6 kDa	HGNC:3712	2p23.3
+FLAD1	Approved symbol	FLAD1	flavin adenine dinucleotide synthetase 1	HGNC:24671	1q22
+FLJ13224	Unmatched				
+FLT3LG	Approved symbol	FLT3LG	fms-related tyrosine kinase 3 ligand	HGNC:3766	19q13.3
+FLVCR1	Approved symbol	FLVCR1	feline leukemia virus subgroup C cellular receptor 1	HGNC:24682	1q32.3
+FLYWCH2	Approved symbol	FLYWCH2	FLYWCH family member 2	HGNC:25178	16p13.3
+FMNL3	Approved symbol	FMNL3	formin-like 3	HGNC:23698	12q13.12
+FMO4	Approved symbol	FMO4	flavin containing monooxygenase 4	HGNC:3772	1q24.3
+FMO5	Approved symbol	FMO5	flavin containing monooxygenase 5	HGNC:3773	1q21.1
+FOXJ1	Approved symbol	FOXJ1	forkhead box J1	HGNC:3816	17q25.1
+FOXN4	Approved symbol	FOXN4	forkhead box N4	HGNC:21399	12q24.12
+FPR1	Approved symbol	FPR1	formyl peptide receptor 1	HGNC:3826	19q13.41
+FRAT2	Approved symbol	FRAT2	frequently rearranged in advanced T-cell lymphomas 2	HGNC:16048	10q23-q24.1
+FRMD8	Approved symbol	FRMD8	FERM domain containing 8	HGNC:25462	11q13.1
+FSIP1	Approved symbol	FSIP1	fibrous sheath interacting protein 1	HGNC:21674	15q14
+FTH1	Approved symbol	FTH1	ferritin, heavy polypeptide 1	HGNC:3976	11q13
+FTO	Approved symbol	FTO	fat mass and obesity associated	HGNC:24678	16q12.2
+FTSJ2	Approved symbol	FTSJ2	FtsJ RNA methyltransferase homolog 2 (E. coli)	HGNC:16352	7p22
+FUT3	Approved symbol	FUT3	fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group)	HGNC:4014	19p13.3
+FUT4	Approved symbol	FUT4	fucosyltransferase 4 (alpha (1,3) fucosyltransferase, myeloid-specific)	HGNC:4015	11q21
+FUT7	Approved symbol	FUT7	fucosyltransferase 7 (alpha (1,3) fucosyltransferase)	HGNC:4018	9q34.3
+FUZ	Approved symbol	FUZ	fuzzy planar cell polarity protein	HGNC:26219	19q13.33
+FZR1	Approved symbol	FZR1	fizzy/cell division cycle 20 related 1 (Drosophila)	HGNC:24824	19p13.3
+GABARAPL2	Approved symbol	GABARAPL2	GABA(A) receptor-associated protein-like 2	HGNC:13291	16q22.1
+GABPB2	Approved symbol	GABPB2	GA binding protein transcription factor, beta subunit 2	HGNC:28441	1q21.2
+GABPB2	Previous symbol	GABPB1	GA binding protein transcription factor, beta subunit 1	HGNC:4074	15q21.2
+GALNT14	Approved symbol	GALNT14	polypeptide N-acetylgalactosaminyltransferase 14	HGNC:22946	2p23.2
+GALNT2	Approved symbol	GALNT2	polypeptide N-acetylgalactosaminyltransferase 2	HGNC:4124	1q41-q42
+GARS	Approved symbol	GARS	glycyl-tRNA synthetase	HGNC:4162	7p15
+GAS2L1	Approved symbol	GAS2L1	growth arrest-specific 2 like 1	HGNC:16955	22q12.2
+GATAD2B	Approved symbol	GATAD2B	GATA zinc finger domain containing 2B	HGNC:30778	1q21.3
+GBA	Approved symbol	GBA	glucosidase, beta, acid	HGNC:4177	1q22
+GBAP1	Approved symbol	GBAP1	glucosidase, beta, acid pseudogene 1	HGNC:4178	1q22
+GBF1	Approved symbol	GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1	HGNC:4181	10q24
+GBP1	Approved symbol	GBP1	guanylate binding protein 1, interferon-inducible	HGNC:4182	1p22.2
+GBP4	Approved symbol	GBP4	guanylate binding protein 4	HGNC:20480	1p22.2
+GBP5	Approved symbol	GBP5	guanylate binding protein 5	HGNC:19895	1p22.2
+GCC1	Approved symbol	GCC1	GRIP and coiled-coil domain containing 1	HGNC:19095	7q22.3
+GCNT3	Approved symbol	GCNT3	glucosaminyl (N-acetyl) transferase 3, mucin type	HGNC:4205	15q22
+GDI2	Approved symbol	GDI2	GDP dissociation inhibitor 2	HGNC:4227	10p15
+GET4	Approved symbol	GET4	golgi to ER traffic protein 4 homolog (S. cerevisiae)	HGNC:21690	7p22.3
+GFI1	Approved symbol	GFI1	growth factor independent 1 transcription repressor	HGNC:4237	1p22
+GFOD2	Approved symbol	GFOD2	glucose-fructose oxidoreductase domain containing 2	HGNC:28159	16q22.1
+GGPS1	Approved symbol	GGPS1	geranylgeranyl diphosphate synthase 1	HGNC:4249	1q43
+GHITM	Approved symbol	GHITM	growth hormone inducible transmembrane protein	HGNC:17281	10q23.1
+GHRL	Approved symbol	GHRL	ghrelin/obestatin prepropeptide	HGNC:18129	3p26-p25
+GINS4	Approved symbol	GINS4	GINS complex subunit 4 (Sld5 homolog)	HGNC:28226	8p11.21
+GIPR	Approved symbol	GIPR	gastric inhibitory polypeptide receptor	HGNC:4271	19q13.2-q13.3
+GJB3	Approved symbol	GJB3	gap junction protein, beta 3, 31kDa	HGNC:4285	1p34
+GJB4	Approved symbol	GJB4	gap junction protein, beta 4, 30.3kDa	HGNC:4286	1p35-p34
+GK3P	Approved symbol	GK3P	glycerol kinase 3 pseudogene	HGNC:4292	4q32.1
+GLIS1	Approved symbol	GLIS1	GLIS family zinc finger 1	HGNC:29525	1p32.3
+GLRX2	Approved symbol	GLRX2	glutaredoxin 2	HGNC:16065	1q31.2
+GLRX3	Approved symbol	GLRX3	glutaredoxin 3	HGNC:15987	10q26
+GLT8D1	Approved symbol	GLT8D1	glycosyltransferase 8 domain containing 1	HGNC:24870	3p21.1
+GLUD1	Approved symbol	GLUD1	glutamate dehydrogenase 1	HGNC:4335	10q23.2
+GLUD1	Synonyms	GRID1	glutamate receptor, ionotropic, delta 1	HGNC:4575	10q22
+GLUL	Approved symbol	GLUL	glutamate-ammonia ligase	HGNC:4341	1q31
+GLYCTK	Approved symbol	GLYCTK	glycerate kinase	HGNC:24247	3p21.1
+GLYR1	Approved symbol	GLYR1	glyoxylate reductase 1 homolog (Arabidopsis)	HGNC:24434	16p13.3
+GMFG	Approved symbol	GMFG	glia maturation factor, gamma	HGNC:4374	19q13.2
+GNG5	Approved symbol	GNG5	guanine nucleotide binding protein (G protein), gamma 5	HGNC:4408	1p22
+GNPAT	Approved symbol	GNPAT	glyceronephosphate O-acyltransferase	HGNC:4416	1q42
+GOLPH3L	Approved symbol	GOLPH3L	golgi phosphoprotein 3-like	HGNC:24882	1q21
+GOLT1A	Approved symbol	GOLT1A	golgi transport 1A	HGNC:24766	1q32.1
+GON4L	Approved symbol	GON4L	gon-4-like (C. elegans)	HGNC:25973	1q22
+GORAB	Approved symbol	GORAB	golgin, RAB6-interacting	HGNC:25676	1q24.2
+GOSR1	Approved symbol	GOSR1	golgi SNAP receptor complex member 1	HGNC:4430	17q11
+GOT1	Approved symbol	GOT1	glutamic-oxaloacetic transaminase 1, soluble	HGNC:4432	10q24.1-q25.1
+GOT1	Synonyms	GOLT1A	golgi transport 1A	HGNC:24766	1q32.1
+GOT1	Synonyms	GOLT1B	golgi transport 1B	HGNC:20175	12p13.1
+GOT2	Approved symbol	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial	HGNC:4433	16q21
+GPAA1	Approved symbol	GPAA1	glycosylphosphatidylinositol anchor attachment 1	HGNC:4446	8q24.3
+GPAM	Approved symbol	GPAM	glycerol-3-phosphate acyltransferase, mitochondrial	HGNC:24865	10q25.3
+GPATCH2	Approved symbol	GPATCH2	G patch domain containing 2	HGNC:25499	1q41
+GPATCH3	Approved symbol	GPATCH3	G patch domain containing 3	HGNC:25720	1p35.3-p35.1
+GPATCH4	Approved symbol	GPATCH4	G patch domain containing 4	HGNC:25982	1q22
+GPC1	Approved symbol	GPC1	glypican 1	HGNC:4449	2q35-q37
+GPN2	Approved symbol	GPN2	GPN-loop GTPase 2	HGNC:25513	1p36.11
+GPR108	Approved symbol	GPR108	G protein-coupled receptor 108	HGNC:17829	19p13.3
+GPR110	Previous symbol	ADGRF1	adhesion G protein-coupled receptor F1	HGNC:18990	6p21.1
+GPR115	Previous symbol	ADGRF4	adhesion G protein-coupled receptor F4	HGNC:19011	6p12.3
+GPR132	Approved symbol	GPR132	G protein-coupled receptor 132	HGNC:17482	14q32.3
+GPR135	Approved symbol	GPR135	G protein-coupled receptor 135	HGNC:19991	14q23.1
+GPR137	Approved symbol	GPR137	G protein-coupled receptor 137	HGNC:24300	11q13.1
+GPR162	Approved symbol	GPR162	G protein-coupled receptor 162	HGNC:16693	12p13
+GPR18	Approved symbol	GPR18	G protein-coupled receptor 18	HGNC:4472	13q32
+GPR39	Approved symbol	GPR39	G protein-coupled receptor 39	HGNC:4496	2q21-q22
+GPR89A	Approved symbol	GPR89A	G protein-coupled receptor 89A	HGNC:31984	1q21.1
+GPR89B	Approved symbol	GPR89B	G protein-coupled receptor 89B	HGNC:13840	1q21.1
+GPR97	Previous symbol	ADGRG3	adhesion G protein-coupled receptor G3	HGNC:13728	16q13
+GPRC5C	Approved symbol	GPRC5C	G protein-coupled receptor, class C, group 5, member C	HGNC:13309	17q25
+GPS1	Approved symbol	GPS1	G protein pathway suppressor 1	HGNC:4549	17q25.3
+GPS2	Approved symbol	GPS2	G protein pathway suppressor 2	HGNC:4550	17p13.1
+GPX1	Approved symbol	GPX1	glutathione peroxidase 1	HGNC:4553	3p21.3
+GRAMD2	Approved symbol	GRAMD2	GRAM domain containing 2	HGNC:27287	15q23
+GRAP2	Approved symbol	GRAP2	GRB2-related adaptor protein 2	HGNC:4563	22q13.2
+GRINA	Approved symbol	GRINA	glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding)	HGNC:4589	8q24.3
+GSDMC	Approved symbol	GSDMC	gasdermin C	HGNC:7151	8q24.21
+GSDMD	Approved symbol	GSDMD	gasdermin D	HGNC:25697	8q24.3
+GSN	Approved symbol	GSN	gelsolin	HGNC:4620	9q33
+GSTK1	Approved symbol	GSTK1	glutathione S-transferase kappa 1	HGNC:16906	7q34
+GSTO1	Approved symbol	GSTO1	glutathione S-transferase omega 1	HGNC:13312	10q25.1
+GSTO2	Approved symbol	GSTO2	glutathione S-transferase omega 2	HGNC:23064	10q25.1
+GSTP1	Approved symbol	GSTP1	glutathione S-transferase pi 1	HGNC:4638	11q13.2
+GSTZ1	Approved symbol	GSTZ1	glutathione S-transferase zeta 1	HGNC:4643	14q24.3
+GTF2E2	Approved symbol	GTF2E2	general transcription factor IIE, polypeptide 2, beta 34kDa	HGNC:4651	8p12
+GTF2F1	Approved symbol	GTF2F1	general transcription factor IIF, polypeptide 1, 74kDa	HGNC:4652	19p13.3
+GTPBP1	Approved symbol	GTPBP1	GTP binding protein 1	HGNC:4669	22q13.1
+GTPBP4	Approved symbol	GTPBP4	GTP binding protein 4	HGNC:21535	10p15-p14
+H2AFV	Approved symbol	H2AFV	H2A histone family, member V	HGNC:20664	7p13
+H2AFY2	Approved symbol	H2AFY2	H2A histone family, member Y2	HGNC:14453	10q22.1
+H3F3A	Approved symbol	H3F3A	H3 histone, family 3A	HGNC:4764	1q42.12
+HABP2	Approved symbol	HABP2	hyaluronan binding protein 2	HGNC:4798	10q25.3
+HAMP	Approved symbol	HAMP	hepcidin antimicrobial peptide	HGNC:15598	19q13.1
+HAND2	Approved symbol	HAND2	heart and neural crest derivatives expressed 2	HGNC:4808	4q34.1
+HARBI1	Approved symbol	HARBI1	harbinger transposase derived 1	HGNC:26522	11p11.2
+HAX1	Approved symbol	HAX1	HCLS1 associated protein X-1	HGNC:16915	1q21.3
+HCN4	Approved symbol	HCN4	hyperpolarization activated cyclic nucleotide gated potassium channel 4	HGNC:16882	15q24.1
+HDAC11	Approved symbol	HDAC11	histone deacetylase 11	HGNC:19086	3p25.1
+HDAC7	Approved symbol	HDAC7	histone deacetylase 7	HGNC:14067	12q13.1
+HDGF	Approved symbol	HDGF	hepatoma-derived growth factor	HGNC:4856	1q23.1
+HEATR1	Approved symbol	HEATR1	HEAT repeat containing 1	HGNC:25517	1q43
+HECTD3	Approved symbol	HECTD3	HECT domain containing E3 ubiquitin protein ligase 3	HGNC:26117	1p34.1
+HELLS	Approved symbol	HELLS	helicase, lymphoid-specific	HGNC:4861	10q24.2
+HEMK1	Approved symbol	HEMK1	HemK methyltransferase family member 1	HGNC:24923	3p21
+HERC2	Approved symbol	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	HGNC:4868	15q13
+HERC4	Approved symbol	HERC4	HECT and RLD domain containing E3 ubiquitin protein ligase 4	HGNC:24521	10q21.3
+HERC6	Approved symbol	HERC6	HECT and RLD domain containing E3 ubiquitin protein ligase family member 6	HGNC:26072	4q22
+HEXDC	Approved symbol	HEXDC	hexosaminidase (glycosyl hydrolase family 20, catalytic domain) containing	HGNC:26307	17q25.3
+HEXIM2	Approved symbol	HEXIM2	hexamethylene bis-acetamide inducible 2	HGNC:28591	17q21.31
+HHATL	Approved symbol	HHATL	hedgehog acyltransferase-like	HGNC:13242	3p22
+HIF1AN	Approved symbol	HIF1AN	hypoxia inducible factor 1, alpha subunit inhibitor	HGNC:17113	10q24
+HINT2	Approved symbol	HINT2	histidine triad nucleotide binding protein 2	HGNC:18344	9p11.2
+HIP1R	Approved symbol	HIP1R	huntingtin interacting protein 1 related	HGNC:18415	12q24
+HIRIP3	Approved symbol	HIRIP3	HIRA interacting protein 3	HGNC:4917	16p12.1
+HIST1H2AJ	Approved symbol	HIST1H2AJ	histone cluster 1, H2aj	HGNC:4727	6p22.1
+HIST1H2AL	Approved symbol	HIST1H2AL	histone cluster 1, H2al	HGNC:4730	6p22.1
+HIST1H2BJ	Approved symbol	HIST1H2BJ	histone cluster 1, H2bj	HGNC:4761	6p22.1
+HIST2H2AA3	Approved symbol	HIST2H2AA3	histone cluster 2, H2aa3	HGNC:4736	1q21.2
+HIST2H2AC	Approved symbol	HIST2H2AC	histone cluster 2, H2ac	HGNC:4738	1q21.2
+HIST2H2BA	Approved symbol	HIST2H2BA	histone cluster 2, H2ba (pseudogene)	HGNC:20560	1p11.2
+HIST2H2BE	Approved symbol	HIST2H2BE	histone cluster 2, H2be	HGNC:4760	1q21.2
+HIST2H2BF	Approved symbol	HIST2H2BF	histone cluster 2, H2bf	HGNC:24700	1q21.2
+HIST2H4A	Approved symbol	HIST2H4A	histone cluster 2, H4a	HGNC:4794	1q21.2
+HLA-DOA	Approved symbol	HLA-DOA	major histocompatibility complex, class II, DO alpha	HGNC:4936	6p21.3
+HLA-DPB1	Approved symbol	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	HGNC:4940	6p21.3
+HLA-DPB2	Approved symbol	HLA-DPB2	major histocompatibility complex, class II, DP beta 2 (pseudogene)	HGNC:4941	6p21.3
+HLA-DQA2	Approved symbol	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2	HGNC:4943	6p21.3
+HLA-DQB2	Approved symbol	HLA-DQB2	major histocompatibility complex, class II, DQ beta 2	HGNC:4945	6p21.3
+HLA-DRA	Approved symbol	HLA-DRA	major histocompatibility complex, class II, DR alpha	HGNC:4947	6p21.3
+HLA-DRB1	Approved symbol	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	HGNC:4948	6p21.3
+HLA-DRB6	Approved symbol	HLA-DRB6	major histocompatibility complex, class II, DR beta 6 (pseudogene)	HGNC:4954	6p21.3
+HLA-E	Approved symbol	HLA-E	major histocompatibility complex, class I, E	HGNC:4962	6p21.3
+HM13	Approved symbol	HM13	histocompatibility (minor) 13	HGNC:16435	20q11.21
+HMBOX1	Approved symbol	HMBOX1	homeobox containing 1	HGNC:26137	8p12
+HMGA1	Approved symbol	HMGA1	high mobility group AT-hook 1	HGNC:5010	6p21
+HMGCL	Approved symbol	HMGCL	3-hydroxymethyl-3-methylglutaryl-CoA lyase	HGNC:5005	1p36.1-p35
+HMGN5	Approved symbol	HMGN5	high mobility group nucleosome binding domain 5	HGNC:8013	Xq13.3
+HNF1A	Approved symbol	HNF1A	HNF1 homeobox A	HGNC:11621	12q24.31
+HNF4A	Approved symbol	HNF4A	hepatocyte nuclear factor 4, alpha	HGNC:5024	20q13.12
+HNRNPF	Approved symbol	HNRNPF	heterogeneous nuclear ribonucleoprotein F	HGNC:5039	10q11.21
+HNRNPH3	Approved symbol	HNRNPH3	heterogeneous nuclear ribonucleoprotein H3 (2H9)	HGNC:5043	10q22
+HNRNPU	Approved symbol	HNRNPU	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)	HGNC:5048	1q44
+HNRNPU	Synonyms	HNRNPU	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)	HGNC:5048	1q44
+HNRNPUL2	Approved symbol	HNRNPUL2	heterogeneous nuclear ribonucleoprotein U-like 2	HGNC:25451	11q12
+HOXA2	Approved symbol	HOXA2	homeobox A2	HGNC:5103	7p15.2
+HOXB1	Approved symbol	HOXB1	homeobox B1	HGNC:5111	17q21.32
+HPGDS	Approved symbol	HPGDS	hematopoietic prostaglandin D synthase	HGNC:17890	4q22.2
+HPS1	Approved symbol	HPS1	Hermansky-Pudlak syndrome 1	HGNC:5163	10q23.1-q23.3
+HRASLS2	Approved symbol	HRASLS2	HRAS-like suppressor 2	HGNC:17824	11q12.2
+HRASLS5	Approved symbol	HRASLS5	HRAS-like suppressor family, member 5	HGNC:24978	11q13.2
+HRH1	Approved symbol	HRH1	histamine receptor H1	HGNC:5182	3p25
+HRH1	Synonyms	DHX8	DEAH (Asp-Glu-Ala-His) box polypeptide 8	HGNC:2749	17q21.31
+HRSP12	Approved symbol	HRSP12	heat-responsive protein 12	HGNC:16897	8q22
+HS6ST1	Approved symbol	HS6ST1	heparan sulfate 6-O-sulfotransferase 1	HGNC:5201	2q21
+HSBP1	Approved symbol	HSBP1	heat shock factor binding protein 1	HGNC:5203	16q23.3
+HSD17B3	Approved symbol	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	HGNC:5212	9q22
+HSD17B7	Approved symbol	HSD17B7	hydroxysteroid (17-beta) dehydrogenase 7	HGNC:5215	1q23
+HSD17B7	Synonyms	HSD17B7P2	hydroxysteroid (17-beta) dehydrogenase 7 pseudogene 2	HGNC:28120	10p11.1
+HSD17B8	Approved symbol	HSD17B8	hydroxysteroid (17-beta) dehydrogenase 8	HGNC:3554	6p21.3
+HSPA12B	Approved symbol	HSPA12B	heat shock 70kD protein 12B	HGNC:16193	20p13
+HSPA14	Approved symbol	HSPA14	heat shock 70kDa protein 14	HGNC:29526	10p13
+HSPBP1	Approved symbol	HSPBP1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1	HGNC:24989	19q13.42
+HSPBP1	Synonyms	HSPBP1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1	HGNC:24989	19q13.42
+HVCN1	Approved symbol	HVCN1	hydrogen voltage gated channel 1	HGNC:28240	12q24.11
+HYDIN	Approved symbol	HYDIN	HYDIN, axonemal central pair apparatus protein	HGNC:19368	16q22.2
+IARS2	Approved symbol	IARS2	isoleucyl-tRNA synthetase 2, mitochondrial	HGNC:29685	1q41
+ICAM2	Approved symbol	ICAM2	intercellular adhesion molecule 2	HGNC:5345	17q23.3
+ICMT	Approved symbol	ICMT	isoprenylcysteine carboxyl methyltransferase	HGNC:5350	1p36
+IDE	Approved symbol	IDE	insulin-degrading enzyme	HGNC:5381	10q23-q25
+IDH2	Approved symbol	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	HGNC:5383	15q26.1
+IDH3A	Approved symbol	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha	HGNC:5384	15q25.1-q25.2
+IDI1	Approved symbol	IDI1	isopentenyl-diphosphate delta isomerase 1	HGNC:5387	10p15.3
+IDI2	Approved symbol	IDI2	isopentenyl-diphosphate delta isomerase 2	HGNC:23487	10p15.3
+IFFO2	Approved symbol	IFFO2	intermediate filament family orphan 2	HGNC:27006	1p36.13
+IFI27	Approved symbol	IFI27	interferon, alpha-inducible protein 27	HGNC:5397	14q32.12
+IFI35	Approved symbol	IFI35	interferon-induced protein 35	HGNC:5399	17q21
+IFNAR2	Approved symbol	IFNAR2	interferon (alpha, beta and omega) receptor 2	HGNC:5433	21q22.1
+IFNGR1	Approved symbol	IFNGR1	interferon gamma receptor 1	HGNC:5439	6q23-q24
+IFT122	Approved symbol	IFT122	intraflagellar transport 122	HGNC:13556	3q21
+IFT27	Approved symbol	IFT27	intraflagellar transport 27	HGNC:18626	22q13.1
+IFT46	Approved symbol	IFT46	intraflagellar transport 46	HGNC:26146	11q23.3
+IGFBP3	Approved symbol	IGFBP3	insulin-like growth factor binding protein 3	HGNC:5472	7p12.3
+IGFBP7	Approved symbol	IGFBP7	insulin-like growth factor binding protein 7	HGNC:5476	4q12
+IK	Approved symbol	IK	IK cytokine, down-regulator of HLA II	HGNC:5958	5q31.3
+IK	Synonyms	KCNN4	potassium channel, calcium activated intermediate/small conductance subfamily N alpha, member 4	HGNC:6293	19q13.2
+IKBKB	Approved symbol	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	HGNC:5960	8p11.2
+IKBKE	Approved symbol	IKBKE	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon	HGNC:14552	1q32.1
+IL12A	Approved symbol	IL12A	interleukin 12A	HGNC:5969	3q25.33
+IL15	Approved symbol	IL15	interleukin 15	HGNC:5977	4q31
+IL16	Approved symbol	IL16	interleukin 16	HGNC:5980	15q26.3
+IL1R2	Approved symbol	IL1R2	interleukin 1 receptor, type II	HGNC:5994	2q12
+IL1RN	Approved symbol	IL1RN	interleukin 1 receptor antagonist	HGNC:6000	2q14.2
+IL4R	Approved symbol	IL4R	interleukin 4 receptor	HGNC:6015	16p12.1-p11.2
+ILF2	Approved symbol	ILF2	interleukin enhancer binding factor 2	HGNC:6037	1q21.3
+ILK	Approved symbol	ILK	integrin-linked kinase	HGNC:6040	11p15.4
+ILKAP	Approved symbol	ILKAP	integrin-linked kinase-associated serine/threonine phosphatase	HGNC:15566	2q37.3
+INPP1	Approved symbol	INPP1	inositol polyphosphate-1-phosphatase	HGNC:6071	2q32
+INPP4B	Approved symbol	INPP4B	inositol polyphosphate-4-phosphatase, type II, 105kDa	HGNC:6075	4q31.1
+INPP5A	Approved symbol	INPP5A	inositol polyphosphate-5-phosphatase, 40kDa	HGNC:6076	10q26.3
+INPP5D	Approved symbol	INPP5D	inositol polyphosphate-5-phosphatase, 145kDa	HGNC:6079	2q37.1
+INPP5F	Approved symbol	INPP5F	inositol polyphosphate-5-phosphatase F	HGNC:17054	10q26.13
+INTS1	Approved symbol	INTS1	integrator complex subunit 1	HGNC:24555	7p22.3
+INTS10	Approved symbol	INTS10	integrator complex subunit 10	HGNC:25548	8p21.3
+INTS3	Approved symbol	INTS3	integrator complex subunit 3	HGNC:26153	1q21.3
+INTS5	Approved symbol	INTS5	integrator complex subunit 5	HGNC:29352	11q12.3
+INTS7	Approved symbol	INTS7	integrator complex subunit 7	HGNC:24484	1q32.3
+INTS9	Approved symbol	INTS9	integrator complex subunit 9	HGNC:25592	8p21.1
+IPO9	Approved symbol	IPO9	importin 9	HGNC:19425	1q31.3
+IQCD	Approved symbol	IQCD	IQ motif containing D	HGNC:25168	12q24.21
+IRAK3	Approved symbol	IRAK3	interleukin-1 receptor-associated kinase 3	HGNC:17020	12q13.13
+IRF1	Approved symbol	IRF1	interferon regulatory factor 1	HGNC:6116	5q23-q31
+IRF2BP2	Approved symbol	IRF2BP2	interferon regulatory factor 2 binding protein 2	HGNC:21729	1q42.3
+IRF9	Approved symbol	IRF9	interferon regulatory factor 9	HGNC:6131	14q11.2
+IRX6	Approved symbol	IRX6	iroquois homeobox 6	HGNC:14675	16q12.2
+ISCU	Approved symbol	ISCU	iron-sulfur cluster assembly enzyme	HGNC:29882	12q24.1
+ISCU	Synonyms	ISCU	iron-sulfur cluster assembly enzyme	HGNC:29882	12q24.1
+ISG20	Approved symbol	ISG20	interferon stimulated exonuclease gene 20kDa	HGNC:6130	15q26
+ISG20L2	Approved symbol	ISG20L2	interferon stimulated exonuclease gene 20kDa-like 2	HGNC:25745	1q23.1
+ITGA3	Approved symbol	ITGA3	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	HGNC:6139	17q21.33
+ITGAL	Approved symbol	ITGAL	integrin, alpha L (antigen CD11A (p180), lymphocyte function-associated antigen 1; alpha polypeptide)	HGNC:6148	16p13.1-p11
+ITGAM	Approved symbol	ITGAM	integrin, alpha M (complement component 3 receptor 3 subunit)	HGNC:6149	16p11.2
+ITGB1	Approved symbol	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	HGNC:6153	10p11.2
+ITGB2	Approved symbol	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	HGNC:6155	21q22.3
+ITGB3	Approved symbol	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	HGNC:6156	17q21.32
+ITGB6	Approved symbol	ITGB6	integrin, beta 6	HGNC:6161	2q24.2
+ITK	Approved symbol	ITK	IL2-inducible T-cell kinase	HGNC:6171	5q31-q32
+ITPK1	Approved symbol	ITPK1	inositol-tetrakisphosphate 1-kinase	HGNC:6177	14q32.12
+ITPKB	Approved symbol	ITPKB	inositol-trisphosphate 3-kinase B	HGNC:6179	1q42.12
+ITPRIP	Approved symbol	ITPRIP	inositol 1,4,5-trisphosphate receptor interacting protein	HGNC:29370	10q25.1
+ITPRIPL1	Approved symbol	ITPRIPL1	inositol 1,4,5-trisphosphate receptor interacting protein-like 1	HGNC:29371	2q11.2
+IVNS1ABP	Approved symbol	IVNS1ABP	influenza virus NS1A binding protein	HGNC:16951	1q25.1-q31.1
+JAG1	Approved symbol	JAG1	jagged 1	HGNC:6188	20p12.1-p11.23
+JAGN1	Approved symbol	JAGN1	jagunal homolog 1 (Drosophila)	HGNC:26926	3p25.2
+JDP2	Approved symbol	JDP2	Jun dimerization protein 2	HGNC:17546	14q24.2
+JMJD1C	Approved symbol	JMJD1C	jumonji domain containing 1C	HGNC:12313	10q22.1
+JPH1	Approved symbol	JPH1	junctophilin 1	HGNC:14201	8q21
+JPH3	Approved symbol	JPH3	junctophilin 3	HGNC:14203	16q24.3
+JTB	Approved symbol	JTB	jumping translocation breakpoint	HGNC:6201	1q21
+KALRN	Approved symbol	KALRN	kalirin, RhoGEF kinase	HGNC:4814	3q21.2
+KANK3	Approved symbol	KANK3	KN motif and ankyrin repeat domains 3	HGNC:24796	19p13.2
+KARS	Approved symbol	KARS	lysyl-tRNA synthetase	HGNC:6215	16q23.1
+KAT5	Approved symbol	KAT5	K(lysine) acetyltransferase 5	HGNC:5275	11q13
+KATNB1	Approved symbol	KATNB1	katanin p80 (WD repeat containing) subunit B 1	HGNC:6217	16q12.2
+KBTBD2	Approved symbol	KBTBD2	kelch repeat and BTB (POZ) domain containing 2	HGNC:21751	7p14.3
+KCND3	Approved symbol	KCND3	potassium channel, voltage gated Shal related subfamily D, member 3	HGNC:6239	1p13.2
+KCNE3	Approved symbol	KCNE3	potassium channel, voltage gated subfamily E regulatory beta subunit 3	HGNC:6243	11q13.4
+KCNH3	Approved symbol	KCNH3	potassium channel, voltage gated eag related subfamily H, member 3	HGNC:6252	12q13
+KCNH4	Approved symbol	KCNH4	potassium channel, voltage gated eag related subfamily H, member 4	HGNC:6253	17q21
+KCNK9	Approved symbol	KCNK9	potassium channel, two pore domain subfamily K, member 9	HGNC:6283	8q24.3
+KCNMB1	Approved symbol	KCNMB1	potassium channel subfamily M regulatory beta subunit 1	HGNC:6285	5q34
+KCNRG	Approved symbol	KCNRG	potassium channel regulator	HGNC:18893	13q14.11
+KCTD3	Approved symbol	KCTD3	potassium channel tetramerization domain containing 3	HGNC:21305	1q41
+KDM4D	Approved symbol	KDM4D	lysine (K)-specific demethylase 4D	HGNC:25498	11q21
+KDM5B	Approved symbol	KDM5B	lysine (K)-specific demethylase 5B	HGNC:18039	1q32.1
+KHDC1	Approved symbol	KHDC1	KH homology domain containing 1	HGNC:21366	6q13
+KIAA0040	Approved symbol	KIAA0040	KIAA0040	HGNC:28950	1q25.1
+KIAA0196	Approved symbol	KIAA0196	KIAA0196	HGNC:28984	8q24.13
+KIAA0513	Approved symbol	KIAA0513	KIAA0513	HGNC:29058	16q24.1
+KIAA0556	Approved symbol	KIAA0556	KIAA0556	HGNC:29068	16p12.1-p11.2
+KIAA0907	Approved symbol	KIAA0907	KIAA0907	HGNC:29145	1q22
+KIAA1217	Approved symbol	KIAA1217	KIAA1217	HGNC:25428	10p12.31
+KIAA1279	Approved symbol	KIAA1279	KIAA1279	HGNC:23419	10q22.1
+KIAA1377	Previous symbol	CEP126	centrosomal protein 126kDa	HGNC:29264	11q22.2
+KIAA1429	Approved symbol	KIAA1429	KIAA1429	HGNC:24500	8q22.1
+KIAA1614	Approved symbol	KIAA1614	KIAA1614	HGNC:29327	1q25.3
+KIAA1804	Unmatched				
+KIF11	Approved symbol	KIF11	kinesin family member 11	HGNC:6388	10q24.1
+KIF14	Approved symbol	KIF14	kinesin family member 14	HGNC:19181	1q32.1
+KIF17	Approved symbol	KIF17	kinesin family member 17	HGNC:19167	1p36.13
+KIF19	Approved symbol	KIF19	kinesin family member 19	HGNC:26735	17q25
+KIF20B	Approved symbol	KIF20B	kinesin family member 20B	HGNC:7212	10q23.31
+KIF24	Approved symbol	KIF24	kinesin family member 24	HGNC:19916	9p13.3
+KIF5B	Approved symbol	KIF5B	kinesin family member 5B	HGNC:6324	10p11.22
+KIF9	Approved symbol	KIF9	kinesin family member 9	HGNC:16666	3p21.31
+KIFAP3	Approved symbol	KIFAP3	kinesin-associated protein 3	HGNC:17060	1q24.2
+KIFC3	Approved symbol	KIFC3	kinesin family member C3	HGNC:6326	16q13-q21
+KIN	Approved symbol	KIN	Kin17 DNA and RNA binding protein	HGNC:6327	10p14
+KLC2	Approved symbol	KLC2	kinesin light chain 2	HGNC:20716	11q13.1
+KLF6	Approved symbol	KLF6	Kruppel-like factor 6	HGNC:2235	10p15
+KLHDC7A	Approved symbol	KLHDC7A	kelch domain containing 7A	HGNC:26791	1p36.13
+KLHDC9	Approved symbol	KLHDC9	kelch domain containing 9	HGNC:28489	1q23.3
+KLHL12	Approved symbol	KLHL12	kelch-like family member 12	HGNC:19360	1q32.1
+KLHL20	Approved symbol	KLHL20	kelch-like family member 20	HGNC:25056	1q25.1
+KLHL30	Approved symbol	KLHL30	kelch-like family member 30	HGNC:24770	2q37.3
+KLRC1	Approved symbol	KLRC1	killer cell lectin-like receptor subfamily C, member 1	HGNC:6374	12p13
+KLRD1	Approved symbol	KLRD1	killer cell lectin-like receptor subfamily D, member 1	HGNC:6378	12p13
+KLRK1	Approved symbol	KLRK1	killer cell lectin-like receptor subfamily K, member 1	HGNC:18788	12p13.2-p12.3
+KMO	Approved symbol	KMO	kynurenine 3-monooxygenase (kynurenine 3-hydroxylase)	HGNC:6381	1q42-q44
+KRT17	Approved symbol	KRT17	keratin 17, type I	HGNC:6427	17q21.2
+KRT18	Approved symbol	KRT18	keratin 18, type I	HGNC:6430	12q13
+KRT19	Approved symbol	KRT19	keratin 19, type I	HGNC:6436	17q21.2
+KRT8	Approved symbol	KRT8	keratin 8, type II	HGNC:6446	12q13.13
+KRTCAP2	Approved symbol	KRTCAP2	keratinocyte associated protein 2	HGNC:28942	1q22
+KSR1	Approved symbol	KSR1	kinase suppressor of ras 1	HGNC:6465	17q11.2
+L3MBTL2	Approved symbol	L3MBTL2	l(3)mbt-like 2 (Drosophila)	HGNC:18594	22q13.31-q13.33
+LAD1	Approved symbol	LAD1	ladinin 1	HGNC:6472	1q25.1-q32.3
+LAIR1	Approved symbol	LAIR1	leukocyte-associated immunoglobulin-like receptor 1	HGNC:6477	19q13.4
+LAMA3	Approved symbol	LAMA3	laminin, alpha 3	HGNC:6483	18q11.2
+LAMA3	Synonyms	LAMA4	laminin, alpha 4	HGNC:6484	6q21
+LAPTM5	Approved symbol	LAPTM5	lysosomal protein transmembrane 5	HGNC:29612	1p34
+LARP4B	Approved symbol	LARP4B	La ribonucleoprotein domain family, member 4B	HGNC:28987	10p15.3
+LARP6	Approved symbol	LARP6	La ribonucleoprotein domain family, member 6	HGNC:24012	15q23
+LAX1	Approved symbol	LAX1	lymphocyte transmembrane adaptor 1	HGNC:26005	1q32.1
+LBH	Approved symbol	LBH	limb bud and heart development	HGNC:29532	2p23.1
+LBH	Synonyms	C6orf1	chromosome 6 open reading frame 1	HGNC:1340	6p21.3
+LBR	Approved symbol	LBR	lamin B receptor	HGNC:6518	1q42.1
+LCN12	Approved symbol	LCN12	lipocalin 12	HGNC:28733	9q34
+LCN2	Approved symbol	LCN2	lipocalin 2	HGNC:6526	9q34
+LDB1	Approved symbol	LDB1	LIM domain binding 1	HGNC:6532	10q24-q25
+LDB1	Synonyms	LDB2	LIM domain binding 2	HGNC:6533	4p16
+LDB3	Approved symbol	LDB3	LIM domain binding 3	HGNC:15710	10q22.3-q23.2
+LENEP	Approved symbol	LENEP	lens epithelial protein	HGNC:14429	1q22.2
+LEPROTL1	Approved symbol	LEPROTL1	leptin receptor overlapping transcript-like 1	HGNC:6555	8p12
+LGALS8	Approved symbol	LGALS8	lectin, galactoside-binding, soluble, 8	HGNC:6569	1q43
+LGALS9	Approved symbol	LGALS9	lectin, galactoside-binding, soluble, 9	HGNC:6570	17q11.2
+LGALS9C	Approved symbol	LGALS9C	lectin, galactoside-binding, soluble, 9C	HGNC:33874	17p11.2
+LHPP	Approved symbol	LHPP	phospholysine phosphohistidine inorganic pyrophosphate phosphatase	HGNC:30042	10q26.2
+LHX2	Approved symbol	LHX2	LIM homeobox 2	HGNC:6594	9q33.3
+LILRA1	Approved symbol	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	HGNC:6602	19q13.4
+LILRA2	Approved symbol	LILRA2	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2	HGNC:6603	19q13.4
+LILRA5	Approved symbol	LILRA5	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 5	HGNC:16309	19q13.4
+LILRA6	Approved symbol	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	HGNC:15495	19q13.4
+LILRB3	Approved symbol	LILRB3	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 3	HGNC:6607	19q13.4
+LIMK2	Approved symbol	LIMK2	LIM domain kinase 2	HGNC:6614	22q12
+LIN9	Approved symbol	LIN9	lin-9 DREAM MuvB core complex component	HGNC:30830	1q42
+LIPA	Approved symbol	LIPA	lipase A, lysosomal acid, cholesterol esterase	HGNC:6617	10q23.2-q23.3
+LIPA	Synonyms	SCGB1D1	secretoglobin, family 1D, member 1	HGNC:18395	11q13
+LIPH	Approved symbol	LIPH	lipase, member H	HGNC:18483	3q27
+LIPT2	Approved symbol	LIPT2	lipoyl(octanoyl) transferase 2 (putative)	HGNC:37216	11q13.4
+LITAF	Approved symbol	LITAF	lipopolysaccharide-induced TNF factor	HGNC:16841	16p13.3-p12
+LIX1L	Approved symbol	LIX1L	Lix1 homolog (chicken) like	HGNC:28715	1q21.1
+LLPH	Approved symbol	LLPH	LLP homolog, long-term synaptic facilitation (Aplysia)	HGNC:28229	12q14.3
+LOC100132111	Unmatched				
+LOC100240735	Unmatched				
+LOC148709	Unmatched				
+LOC400794	Unmatched				
+LOC401052	Unmatched				
+LOC440461	Unmatched				
+LOC606724	Unmatched				
+LOC728989	Unmatched				
+LOX	Approved symbol	LOX	lysyl oxidase	HGNC:6664	5q23.3-q31.2
+LPGAT1	Approved symbol	LPGAT1	lysophosphatidylglycerol acyltransferase 1	HGNC:28985	1q32.3
+LRIG3	Approved symbol	LRIG3	leucine-rich repeats and immunoglobulin-like domains 3	HGNC:30991	12q14.1
+LRRC10B	Approved symbol	LRRC10B	leucine rich repeat containing 10B	HGNC:37215	11q12.2
+LRRC20	Approved symbol	LRRC20	leucine rich repeat containing 20	HGNC:23421	10q22.2
+LRRC23	Approved symbol	LRRC23	leucine rich repeat containing 23	HGNC:19138	12p13
+LRRC25	Approved symbol	LRRC25	leucine rich repeat containing 25	HGNC:29806	19p13.11
+LRRC27	Approved symbol	LRRC27	leucine rich repeat containing 27	HGNC:29346	10q26.3
+LRRC29	Approved symbol	LRRC29	leucine rich repeat containing 29	HGNC:13605	16q22.1
+LRRC43	Approved symbol	LRRC43	leucine rich repeat containing 43	HGNC:28562	12q24.31
+LRRC45	Approved symbol	LRRC45	leucine rich repeat containing 45	HGNC:28302	17q25.3
+LRRC46	Approved symbol	LRRC46	leucine rich repeat containing 46	HGNC:25047	17q21.32
+LRRC59	Approved symbol	LRRC59	leucine rich repeat containing 59	HGNC:28817	17q21.33
+LRRFIP2	Approved symbol	LRRFIP2	leucine rich repeat (in FLII) interacting protein 2	HGNC:6703	3p22.1
+LRRIQ1	Approved symbol	LRRIQ1	leucine-rich repeats and IQ motif containing 1	HGNC:25708	12q21
+LRRIQ4	Approved symbol	LRRIQ4	leucine-rich repeats and IQ motif containing 4	HGNC:34298	3q26.2
+LRRK1	Approved symbol	LRRK1	leucine-rich repeat kinase 1	HGNC:18608	15q26.3
+LRTOMT	Approved symbol	LRTOMT	leucine rich transmembrane and O-methyltransferase domain containing	HGNC:25033	11q13.4
+LSG1	Approved symbol	LSG1	large 60S subunit nuclear export GTPase 1	HGNC:25652	3q29
+LSM1	Approved symbol	LSM1	LSM1, U6 small nuclear RNA associated	HGNC:20472	8p11.2
+LSM2	Approved symbol	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	HGNC:13940	6p21.3
+LSP1	Approved symbol	LSP1	lymphocyte-specific protein 1	HGNC:6707	11p15.5
+LTB	Approved symbol	LTB	lymphotoxin beta (TNF superfamily, member 3)	HGNC:6711	6p21.3
+LYL1	Approved symbol	LYL1	lymphoblastic leukemia associated hematopoiesis regulator 1	HGNC:6734	19p13.2
+LYN	Approved symbol	LYN	LYN proto-oncogene, Src family tyrosine kinase	HGNC:6735	8q13
+LYNX1	Approved symbol	LYNX1	Ly6/neurotoxin 1	HGNC:29604	8q24.3
+LYPD5	Approved symbol	LYPD5	LY6/PLAUR domain containing 5	HGNC:26397	19q13.31
+LYPD6B	Approved symbol	LYPD6B	LY6/PLAUR domain containing 6B	HGNC:27018	2q23.2
+LYPLA2	Approved symbol	LYPLA2	lysophospholipase II	HGNC:6738	1p36.11
+LYSMD1	Approved symbol	LYSMD1	LysM, putative peptidoglycan-binding, domain containing 1	HGNC:32070	1q21.2
+LYST	Approved symbol	LYST	lysosomal trafficking regulator	HGNC:1968	1q42.1-q42.2
+LZTS2	Approved symbol	LZTS2	leucine zipper, putative tumor suppressor 2	HGNC:29381	10q24
+MACROD2	Approved symbol	MACROD2	MACRO domain containing 2	HGNC:16126	20p12.1
+MAD2L1BP	Approved symbol	MAD2L1BP	MAD2L1 binding protein	HGNC:21059	6p21.1
+MAEA	Approved symbol	MAEA	macrophage erythroblast attacher	HGNC:13731	4p16.3
+MAF1	Approved symbol	MAF1	MAF1 homolog (S. cerevisiae)	HGNC:24966	8q24.3
+MAFA	Approved symbol	MAFA	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog A	HGNC:23145	8q24.3
+MAFA	Synonyms	KLRG1	killer cell lectin-like receptor subfamily G, member 1	HGNC:6380	12p13.31
+MAL2	Approved symbol	MAL2	mal, T-cell differentiation protein 2 (gene/pseudogene)	HGNC:13634	8q23
+MAP1A	Approved symbol	MAP1A	microtubule-associated protein 1A	HGNC:6835	15q15.3
+MAP1A	Synonyms	METAP1	methionyl aminopeptidase 1	HGNC:15789	4q23
+MAP3K6	Approved symbol	MAP3K6	mitogen-activated protein kinase kinase kinase 6	HGNC:6858	1p36.11
+MAP3K8	Approved symbol	MAP3K8	mitogen-activated protein kinase kinase kinase 8	HGNC:6860	10p11.2
+MAP4K1	Approved symbol	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1	HGNC:6863	19q13.1-q13.4
+MAP6	Approved symbol	MAP6	microtubule-associated protein 6	HGNC:6868	11q13.5
+MAP7D1	Approved symbol	MAP7D1	MAP7 domain containing 1	HGNC:25514	1p34.3
+MAPK3	Approved symbol	MAPK3	mitogen-activated protein kinase 3	HGNC:6877	16p11.2
+MAPK8	Approved symbol	MAPK8	mitogen-activated protein kinase 8	HGNC:6881	10q11
+MAPKAPK2	Approved symbol	MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2	HGNC:6887	1q32
+MARCH10	Approved symbol	MARCH10	membrane-associated ring finger (C3HC4) 10, E3 ubiquitin protein ligase	HGNC:26655	17q23.3
+MARCH5	Approved symbol	MARCH5	membrane-associated ring finger (C3HC4) 5	HGNC:26025	10q23.32-q23.33
+MARK1	Approved symbol	MARK1	MAP/microtubule affinity-regulating kinase 1	HGNC:6896	1q41
+MARS	Approved symbol	MARS	methionyl-tRNA synthetase	HGNC:6898	12q13.3
+MARVELD1	Approved symbol	MARVELD1	MARVEL domain containing 1	HGNC:28674	10q24.2
+MASTL	Approved symbol	MASTL	microtubule associated serine/threonine kinase-like	HGNC:19042	10p12.1
+MATK	Approved symbol	MATK	megakaryocyte-associated tyrosine kinase	HGNC:6906	19p13.3
+MBD3	Approved symbol	MBD3	methyl-CpG binding domain protein 3	HGNC:6918	19p13
+MBD3L1	Approved symbol	MBD3L1	methyl-CpG binding domain protein 3-like 1	HGNC:15774	19p13.2
+MCAT	Approved symbol	MCAT	malonyl CoA:ACP acyltransferase (mitochondrial)	HGNC:29622	22q13.2
+MCF2	Approved symbol	MCF2	MCF.2 cell line derived transforming sequence	HGNC:6940	Xq26.3-q27.1
+MCL1	Approved symbol	MCL1	myeloid cell leukemia 1	HGNC:6943	1q21
+MCM10	Approved symbol	MCM10	minichromosome maintenance complex component 10	HGNC:18043	10p13
+MCM3	Approved symbol	MCM3	minichromosome maintenance complex component 3	HGNC:6945	6p12
+MCPH1	Approved symbol	MCPH1	microcephalin 1	HGNC:6954	8p23.1
+MCRS1	Approved symbol	MCRS1	microspherule protein 1	HGNC:6960	12q13.12
+MDM2	Approved symbol	MDM2	MDM2 proto-oncogene, E3 ubiquitin protein ligase	HGNC:6973	12q13-q14
+MDM4	Approved symbol	MDM4	MDM4, p53 regulator	HGNC:6974	1q32
+MED10	Approved symbol	MED10	mediator complex subunit 10	HGNC:28760	5p15.31
+MED11	Approved symbol	MED11	mediator complex subunit 11	HGNC:32687	17p13.2
+MED16	Approved symbol	MED16	mediator complex subunit 16	HGNC:17556	19p13.3
+MED18	Approved symbol	MED18	mediator complex subunit 18	HGNC:25944	1p35.3
+MED24	Approved symbol	MED24	mediator complex subunit 24	HGNC:22963	17q21.2
+MED24	Synonyms	MED22	mediator complex subunit 22	HGNC:11477	9q34.1
+MED25	Approved symbol	MED25	mediator complex subunit 25	HGNC:28845	19q13.3
+MED25	Synonyms	MED9	mediator complex subunit 9	HGNC:25487	17p11.2
+MED27	Approved symbol	MED27	mediator complex subunit 27	HGNC:2377	9q34.13
+MED29	Approved symbol	MED29	mediator complex subunit 29	HGNC:23074	19q13.2
+MED30	Approved symbol	MED30	mediator complex subunit 30	HGNC:23032	8q24.11
+MEF2B	Approved symbol	MEF2B	myocyte enhancer factor 2B	HGNC:6995	19p13.11
+MEF2D	Approved symbol	MEF2D	myocyte enhancer factor 2D	HGNC:6997	1q12-q23
+MEI1	Approved symbol	MEI1	meiosis inhibitor 1	HGNC:28613	22q13.2
+MEOX1	Approved symbol	MEOX1	mesenchyme homeobox 1	HGNC:7013	17q21.31
+MEPCE	Approved symbol	MEPCE	methylphosphate capping enzyme	HGNC:20247	7q22.1
+MEPCE	Synonyms	MEPCE	methylphosphate capping enzyme	HGNC:20247	7q22.1
+METTL10	Approved symbol	METTL10	methyltransferase like 10	HGNC:33787	10q26.13
+METTL13	Approved symbol	METTL13	methyltransferase like 13	HGNC:24248	1q24-q25.3
+MGMT	Approved symbol	MGMT	O-6-methylguanine-DNA methyltransferase	HGNC:7059	10q26
+MGST3	Approved symbol	MGST3	microsomal glutathione S-transferase 3	HGNC:7064	1q23
+MIA3	Approved symbol	MIA3	melanoma inhibitory activity family, member 3	HGNC:24008	1p36.33
+MICALL1	Approved symbol	MICALL1	MICAL-like 1	HGNC:29804	22q13.1
+MINPP1	Approved symbol	MINPP1	multiple inositol-polyphosphate phosphatase 1	HGNC:7102	10q23
+MIPEP	Approved symbol	MIPEP	mitochondrial intermediate peptidase	HGNC:7104	13q12
+MKI67	Approved symbol	MKI67	marker of proliferation Ki-67	HGNC:7107	10q26.2
+MKL1	Approved symbol	MKL1	megakaryoblastic leukemia (translocation) 1	HGNC:14334	22q13
+MKS1	Approved symbol	MKS1	Meckel syndrome, type 1	HGNC:7121	17q21-q24
+MLLT10	Approved symbol	MLLT10	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10	HGNC:16063	10p12
+MLXIP	Approved symbol	MLXIP	MLX interacting protein	HGNC:17055	12q21.31
+MLYCD	Approved symbol	MLYCD	malonyl-CoA decarboxylase	HGNC:7150	16q24
+MMAB	Approved symbol	MMAB	methylmalonic aciduria (cobalamin deficiency) cblB type	HGNC:19331	12q24
+MMP1	Approved symbol	MMP1	matrix metallopeptidase 1	HGNC:7155	11q22.2
+MMS19	Approved symbol	MMS19	MMS19 nucleotide excision repair homolog (S. cerevisiae)	HGNC:13824	10q24-q25
+MNS1	Approved symbol	MNS1	meiosis-specific nuclear structural 1	HGNC:29636	15q21.3
+MOCS3	Approved symbol	MOCS3	molybdenum cofactor synthesis 3	HGNC:15765	20q13.13
+MON1A	Approved symbol	MON1A	MON1 secretory trafficking family member A	HGNC:28207	3p21.31
+MORN4	Approved symbol	MORN4	MORN repeat containing 4	HGNC:24001	10q24.2
+MORN5	Approved symbol	MORN5	MORN repeat containing 5	HGNC:17841	9q34.11
+MOSPD3	Approved symbol	MOSPD3	motile sperm domain containing 3	HGNC:25078	7q22
+MOV10	Approved symbol	MOV10	Mov10 RISC complex RNA helicase	HGNC:7200	1p13.2
+MPDU1	Approved symbol	MPDU1	mannose-P-dolichol utilization defect 1	HGNC:7207	17p13.1-p12
+MPI	Approved symbol	MPI	mannose phosphate isomerase	HGNC:7216	15q24.1
+MPV17L	Approved symbol	MPV17L	MPV17 mitochondrial membrane protein-like	HGNC:26827	16p13.11
+MPZL1	Approved symbol	MPZL1	myelin protein zero-like 1	HGNC:7226	1q24.2
+MR1	Approved symbol	MR1	major histocompatibility complex, class I-related	HGNC:4975	1q25.3
+MRPL13	Approved symbol	MRPL13	mitochondrial ribosomal protein L13	HGNC:14278	8q22.1-q22.3
+MRPL15	Approved symbol	MRPL15	mitochondrial ribosomal protein L15	HGNC:14054	8q11.2-q13
+MRPL24	Approved symbol	MRPL24	mitochondrial ribosomal protein L24	HGNC:14037	1q23.1
+MRPL36	Approved symbol	MRPL36	mitochondrial ribosomal protein L36	HGNC:14490	5p15.3
+MRPL38	Approved symbol	MRPL38	mitochondrial ribosomal protein L38	HGNC:14033	17q23-q25
+MRPL40	Approved symbol	MRPL40	mitochondrial ribosomal protein L40	HGNC:14491	22q11.2
+MRPL43	Approved symbol	MRPL43	mitochondrial ribosomal protein L43	HGNC:14517	10q24.31
+MRPL49	Approved symbol	MRPL49	mitochondrial ribosomal protein L49	HGNC:1176	11q13.1
+MRPL55	Approved symbol	MRPL55	mitochondrial ribosomal protein L55	HGNC:16686	1q42.13
+MRPL9	Approved symbol	MRPL9	mitochondrial ribosomal protein L9	HGNC:14277	1q21
+MRPS11	Approved symbol	MRPS11	mitochondrial ribosomal protein S11	HGNC:14050	15q25
+MRPS14	Approved symbol	MRPS14	mitochondrial ribosomal protein S14	HGNC:14049	1q25.1
+MRPS16	Approved symbol	MRPS16	mitochondrial ribosomal protein S16	HGNC:14048	10q22.1
+MRPS17	Approved symbol	MRPS17	mitochondrial ribosomal protein S17	HGNC:14047	7p11-q11.21
+MRPS18A	Approved symbol	MRPS18A	mitochondrial ribosomal protein S18A	HGNC:14515	6p21.3
+MRPS18C	Approved symbol	MRPS18C	mitochondrial ribosomal protein S18C	HGNC:16633	4q21.21-q21.23
+MRPS21	Approved symbol	MRPS21	mitochondrial ribosomal protein S21	HGNC:14046	1q21
+MRPS28	Approved symbol	MRPS28	mitochondrial ribosomal protein S28	HGNC:14513	8q21.1-q21.2
+MRPS28	Synonyms	MRPS35	mitochondrial ribosomal protein S35	HGNC:16635	12p11
+MRPS7	Approved symbol	MRPS7	mitochondrial ribosomal protein S7	HGNC:14499	17q25.1
+MRTO4	Approved symbol	MRTO4	mRNA turnover 4 homolog (S. cerevisiae)	HGNC:18477	1p36.13
+MS4A1	Approved symbol	MS4A1	membrane-spanning 4-domains, subfamily A, member 1	HGNC:7315	11q12-q13.1
+MS4A1	Synonyms	MS4A2	membrane-spanning 4-domains, subfamily A, member 2	HGNC:7316	11q12-q13
+MSTO1	Approved symbol	MSTO1	misato 1, mitochondrial distribution and morphology regulator	HGNC:29678	1q22
+MSTO2P	Approved symbol	MSTO2P	misato family member 2, pseudogene	HGNC:26329	1q22
+MTCH1	Approved symbol	MTCH1	mitochondrial carrier 1	HGNC:17586	6p21.2
+MTDH	Approved symbol	MTDH	metadherin	HGNC:29608	8q22.1
+MTFR1	Approved symbol	MTFR1	mitochondrial fission regulator 1	HGNC:29510	8q13.1
+MTHFSD	Approved symbol	MTHFSD	methenyltetrahydrofolate synthetase domain containing	HGNC:25778	16q24.1
+MTMR14	Approved symbol	MTMR14	myotubularin related protein 14	HGNC:26190	3p26
+MTMR9	Approved symbol	MTMR9	myotubularin related protein 9	HGNC:14596	8p23-p22
+MTPAP	Approved symbol	MTPAP	mitochondrial poly(A) polymerase	HGNC:25532	10p12.1
+MTPAP	Synonyms	MTPAP	mitochondrial poly(A) polymerase	HGNC:25532	10p12.1
+MTR	Approved symbol	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase	HGNC:7468	1q43
+MTX1	Approved symbol	MTX1	metaxin 1	HGNC:7504	1q21
+MUC1	Approved symbol	MUC1	mucin 1, cell surface associated	HGNC:7508	1q22
+MUC13	Approved symbol	MUC13	mucin 13, cell surface associated	HGNC:7511	3q21.2
+MUC20	Approved symbol	MUC20	mucin 20, cell surface associated	HGNC:23282	3q29
+MUC4	Approved symbol	MUC4	mucin 4, cell surface associated	HGNC:7514	3q29
+MVP	Approved symbol	MVP	major vault protein	HGNC:7531	16p11.2
+MXI1	Approved symbol	MXI1	MAX interactor 1, dimerization protein	HGNC:7534	10q24-q25
+MYD88	Approved symbol	MYD88	myeloid differentiation primary response 88	HGNC:7562	3p22
+MYO1E	Approved symbol	MYO1E	myosin IE	HGNC:7599	15q21-q22
+MYO1F	Approved symbol	MYO1F	myosin IF	HGNC:7600	19p13.3-p13.2
+MYOM1	Approved symbol	MYOM1	myomesin 1	HGNC:7613	18p11.31
+N4BP1	Approved symbol	N4BP1	NEDD4 binding protein 1	HGNC:29850	16q12.1
+NAA40	Approved symbol	NAA40	N(alpha)-acetyltransferase 40, NatD catalytic subunit	HGNC:25845	11q13.1
+NACC2	Approved symbol	NACC2	NACC family member 2, BEN and BTB (POZ) domain containing	HGNC:23846	9q34.3
+NAGK	Approved symbol	NAGK	N-acetylglucosamine kinase	HGNC:17174	2p13.3
+NAGPA	Approved symbol	NAGPA	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	HGNC:17378	16p13.3
+NANOS1	Approved symbol	NANOS1	nanos homolog 1 (Drosophila)	HGNC:23044	10q26.13
+NANS	Approved symbol	NANS	N-acetylneuraminic acid synthase	HGNC:19237	9p24.1-p23
+NAPSA	Approved symbol	NAPSA	napsin A aspartic peptidase	HGNC:13395	19q13.33
+NAPSB	Approved symbol	NAPSB	napsin B aspartic peptidase, pseudogene	HGNC:13396	19q13.33
+NARF	Approved symbol	NARF	nuclear prelamin A recognition factor	HGNC:29916	17q25.3
+NARF	Synonyms	RNF138	ring finger protein 138, E3 ubiquitin protein ligase	HGNC:17765	18q12.1
+NBL1	Approved symbol	NBL1	neuroblastoma 1, DAN family BMP antagonist	HGNC:7650	1p36.3-p36.2
+NBN	Approved symbol	NBN	nibrin	HGNC:7652	8q21-q24
+NBN	Synonyms	ARTN	artemin	HGNC:727	1p34.1
+NBPF15	Approved symbol	NBPF15	neuroblastoma breakpoint family, member 15	HGNC:28791	1q21.1
+NCF4	Approved symbol	NCF4	neutrophil cytosolic factor 4, 40kDa	HGNC:7662	22q13.1
+NCK2	Approved symbol	NCK2	NCK adaptor protein 2	HGNC:7665	2q12
+NCOA4	Approved symbol	NCOA4	nuclear receptor coactivator 4	HGNC:7671	10q11.2
+NCR3	Approved symbol	NCR3	natural cytotoxicity triggering receptor 3	HGNC:19077	6p21.3
+NCSTN	Approved symbol	NCSTN	nicastrin	HGNC:17091	1q22-q23
+NDE1	Approved symbol	NDE1	nudE neurodevelopment protein 1	HGNC:17619	16p13.11
+NDRG1	Approved symbol	NDRG1	N-myc downstream regulated 1	HGNC:7679	8q24
+NDST2	Approved symbol	NDST2	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 2	HGNC:7681	10q22
+NDUFA12	Approved symbol	NDUFA12	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12	HGNC:23987	12q22
+NDUFA9	Approved symbol	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa	HGNC:7693	12p13.3
+NDUFAF3	Approved symbol	NDUFAF3	NADH dehydrogenase (ubiquinone) complex I, assembly factor 3	HGNC:29918	3p21.31
+NDUFB9	Approved symbol	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa	HGNC:7704	8q24.13
+NDUFS2	Approved symbol	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	HGNC:7708	1q23.3
+NDUFS7	Approved symbol	NDUFS7	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	HGNC:7714	19p13
+NDUFS8	Approved symbol	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	HGNC:7715	11q13.2
+NECAP2	Approved symbol	NECAP2	NECAP endocytosis associated 2	HGNC:25528	1p36.13
+NEIL2	Approved symbol	NEIL2	nei endonuclease VIII-like 2 (E. coli)	HGNC:18956	8p23.1
+NEK7	Approved symbol	NEK7	NIMA-related kinase 7	HGNC:13386	1q31.3
+NEK8	Approved symbol	NEK8	NIMA-related kinase 8	HGNC:13387	17q11.1
+NEK8	Synonyms	NEK9	NIMA-related kinase 9	HGNC:18591	14q24.2
+NENF	Approved symbol	NENF	neudesin neurotrophic factor	HGNC:30384	1q32.3
+NFKBIB	Approved symbol	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	HGNC:7798	19q13.1
+NFKBIE	Approved symbol	NFKBIE	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon	HGNC:7799	6p21.1
+NIF3L1	Approved symbol	NIF3L1	NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae)	HGNC:13390	2q33
+NIT1	Approved symbol	NIT1	nitrilase 1	HGNC:7828	1q21-q22
+NKAPL	Approved symbol	NKAPL	NFKB activating protein-like	HGNC:21584	6p21.33
+NLRC3	Approved symbol	NLRC3	NLR family, CARD domain containing 3	HGNC:29889	16p13.3
+NLRC4	Approved symbol	NLRC4	NLR family, CARD domain containing 4	HGNC:16412	2p22.3
+NLRX1	Approved symbol	NLRX1	NLR family member X1	HGNC:29890	11q23.3
+NME6	Approved symbol	NME6	NME/NM23 nucleoside diphosphate kinase 6	HGNC:20567	3p21.31
+NMT1	Approved symbol	NMT1	N-myristoyltransferase 1	HGNC:7857	17q21.31
+NMT2	Approved symbol	NMT2	N-myristoyltransferase 2	HGNC:7858	10p13
+NOC3L	Approved symbol	NOC3L	nucleolar complex associated 3 homolog (S. cerevisiae)	HGNC:24034	10q23.33
+NOC4L	Approved symbol	NOC4L	nucleolar complex associated 4 homolog (S. cerevisiae)	HGNC:28461	12q24.33
+NOLC1	Approved symbol	NOLC1	nucleolar and coiled-body phosphoprotein 1	HGNC:15608	10q24.32
+NOM1	Approved symbol	NOM1	nucleolar protein with MIF4G domain 1	HGNC:13244	7q36.3
+NOS1AP	Approved symbol	NOS1AP	nitric oxide synthase 1 (neuronal) adaptor protein	HGNC:16859	1q23.3
+NPBWR1	Approved symbol	NPBWR1	neuropeptides B/W receptor 1	HGNC:4522	8p22-q21.13
+NPL	Approved symbol	NPL	N-acetylneuraminate pyruvate lyase (dihydrodipicolinate synthase)	HGNC:16781	1q25
+NPM3	Approved symbol	NPM3	nucleophosmin/nucleoplasmin 3	HGNC:7931	10q24.31
+NR1I3	Approved symbol	NR1I3	nuclear receptor subfamily 1, group I, member 3	HGNC:7969	1q23.3
+NR2C1	Approved symbol	NR2C1	nuclear receptor subfamily 2, group C, member 1	HGNC:7971	12q22
+NR2F6	Approved symbol	NR2F6	nuclear receptor subfamily 2, group F, member 6	HGNC:7977	19p13.11
+NRBF2	Approved symbol	NRBF2	nuclear receptor binding factor 2	HGNC:19692	10q22.1
+NRL	Approved symbol	NRL	neural retina leucine zipper	HGNC:8002	14q11.1-q11.2
+NRP1	Approved symbol	NRP1	neuropilin 1	HGNC:8004	10p12
+NSFL1C	Approved symbol	NSFL1C	NSFL1 (p97) cofactor (p47)	HGNC:15912	20p13
+NSL1	Approved symbol	NSL1	NSL1, MIS12 kinetochore complex component	HGNC:24548	1q41
+NSL1	Synonyms	KANSL1	KAT8 regulatory NSL complex subunit 1	HGNC:24565	17q21.31
+NSMCE4A	Approved symbol	NSMCE4A	non-SMC element 4 homolog A (S. cerevisiae)	HGNC:25935	10q26.13
+NSUN6	Approved symbol	NSUN6	NOP2/Sun domain family, member 6	HGNC:23529	10p13
+NT5C2	Approved symbol	NT5C2	5'-nucleotidase, cytosolic II	HGNC:8022	10q24.32
+NTN4	Approved symbol	NTN4	netrin 4	HGNC:13658	12q22
+NTN4	Synonyms	MLF2	myeloid leukemia factor 2	HGNC:7126	12p13.31
+NTS	Approved symbol	NTS	neurotensin	HGNC:8038	12q21.31
+NUAK2	Approved symbol	NUAK2	NUAK family, SNF1-like kinase, 2	HGNC:29558	1q32.1
+NUB1	Approved symbol	NUB1	negative regulator of ubiquitin-like proteins 1	HGNC:17623	7q36
+NUBP1	Approved symbol	NUBP1	nucleotide binding protein 1	HGNC:8041	16p13.13
+NUCKS1	Approved symbol	NUCKS1	nuclear casein kinase and cyclin-dependent kinase substrate 1	HGNC:29923	1q32.1
+NUDC	Approved symbol	NUDC	nudC nuclear distribution protein	HGNC:8045	1p36.11
+NUDC	Synonyms	NUDC	nudC nuclear distribution protein	HGNC:8045	1p36.11
+NUDCD1	Approved symbol	NUDCD1	NudC domain containing 1	HGNC:24306	8q23
+NUDCD3	Approved symbol	NUDCD3	NudC domain containing 3	HGNC:22208	7p13-p12
+NUDT1	Approved symbol	NUDT1	nudix (nucleoside diphosphate linked moiety X)-type motif 1	HGNC:8048	7p22
+NUDT13	Approved symbol	NUDT13	nudix (nucleoside diphosphate linked moiety X)-type motif 13	HGNC:18827	10q22.3
+NUDT16	Approved symbol	NUDT16	nudix (nucleoside diphosphate linked moiety X)-type motif 16	HGNC:26442	3q21.3
+NUDT17	Approved symbol	NUDT17	nudix (nucleoside diphosphate linked moiety X)-type motif 17	HGNC:26618	1q21.1
+NUDT5	Approved symbol	NUDT5	nudix (nucleoside diphosphate linked moiety X)-type motif 5	HGNC:8052	10p14
+NUDT7	Approved symbol	NUDT7	nudix (nucleoside diphosphate linked moiety X)-type motif 7	HGNC:8054	16q23.1
+NUDT8	Approved symbol	NUDT8	nudix (nucleoside diphosphate linked moiety X)-type motif 8	HGNC:8055	11q13.2
+NUF2	Approved symbol	NUF2	NUF2, NDC80 kinetochore complex component	HGNC:14621	1q23.3
+NUP107	Approved symbol	NUP107	nucleoporin 107kDa	HGNC:29914	12q14
+NUP133	Approved symbol	NUP133	nucleoporin 133kDa	HGNC:18016	1q42.13
+NUTF2	Approved symbol	NUTF2	nuclear transport factor 2	HGNC:13722	16q22.1
+NVL	Approved symbol	NVL	nuclear VCP-like	HGNC:8070	1q41-q42.2
+NXNL2	Approved symbol	NXNL2	nucleoredoxin-like 2	HGNC:30482	9q22.2
+NXPH4	Approved symbol	NXPH4	neurexophilin 4	HGNC:8078	12q13.3
+NYNRIN	Approved symbol	NYNRIN	NYN domain and retroviral integrase containing	HGNC:20165	14q11.2
+OAS1	Approved symbol	OAS1	2'-5'-oligoadenylate synthetase 1, 40/46kDa	HGNC:8086	12q24.2
+OAS2	Approved symbol	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	HGNC:8087	12q24.2
+OAZ3	Approved symbol	OAZ3	ornithine decarboxylase antizyme 3	HGNC:8097	1q21.3
+OBFC1	Approved symbol	OBFC1	oligonucleotide/oligosaccharide-binding fold containing 1	HGNC:26200	10q25.1
+OBSCN	Approved symbol	OBSCN	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF	HGNC:15719	1q42
+OCA2	Approved symbol	OCA2	oculocutaneous albinism II	HGNC:8101	15q12
+OCEL1	Approved symbol	OCEL1	occludin/ELL domain containing 1	HGNC:26221	19p13.11
+OCLM	Approved symbol	OCLM	oculomedin	HGNC:8103	1q31.1
+OGDHL	Approved symbol	OGDHL	oxoglutarate dehydrogenase-like	HGNC:25590	10q11.23
+OGFOD2	Approved symbol	OGFOD2	2-oxoglutarate and iron-dependent oxygenase domain containing 2	HGNC:25823	12q24.31
+OGFR	Approved symbol	OGFR	opioid growth factor receptor	HGNC:15768	20q13.3
+OPA3	Approved symbol	OPA3	optic atrophy 3 (autosomal recessive, with chorea and spastic paraplegia)	HGNC:8142	19q13.32
+OPHN1	Approved symbol	OPHN1	oligophrenin 1	HGNC:8148	Xq12
+OR10Q1	Approved symbol	OR10Q1	olfactory receptor, family 10, subfamily Q, member 1	HGNC:15134	11q12.1
+OSBPL11	Approved symbol	OSBPL11	oxysterol binding protein-like 11	HGNC:16397	3q21
+OSBPL2	Approved symbol	OSBPL2	oxysterol binding protein-like 2	HGNC:15761	20q13.3
+OSCAR	Approved symbol	OSCAR	osteoclast associated, immunoglobulin-like receptor	HGNC:29960	19q13.42
+OSCP1	Approved symbol	OSCP1	organic solute carrier partner 1	HGNC:29971	1p34.3
+OSR2	Approved symbol	OSR2	odd-skipped related transciption factor 2	HGNC:15830	8q22.2
+OTOP2	Approved symbol	OTOP2	otopetrin 2	HGNC:19657	17q25.3
+OTUB1	Approved symbol	OTUB1	OTU deubiquitinase, ubiquitin aldehyde binding 1	HGNC:23077	11q13.1
+OTUD7B	Approved symbol	OTUD7B	OTU deubiquitinase 7B	HGNC:16683	1q21.2
+OXA1L	Approved symbol	OXA1L	oxidase (cytochrome c) assembly 1-like	HGNC:8526	14q11.2
+P2RX1	Approved symbol	P2RX1	purinergic receptor P2X, ligand gated ion channel, 1	HGNC:8533	17p13.3
+P2RY2	Approved symbol	P2RY2	purinergic receptor P2Y, G-protein coupled, 2	HGNC:8541	11q13.5-q14.1
+P4HA1	Approved symbol	P4HA1	prolyl 4-hydroxylase, alpha polypeptide I	HGNC:8546	10q22.1
+PA2G4	Approved symbol	PA2G4	proliferation-associated 2G4, 38kDa	HGNC:8550	12q13.2
+PACS1	Approved symbol	PACS1	phosphofurin acidic cluster sorting protein 1	HGNC:30032	11q13.1-q13.2
+PANK1	Approved symbol	PANK1	pantothenate kinase 1	HGNC:8598	10q23.31
+PAQR7	Approved symbol	PAQR7	progestin and adipoQ receptor family member VII	HGNC:23146	1p35.3
+PARD3	Approved symbol	PARD3	par-3 family cell polarity regulator	HGNC:16051	10p11.22
+PARG	Approved symbol	PARG	poly (ADP-ribose) glycohydrolase	HGNC:8605	10q11.23
+PARN	Approved symbol	PARN	poly(A)-specific ribonuclease	HGNC:8609	16p13
+PARP1	Approved symbol	PARP1	poly (ADP-ribose) polymerase 1	HGNC:270	1q41-q42
+PARP12	Approved symbol	PARP12	poly (ADP-ribose) polymerase family, member 12	HGNC:21919	7q34
+PARP3	Approved symbol	PARP3	poly (ADP-ribose) polymerase family, member 3	HGNC:273	3p21.2
+PARVA	Approved symbol	PARVA	parvin, alpha	HGNC:14652	11p15.3
+PAX5	Approved symbol	PAX5	paired box 5	HGNC:8619	9p13.2
+PBLD	Approved symbol	PBLD	phenazine biosynthesis-like protein domain containing	HGNC:23301	10q21.3
+PBX1	Approved symbol	PBX1	pre-B-cell leukemia homeobox 1	HGNC:8632	1q23.3
+PBXIP1	Approved symbol	PBXIP1	pre-B-cell leukemia homeobox interacting protein 1	HGNC:21199	1q22
+PCBD1	Approved symbol	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha	HGNC:8646	10q22
+PCCB	Approved symbol	PCCB	propionyl CoA carboxylase, beta polypeptide	HGNC:8654	3q21-q22
+PCGF5	Approved symbol	PCGF5	polycomb group ring finger 5	HGNC:28264	10q23.33
+PCGF6	Approved symbol	PCGF6	polycomb group ring finger 6	HGNC:21156	10q24.33
+PCM1	Approved symbol	PCM1	pericentriolar material 1	HGNC:8727	8p22-p21.3
+PCM1	Synonyms	MBD1	methyl-CpG binding domain protein 1	HGNC:6916	18q21
+PCNXL2	Approved symbol	PCNXL2	pecanex-like 2 (Drosophila)	HGNC:8736	1q42.2
+PCSK4	Approved symbol	PCSK4	proprotein convertase subtilisin/kexin type 4	HGNC:8746	19p13.3
+PCSK9	Approved symbol	PCSK9	proprotein convertase subtilisin/kexin type 9	HGNC:20001	1p32.3
+PDAP1	Approved symbol	PDAP1	PDGFA associated protein 1	HGNC:14634	7q
+PDCD11	Approved symbol	PDCD11	programmed cell death 11	HGNC:13408	10q24.32
+PDE4C	Approved symbol	PDE4C	phosphodiesterase 4C, cAMP-specific	HGNC:8782	19p13.11
+PDE4DIP	Approved symbol	PDE4DIP	phosphodiesterase 4D interacting protein	HGNC:15580	1q21.1
+PDE7B	Approved symbol	PDE7B	phosphodiesterase 7B	HGNC:8792	6q23-q24
+PDLIM1	Approved symbol	PDLIM1	PDZ and LIM domain 1	HGNC:2067	10q23.1
+PDSS1	Approved symbol	PDSS1	prenyl (decaprenyl) diphosphate synthase, subunit 1	HGNC:17759	10p12.2
+PDXK	Approved symbol	PDXK	pyridoxal (pyridoxine, vitamin B6) kinase	HGNC:8819	21q22.3
+PDZD8	Approved symbol	PDZD8	PDZ domain containing 8	HGNC:26974	10q26.12
+PEA15	Approved symbol	PEA15	phosphoprotein enriched in astrocytes 15	HGNC:8822	1q21.1
+PEF1	Approved symbol	PEF1	penta-EF-hand domain containing 1	HGNC:30009	1p34
+PEPD	Approved symbol	PEPD	peptidase D	HGNC:8840	19q13.11
+PEX11B	Approved symbol	PEX11B	peroxisomal biogenesis factor 11 beta	HGNC:8853	1q21.1
+PEX19	Approved symbol	PEX19	peroxisomal biogenesis factor 19	HGNC:9713	1q22
+PEX2	Approved symbol	PEX2	peroxisomal biogenesis factor 2	HGNC:9717	8q21.11
+PFDN2	Approved symbol	PFDN2	prefoldin subunit 2	HGNC:8867	1q23.3
+PFKFB2	Approved symbol	PFKFB2	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	HGNC:8873	1q31-q32.2
+PFKP	Approved symbol	PFKP	phosphofructokinase, platelet	HGNC:8878	10p15.3-p15.2
+PFN1	Approved symbol	PFN1	profilin 1	HGNC:8881	17p13.2
+PGA3	Approved symbol	PGA3	pepsinogen 3, group I (pepsinogen A)	HGNC:8885	11q13
+PGA4	Approved symbol	PGA4	pepsinogen 4, group I (pepsinogen A)	HGNC:8886	11q13
+PGA5	Approved symbol	PGA5	pepsinogen 5, group I (pepsinogen A)	HGNC:8887	11q13
+PGAM1	Approved symbol	PGAM1	phosphoglycerate mutase 1 (brain)	HGNC:8888	10q25.3
+PGAM1	Synonyms	PGAM4	phosphoglycerate mutase family member 4	HGNC:21731	Xq21.1
+PGBD3	Approved symbol	PGBD3	piggyBac transposable element derived 3	HGNC:19400	10q11
+PGLS	Approved symbol	PGLS	6-phosphogluconolactonase	HGNC:8903	19p13.2
+PGLYRP1	Approved symbol	PGLYRP1	peptidoglycan recognition protein 1	HGNC:8904	19q13.2-q13.3
+PGM5	Approved symbol	PGM5	phosphoglucomutase 5	HGNC:8908	9q13
+PGPEP1	Approved symbol	PGPEP1	pyroglutamyl-peptidase I	HGNC:13568	19p13.11
+PGS1	Approved symbol	PGS1	phosphatidylglycerophosphate synthase 1	HGNC:30029	17q25.3
+PGS1	Synonyms	TPGS1	tubulin polyglutamylase complex subunit 1	HGNC:25058	19p13.3
+PHC2	Approved symbol	PHC2	polyhomeotic homolog 2 (Drosophila)	HGNC:3183	1p34.3
+PHF7	Approved symbol	PHF7	PHD finger protein 7	HGNC:18458	3p21.31
+PHYHIP	Approved symbol	PHYHIP	phytanoyl-CoA 2-hydroxylase interacting protein	HGNC:16865	8p21.2
+PHYHIPL	Approved symbol	PHYHIPL	phytanoyl-CoA 2-hydroxylase interacting protein-like	HGNC:29378	10q21.1
+PI4K2A	Approved symbol	PI4K2A	phosphatidylinositol 4-kinase type 2 alpha	HGNC:30031	10q24
+PI4KB	Approved symbol	PI4KB	phosphatidylinositol 4-kinase, catalytic, beta	HGNC:8984	1q21
+PIAS3	Approved symbol	PIAS3	protein inhibitor of activated STAT, 3	HGNC:16861	1q21
+PIGC	Approved symbol	PIGC	phosphatidylinositol glycan anchor biosynthesis, class C	HGNC:8960	1q23-q25
+PIGM	Approved symbol	PIGM	phosphatidylinositol glycan anchor biosynthesis, class M	HGNC:18858	1q23.2
+PIGR	Approved symbol	PIGR	polymeric immunoglobulin receptor	HGNC:8968	1q31-q41
+PIGU	Approved symbol	PIGU	phosphatidylinositol glycan anchor biosynthesis, class U	HGNC:15791	20q11.22
+PIH1D1	Approved symbol	PIH1D1	PIH1 domain containing 1	HGNC:26075	19q13.33
+PIK3CD	Approved symbol	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta	HGNC:8977	1p36.2
+PIK3R5	Approved symbol	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5	HGNC:30035	17p13.1
+PIK3R6	Approved symbol	PIK3R6	phosphoinositide-3-kinase, regulatory subunit 6	HGNC:27101	17p13.1
+PIM1	Approved symbol	PIM1	Pim-1 proto-oncogene, serine/threonine kinase	HGNC:8986	6p21
+PIM1	Synonyms	LONP1	lon peptidase 1, mitochondrial	HGNC:9479	19p13.2
+PINK1	Approved symbol	PINK1	PTEN induced putative kinase 1	HGNC:14581	1p36.12
+PIP4K2A	Approved symbol	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha	HGNC:8997	10p12.2
+PIP5K1A	Approved symbol	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase, type I, alpha	HGNC:8994	1q21.3
+PIP5K1C	Approved symbol	PIP5K1C	phosphatidylinositol-4-phosphate 5-kinase, type I, gamma	HGNC:8996	19p13.3
+PITPNM1	Approved symbol	PITPNM1	phosphatidylinositol transfer protein, membrane-associated 1	HGNC:9003	11q13
+PITRM1	Approved symbol	PITRM1	pitrilysin metallopeptidase 1	HGNC:17663	10p15.2
+PKD1L2	Approved symbol	PKD1L2	polycystic kidney disease 1-like 2 (gene/pseudogene)	HGNC:21715	16q23.2
+PKIG	Approved symbol	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	HGNC:9019	20q13.12-q13.13
+PLAC8	Approved symbol	PLAC8	placenta-specific 8	HGNC:19254	4q21.22
+PLAC8	Synonyms	LGALS13	lectin, galactoside-binding, soluble, 13	HGNC:15449	19q13.2
+PLBD1	Approved symbol	PLBD1	phospholipase B domain containing 1	HGNC:26215	12p13.1
+PLCB2	Approved symbol	PLCB2	phospholipase C, beta 2	HGNC:9055	15q15.1
+PLCD4	Approved symbol	PLCD4	phospholipase C, delta 4	HGNC:9062	2q35
+PLEC	Approved symbol	PLEC	plectin	HGNC:9069	8q24
+PLEKHA1	Approved symbol	PLEKHA1	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 1	HGNC:14335	10q26.3
+PLEKHA6	Approved symbol	PLEKHA6	pleckstrin homology domain containing, family A member 6	HGNC:17053	1q32
+PLEKHF1	Approved symbol	PLEKHF1	pleckstrin homology domain containing, family F (with FYVE domain) member 1	HGNC:20764	19q11
+PLEKHF2	Approved symbol	PLEKHF2	pleckstrin homology domain containing, family F (with FYVE domain) member 2	HGNC:20757	8q22.1
+PMF1	Approved symbol	PMF1	polyamine-modulated factor 1	HGNC:9112	1q22
+PML	Approved symbol	PML	promyelocytic leukemia	HGNC:9113	15q24.1
+PMS2	Approved symbol	PMS2	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)	HGNC:9122	7p22.1
+PMS2CL	Approved symbol	PMS2CL	PMS2 C-terminal like pseudogene	HGNC:30061	7p22.1
+PMVK	Approved symbol	PMVK	phosphomevalonate kinase	HGNC:9141	1q21.3
+PNKD	Approved symbol	PNKD	paroxysmal nonkinesigenic dyskinesia	HGNC:9153	2q35
+PNLDC1	Approved symbol	PNLDC1	poly(A)-specific ribonuclease (PARN)-like domain containing 1	HGNC:21185	6q25.3
+PNMA2	Approved symbol	PNMA2	paraneoplastic Ma antigen 2	HGNC:9159	8p21.1
+POGK	Approved symbol	POGK	pogo transposable element with KRAB domain	HGNC:18800	1q23.2
+POGZ	Approved symbol	POGZ	pogo transposable element with ZNF domain	HGNC:18801	1q21.1
+POLA2	Approved symbol	POLA2	polymerase (DNA directed), alpha 2, accessory subunit	HGNC:30073	11q13
+POLL	Approved symbol	POLL	polymerase (DNA directed), lambda	HGNC:9184	10q23
+POLR2E	Approved symbol	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	HGNC:9192	19p13.3
+POLR2I	Approved symbol	POLR2I	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	HGNC:9196	19q13.12
+POLR2K	Approved symbol	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	HGNC:9198	8q22
+POLR3A	Approved symbol	POLR3A	polymerase (RNA) III (DNA directed) polypeptide A, 155kDa	HGNC:30074	10q22.3
+POLR3C	Approved symbol	POLR3C	polymerase (RNA) III (DNA directed) polypeptide C (62kD)	HGNC:30076	1q21
+POLR3D	Approved symbol	POLR3D	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	HGNC:1080	8q21
+POLR3GL	Approved symbol	POLR3GL	polymerase (RNA) III (DNA directed) polypeptide G (32kD)-like	HGNC:28466	1q21.1
+POLR3H	Approved symbol	POLR3H	polymerase (RNA) III (DNA directed) polypeptide H (22.9kD)	HGNC:30349	22q13
+POM121C	Approved symbol	POM121C	POM121 transmembrane nucleoporin C	HGNC:34005	7q11.23
+POMT1	Approved symbol	POMT1	protein-O-mannosyltransferase 1	HGNC:9202	9q34.1
+POP4	Approved symbol	POP4	processing of precursor 4, ribonuclease P/MRP subunit (S. cerevisiae)	HGNC:30081	19q13.11
+POR	Approved symbol	POR	P450 (cytochrome) oxidoreductase	HGNC:9208	7q11.2
+POR	Synonyms	PORCN	porcupine homolog (Drosophila)	HGNC:17652	Xp11.23
+POU2AF1	Approved symbol	POU2AF1	POU class 2 associating factor 1	HGNC:9211	11q23.1
+POU2F2	Approved symbol	POU2F2	POU class 2 homeobox 2	HGNC:9213	19q13.2
+PPA1	Approved symbol	PPA1	pyrophosphatase (inorganic) 1	HGNC:9226	10q11.1-q24
+PPIAL4D	Approved symbol	PPIAL4D	peptidylprolyl isomerase A (cyclophilin A)-like 4D	HGNC:33998	1q21
+PPIAL4E	Approved symbol	PPIAL4E	peptidylprolyl isomerase A (cyclophilin A)-like 4E	HGNC:33997	1q21.1
+PPIF	Approved symbol	PPIF	peptidylprolyl isomerase F	HGNC:9259	10q22.3
+PPIL2	Approved symbol	PPIL2	peptidylprolyl isomerase (cyclophilin)-like 2	HGNC:9261	22q11.21
+PPM1G	Approved symbol	PPM1G	protein phosphatase, Mg2+/Mn2+ dependent, 1G	HGNC:9278	2p23.3
+PPME1	Approved symbol	PPME1	protein phosphatase methylesterase 1	HGNC:30178	11q13.4
+PPOX	Approved symbol	PPOX	protoporphyrinogen oxidase	HGNC:9280	1q22
+PPOX	Synonyms	HCRT	hypocretin (orexin) neuropeptide precursor	HGNC:4847	17q21
+PPP1CA	Approved symbol	PPP1CA	protein phosphatase 1, catalytic subunit, alpha isozyme	HGNC:9281	11q13
+PPP1R15B	Approved symbol	PPP1R15B	protein phosphatase 1, regulatory subunit 15B	HGNC:14951	1q32.1
+PPP1R16B	Approved symbol	PPP1R16B	protein phosphatase 1, regulatory subunit 16B	HGNC:15850	20q11.23
+PPP2CB	Approved symbol	PPP2CB	protein phosphatase 2, catalytic subunit, beta isozyme	HGNC:9300	8p12
+PPP2R2A	Approved symbol	PPP2R2A	protein phosphatase 2, regulatory subunit B, alpha	HGNC:9304	8p21.2
+PPP2R2D	Approved symbol	PPP2R2D	protein phosphatase 2, regulatory subunit B, delta	HGNC:23732	10q26.3
+PPP2R5A	Approved symbol	PPP2R5A	protein phosphatase 2, regulatory subunit B', alpha	HGNC:9309	1q32.2-q32.3
+PPP3CB	Approved symbol	PPP3CB	protein phosphatase 3, catalytic subunit, beta isozyme	HGNC:9315	10q22.2
+PPP4R1	Approved symbol	PPP4R1	protein phosphatase 4, regulatory subunit 1	HGNC:9320	18p11.22
+PPP5C	Approved symbol	PPP5C	protein phosphatase 5, catalytic subunit	HGNC:9322	19q13.3
+PPRC1	Approved symbol	PPRC1	peroxisome proliferator-activated receptor gamma, coactivator-related 1	HGNC:30025	10q24.32
+PPT2	Approved symbol	PPT2	palmitoyl-protein thioesterase 2	HGNC:9326	6p21.3
+PRAM1	Approved symbol	PRAM1	PML-RARA regulated adaptor molecule 1	HGNC:30091	19p13.2
+PRCC	Approved symbol	PRCC	papillary renal cell carcinoma (translocation-associated)	HGNC:9343	1q21.1
+PRDM8	Approved symbol	PRDM8	PR domain containing 8	HGNC:13993	4q21
+PRDX3	Approved symbol	PRDX3	peroxiredoxin 3	HGNC:9354	10q25-q26
+PRDX5	Approved symbol	PRDX5	peroxiredoxin 5	HGNC:9355	11q13
+PRDX6	Approved symbol	PRDX6	peroxiredoxin 6	HGNC:16753	1q24.1
+PRDX6	Synonyms	PRDX5	peroxiredoxin 5	HGNC:9355	11q13
+PRKAB2	Approved symbol	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	HGNC:9379	1q21.2
+PRKCB	Approved symbol	PRKCB	protein kinase C, beta	HGNC:9395	16p12
+PRKCH	Approved symbol	PRKCH	protein kinase C, eta	HGNC:9403	14q23.1
+PRMT7	Approved symbol	PRMT7	protein arginine methyltransferase 7	HGNC:25557	16q22.1
+PRMT8	Approved symbol	PRMT8	protein arginine methyltransferase 8	HGNC:5188	12p13.3
+PRODH	Approved symbol	PRODH	proline dehydrogenase (oxidase) 1	HGNC:9453	22q11.2
+PROK1	Approved symbol	PROK1	prokineticin 1	HGNC:18454	1p21
+PROSC	Approved symbol	PROSC	proline synthetase co-transcribed homolog (bacterial)	HGNC:9457	8p11.2
+PRPF18	Approved symbol	PRPF18	pre-mRNA processing factor 18	HGNC:17351	10p12.33
+PRPF3	Approved symbol	PRPF3	pre-mRNA processing factor 3	HGNC:17348	1q21.1
+PRR13	Approved symbol	PRR13	proline rich 13	HGNC:24528	12q13.13
+PRSS54	Approved symbol	PRSS54	protease, serine, 54	HGNC:26336	16q21
+PRTFDC1	Approved symbol	PRTFDC1	phosphoribosyl transferase domain containing 1	HGNC:23333	10p12.31
+PRUNE	Approved symbol	PRUNE	prune exopolyphosphatase	HGNC:13420	1q21.2
+PRUNE2	Approved symbol	PRUNE2	prune homolog 2 (Drosophila)	HGNC:25209	9q21.32
+PSAP	Approved symbol	PSAP	prosaposin	HGNC:9498	10q21-q22
+PSAP	Synonyms	MTCH1	mitochondrial carrier 1	HGNC:17586	6p21.2
+PSEN2	Approved symbol	PSEN2	presenilin 2	HGNC:9509	1q42.13
+PSMA5	Approved symbol	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	HGNC:9534	1p13
+PSMB1	Approved symbol	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	HGNC:9537	6q27
+PSMB10	Approved symbol	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	HGNC:9538	16q22.1
+PSMB2	Approved symbol	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	HGNC:9539	1p34.2
+PSMB3	Approved symbol	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	HGNC:9540	17q12
+PSMB4	Approved symbol	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	HGNC:9541	1q21
+PSMB6	Approved symbol	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	HGNC:9543	17p13
+PSMB7	Approved symbol	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	HGNC:9544	9q34.11-q34.12
+PSMC2	Approved symbol	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	HGNC:9548	7q22.1-q22.3
+PSMC3	Approved symbol	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	HGNC:9549	11p11.2
+PSMC4	Approved symbol	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	HGNC:9551	19q13.11-q13.13
+PSMC5	Approved symbol	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	HGNC:9552	17q23.3
+PSMD2	Approved symbol	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	HGNC:9559	3q27.3
+PSMD4	Approved symbol	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	HGNC:9561	1q21.2
+PSMD6	Approved symbol	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	HGNC:9564	3p14.1
+PSMD7	Approved symbol	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7	HGNC:9565	16q22.3
+PSMD9	Approved symbol	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	HGNC:9567	12q24.31-q24.32
+PSME2	Approved symbol	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	HGNC:9569	14q11.2
+PSMF1	Approved symbol	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	HGNC:9571	20p13
+PSTK	Approved symbol	PSTK	phosphoseryl-tRNA kinase	HGNC:28578	10q26.13
+PSTPIP1	Approved symbol	PSTPIP1	proline-serine-threonine phosphatase interacting protein 1	HGNC:9580	15q24.3
+PTAFR	Approved symbol	PTAFR	platelet-activating factor receptor	HGNC:9582	1p35-p34.3
+PTDSS1	Approved symbol	PTDSS1	phosphatidylserine synthase 1	HGNC:9587	8q22
+PTGES3	Approved symbol	PTGES3	prostaglandin E synthase 3 (cytosolic)	HGNC:16049	12q13.13
+PTGR1	Approved symbol	PTGR1	prostaglandin reductase 1	HGNC:18429	9q32
+PTPMT1	Approved symbol	PTPMT1	protein tyrosine phosphatase, mitochondrial 1	HGNC:26965	11p11.2
+PTPN1	Approved symbol	PTPN1	protein tyrosine phosphatase, non-receptor type 1	HGNC:9642	20q13.1-q13.2
+PTPN13	Approved symbol	PTPN13	protein tyrosine phosphatase, non-receptor type 13 (APO-1/CD95 (Fas)-associated phosphatase)	HGNC:9646	4q21.3
+PTRH1	Approved symbol	PTRH1	peptidyl-tRNA hydrolase 1 homolog (S. cerevisiae)	HGNC:27039	9q34.11
+PUF60	Approved symbol	PUF60	poly-U binding splicing factor 60KDa	HGNC:17042	8q24.3
+PVRL4	Approved symbol	PVRL4	poliovirus receptor-related 4	HGNC:19688	1q23.3
+PXN	Approved symbol	PXN	paxillin	HGNC:9718	12q24
+PXN	Synonyms	PXDN	peroxidasin	HGNC:14966	2p25.3
+PYCR2	Approved symbol	PYCR2	pyrroline-5-carboxylate reductase family, member 2	HGNC:30262	1q42.13
+PYCRL	Approved symbol	PYCRL	pyrroline-5-carboxylate reductase-like	HGNC:25846	8q24.3
+PYGO2	Approved symbol	PYGO2	pygopus family PHD finger 2	HGNC:30257	1q22
+QPRT	Approved symbol	QPRT	quinolinate phosphoribosyltransferase	HGNC:9755	16p11.2
+R3HCC1	Approved symbol	R3HCC1	R3H domain and coiled-coil containing 1	HGNC:27329	8p21.3
+RAB11FIP1	Approved symbol	RAB11FIP1	RAB11 family interacting protein 1 (class I)	HGNC:30265	8p11.22
+RAB13	Approved symbol	RAB13	RAB13, member RAS oncogene family	HGNC:9762	1q21.2
+RAB18	Approved symbol	RAB18	RAB18, member RAS oncogene family	HGNC:14244	10p12
+RAB1B	Approved symbol	RAB1B	RAB1B, member RAS oncogene family	HGNC:18370	11q13.1
+RAB20	Approved symbol	RAB20	RAB20, member RAS oncogene family	HGNC:18260	13q34
+RAB25	Approved symbol	RAB25	RAB25, member RAS oncogene family	HGNC:18238	1q22
+RAB2A	Approved symbol	RAB2A	RAB2A, member RAS oncogene family	HGNC:9763	8q12.1
+RAB34	Approved symbol	RAB34	RAB34, member RAS oncogene family	HGNC:16519	17q11.2
+RAB36	Approved symbol	RAB36	RAB36, member RAS oncogene family	HGNC:9775	22q11.22
+RAB3GAP2	Approved symbol	RAB3GAP2	RAB3 GTPase activating protein subunit 2 (non-catalytic)	HGNC:17168	1q41
+RAB4A	Approved symbol	RAB4A	RAB4A, member RAS oncogene family	HGNC:9781	1q42-q43
+RAB4B	Approved symbol	RAB4B	RAB4B, member RAS oncogene family	HGNC:9782	19q13.2
+RAB7A	Approved symbol	RAB7A	RAB7A, member RAS oncogene family	HGNC:9788	3q21
+RAB8A	Approved symbol	RAB8A	RAB8A, member RAS oncogene family	HGNC:7007	19p13.2-p13.1
+RABAC1	Approved symbol	RABAC1	Rab acceptor 1 (prenylated)	HGNC:9794	19q13.2
+RABGAP1L	Approved symbol	RABGAP1L	RAB GTPase activating protein 1-like	HGNC:24663	1q24
+RABIF	Approved symbol	RABIF	RAB interacting factor	HGNC:9797	1q32.1
+RAC1	Approved symbol	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	HGNC:9801	7p22
+RAC2	Approved symbol	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	HGNC:9802	22q13.1
+RAET1E	Approved symbol	RAET1E	retinoic acid early transcript 1E	HGNC:16793	6q24.3
+RANBP10	Approved symbol	RANBP10	RAN binding protein 10	HGNC:29285	16q22
+RANBP3	Approved symbol	RANBP3	RAN binding protein 3	HGNC:9850	19p13.3
+RAP1B	Approved symbol	RAP1B	RAP1B, member of RAS oncogene family	HGNC:9857	12q14
+RAPGEF5	Approved symbol	RAPGEF5	Rap guanine nucleotide exchange factor (GEF) 5	HGNC:16862	7p15.3
+RARG	Approved symbol	RARG	retinoic acid receptor, gamma	HGNC:9866	12q13
+RARRES1	Approved symbol	RARRES1	retinoic acid receptor responder (tazarotene induced) 1	HGNC:9867	3q25.32
+RARRES3	Approved symbol	RARRES3	retinoic acid receptor responder (tazarotene induced) 3	HGNC:9869	11q23
+RASAL2	Approved symbol	RASAL2	RAS protein activator like 2	HGNC:9874	1q25
+RASAL3	Approved symbol	RASAL3	RAS protein activator like 3	HGNC:26129	19p13.12
+RASGRP4	Approved symbol	RASGRP4	RAS guanyl releasing protein 4	HGNC:18958	19q13.1
+RASSF10	Approved symbol	RASSF10	Ras association (RalGDS/AF-6) domain family (N-terminal) member 10	HGNC:33984	11p15.2
+RASSF9	Approved symbol	RASSF9	Ras association (RalGDS/AF-6) domain family (N-terminal) member 9	HGNC:15739	12q21.31
+RAVER1	Approved symbol	RAVER1	ribonucleoprotein, PTB-binding 1	HGNC:30296	19p13.2
+RB1CC1	Approved symbol	RB1CC1	RB1-inducible coiled-coil 1	HGNC:15574	8q11
+RBBP5	Approved symbol	RBBP5	retinoblastoma binding protein 5	HGNC:9888	1q32
+RBM17	Approved symbol	RBM17	RNA binding motif protein 17	HGNC:16944	10p15.1
+RBM19	Approved symbol	RBM19	RNA binding motif protein 19	HGNC:29098	12q24.21
+RBM23	Approved symbol	RBM23	RNA binding motif protein 23	HGNC:20155	14q11.1
+RBM28	Approved symbol	RBM28	RNA binding motif protein 28	HGNC:21863	7q32.2
+RBM34	Approved symbol	RBM34	RNA binding motif protein 34	HGNC:28965	1q42.3
+RBM4	Approved symbol	RBM4	RNA binding motif protein 4	HGNC:9901	11q13
+RBM42	Approved symbol	RBM42	RNA binding motif protein 42	HGNC:28117	19q13.12
+RBM8A	Approved symbol	RBM8A	RNA binding motif protein 8A	HGNC:9905	1q21.1
+RBMS1	Approved symbol	RBMS1	RNA binding motif, single stranded interacting protein 1	HGNC:9907	2q24.2
+RC3H1	Approved symbol	RC3H1	ring finger and CCCH-type domains 1	HGNC:29434	1q25.1
+RCC1	Approved symbol	RCC1	regulator of chromosome condensation 1	HGNC:1913	1p35.3
+RCOR3	Approved symbol	RCOR3	REST corepressor 3	HGNC:25594	1q32.3
+RDH5	Approved symbol	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	HGNC:9940	12q13-q14
+RECQL5	Approved symbol	RECQL5	RecQ protein-like 5	HGNC:9950	17q25
+REEP3	Approved symbol	REEP3	receptor accessory protein 3	HGNC:23711	10q21.3
+REEP4	Approved symbol	REEP4	receptor accessory protein 4	HGNC:26176	8p21.3
+REPS2	Approved symbol	REPS2	RALBP1 associated Eps domain containing 2	HGNC:9963	Xp22.2
+RFC2	Approved symbol	RFC2	replication factor C (activator 1) 2, 40kDa	HGNC:9970	7q11.23
+RFWD2	Approved symbol	RFWD2	ring finger and WD repeat domain 2, E3 ubiquitin protein ligase	HGNC:17440	1q25.1-q25.2
+RFX2	Approved symbol	RFX2	regulatory factor X, 2 (influences HLA class II expression)	HGNC:9983	19p13.3
+RFX5	Approved symbol	RFX5	regulatory factor X, 5 (influences HLA class II expression)	HGNC:9986	1q21
+RGL1	Approved symbol	RGL1	ral guanine nucleotide dissociation stimulator-like 1	HGNC:30281	1q25.2
+RGS10	Approved symbol	RGS10	regulator of G-protein signaling 10	HGNC:9992	10q25
+RGS12	Approved symbol	RGS12	regulator of G-protein signaling 12	HGNC:9994	4p16.3
+RGS20	Approved symbol	RGS20	regulator of G-protein signaling 20	HGNC:14600	8q11.23
+RGS3	Approved symbol	RGS3	regulator of G-protein signaling 3	HGNC:9999	9q32
+RHBDD2	Approved symbol	RHBDD2	rhomboid domain containing 2	HGNC:23082	7q11
+RHEBL1	Approved symbol	RHEBL1	Ras homolog enriched in brain like 1	HGNC:21166	12q13.12
+RHOBTB1	Approved symbol	RHOBTB1	Rho-related BTB domain containing 1	HGNC:18738	10q22.1
+RHOG	Approved symbol	RHOG	ras homolog family member G	HGNC:672	11p15.5-p15.4
+RHOG	Synonyms	RHOG	ras homolog family member G	HGNC:672	11p15.5-p15.4
+RHOH	Approved symbol	RHOH	ras homolog family member H	HGNC:686	4p13
+RHOH	Synonyms	RHOH	ras homolog family member H	HGNC:686	4p13
+RIBC2	Approved symbol	RIBC2	RIB43A domain with coiled-coils 2	HGNC:13241	22q13.3
+RILPL2	Approved symbol	RILPL2	Rab interacting lysosomal protein-like 2	HGNC:28787	12q24.31
+RIMBP2	Approved symbol	RIMBP2	RIMS binding protein 2	HGNC:30339	12q24.33
+RIMBP3	Approved symbol	RIMBP3	RIMS binding protein 3	HGNC:29344	22q11.21
+RIMBP3C	Approved symbol	RIMBP3C	RIMS binding protein 3C	HGNC:33892	22q11.21
+RIMKLB	Approved symbol	RIMKLB	ribosomal modification protein rimK-like family member B	HGNC:29228	12p13.31
+RIN2	Approved symbol	RIN2	Ras and Rab interactor 2	HGNC:18750	20p11.22
+RIN3	Approved symbol	RIN3	Ras and Rab interactor 3	HGNC:18751	14q32.13
+RIPK4	Approved symbol	RIPK4	receptor-interacting serine-threonine kinase 4	HGNC:496	21q22.3
+RIT1	Approved symbol	RIT1	Ras-like without CAAX 1	HGNC:10023	1q21.2
+RLIM	Approved symbol	RLIM	ring finger protein, LIM domain interacting	HGNC:13429	Xq13-q21
+RNASEL	Approved symbol	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	HGNC:10050	1q25
+RNF115	Approved symbol	RNF115	ring finger protein 115	HGNC:18154	1q12
+RNF123	Approved symbol	RNF123	ring finger protein 123	HGNC:21148	3p24.3
+RNF139	Approved symbol	RNF139	ring finger protein 139	HGNC:17023	8q24
+RNF150	Approved symbol	RNF150	ring finger protein 150	HGNC:23138	4q31.1
+RNF186	Approved symbol	RNF186	ring finger protein 186	HGNC:25978	1p36.13
+RNF187	Approved symbol	RNF187	ring finger protein 187	HGNC:27146	1q42.13
+RNF19A	Approved symbol	RNF19A	ring finger protein 19A, RBR E3 ubiquitin protein ligase	HGNC:13432	8q22
+RNF19B	Approved symbol	RNF19B	ring finger protein 19B	HGNC:26886	1p35.1
+RNF2	Approved symbol	RNF2	ring finger protein 2	HGNC:10061	1q25.3
+RNF216	Approved symbol	RNF216	ring finger protein 216	HGNC:21698	7p22.1
+RNF25	Approved symbol	RNF25	ring finger protein 25	HGNC:14662	2q35
+RNF31	Approved symbol	RNF31	ring finger protein 31	HGNC:16031	14q11.2
+RNF34	Approved symbol	RNF34	ring finger protein 34, E3 ubiquitin protein ligase	HGNC:17297	12q24.31
+RNF40	Approved symbol	RNF40	ring finger protein 40, E3 ubiquitin protein ligase	HGNC:16867	16p11.2-p11.1
+RNH1	Approved symbol	RNH1	ribonuclease/angiogenin inhibitor 1	HGNC:10074	11p15.5
+RNH1	Synonyms	RNASEH1P1	ribonuclease H1 pseudogene 1	HGNC:10049	17p11.2
+RNPEP	Approved symbol	RNPEP	arginyl aminopeptidase (aminopeptidase B)	HGNC:10078	1q32
+RNPEPL1	Approved symbol	RNPEPL1	arginyl aminopeptidase (aminopeptidase B)-like 1	HGNC:10079	2q37.3
+ROMO1	Approved symbol	ROMO1	reactive oxygen species modulator 1	HGNC:16185	20q11.22
+RORC	Approved symbol	RORC	RAR-related orphan receptor C	HGNC:10260	1q21
+RP2	Approved symbol	RP2	retinitis pigmentosa 2 (X-linked recessive)	HGNC:10274	Xp11.3
+RP2	Synonyms	STK19B	serine/threonine kinase 19B, pseudogene	HGNC:21668	6p21.33
+RP2	Synonyms	NUDT19	nudix (nucleoside diphosphate linked moiety X)-type motif 19	HGNC:32036	19q13.11
+RPA3	Approved symbol	RPA3	replication protein A3, 14kDa	HGNC:10291	7p21.3
+RPGRIP1L	Approved symbol	RPGRIP1L	RPGRIP1-like	HGNC:29168	16q12.2
+RPL13P5	Approved symbol	RPL13P5	ribosomal protein L13 pseudogene 5	HGNC:30363	12p13.31
+RPN1	Approved symbol	RPN1	ribophorin I	HGNC:10381	3q21.3
+RPN1	Synonyms	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	HGNC:9559	3q27.3
+RPP30	Approved symbol	RPP30	ribonuclease P/MRP 30kDa subunit	HGNC:17688	10q23.32-q23.33
+RPP38	Approved symbol	RPP38	ribonuclease P/MRP 38kDa subunit	HGNC:30329	10p13
+RPRD2	Approved symbol	RPRD2	regulation of nuclear pre-mRNA domain containing 2	HGNC:29039	1q21.2
+RPS24	Approved symbol	RPS24	ribosomal protein S24	HGNC:10411	10q22
+RPS27	Approved symbol	RPS27	ribosomal protein S27	HGNC:10416	1q21
+RPS6KA2	Approved symbol	RPS6KA2	ribosomal protein S6 kinase, 90kDa, polypeptide 2	HGNC:10431	6q27
+RPS6KA4	Approved symbol	RPS6KA4	ribosomal protein S6 kinase, 90kDa, polypeptide 4	HGNC:10433	11q11-q13
+RPS6KB2	Approved symbol	RPS6KB2	ribosomal protein S6 kinase, 70kDa, polypeptide 2	HGNC:10437	11q13.1
+RPS6KC1	Approved symbol	RPS6KC1	ribosomal protein S6 kinase, 52kDa, polypeptide 1	HGNC:10439	1q41
+RPUSD2	Approved symbol	RPUSD2	RNA pseudouridylate synthase domain containing 2	HGNC:24180	15q13.3
+RPUSD3	Approved symbol	RPUSD3	RNA pseudouridylate synthase domain containing 3	HGNC:28437	3p25.3
+RRAD	Approved symbol	RRAD	Ras-related associated with diabetes	HGNC:10446	16q22
+RRM2B	Approved symbol	RRM2B	ribonucleotide reductase M2 B (TP53 inducible)	HGNC:17296	8q23.1
+RRP12	Approved symbol	RRP12	ribosomal RNA processing 12 homolog (S. cerevisiae)	HGNC:29100	10q24.2
+RRP15	Approved symbol	RRP15	ribosomal RNA processing 15 homolog (S. cerevisiae)	HGNC:24255	1q41
+RRP7A	Approved symbol	RRP7A	ribosomal RNA processing 7 homolog A (S. cerevisiae)	HGNC:24286	22q13.2
+RRS1	Approved symbol	RRS1	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)	HGNC:17083	8q13.1
+RSBN1L	Approved symbol	RSBN1L	round spermatid basic protein 1-like	HGNC:24765	7q21.11
+RSPH1	Approved symbol	RSPH1	radial spoke head 1 homolog (Chlamydomonas)	HGNC:12371	21q22.3
+RSPH3	Approved symbol	RSPH3	radial spoke 3 homolog (Chlamydomonas)	HGNC:21054	6q25.3
+RSU1	Approved symbol	RSU1	Ras suppressor protein 1	HGNC:10464	10p13
+RTKN2	Approved symbol	RTKN2	rhotekin 2	HGNC:19364	10q21.3
+RTP4	Approved symbol	RTP4	receptor (chemosensory) transporter protein 4	HGNC:23992	3q27.3
+RUFY2	Approved symbol	RUFY2	RUN and FYVE domain containing 2	HGNC:19761	10q22.2
+RUNDC1	Approved symbol	RUNDC1	RUN domain containing 1	HGNC:25418	17q21.31
+RUNX3	Approved symbol	RUNX3	runt-related transcription factor 3	HGNC:10473	1p36
+RUSC1	Approved symbol	RUSC1	RUN and SH3 domain containing 1	HGNC:17153	1q21-q22
+RUVBL1	Approved symbol	RUVBL1	RuvB-like AAA ATPase 1	HGNC:10474	3q21
+RUVBL2	Approved symbol	RUVBL2	RuvB-like AAA ATPase 2	HGNC:10475	19q13.3
+RXRB	Approved symbol	RXRB	retinoid X receptor, beta	HGNC:10478	6p21.3
+S100A13	Approved symbol	S100A13	S100 calcium binding protein A13	HGNC:10490	1q21
+S1PR4	Approved symbol	S1PR4	sphingosine-1-phosphate receptor 4	HGNC:3170	19p13.3
+SAA1	Approved symbol	SAA1	serum amyloid A1	HGNC:10513	11p15.1
+SAA2	Approved symbol	SAA2	serum amyloid A2	HGNC:10514	11p15.1-p14
+SAA4	Approved symbol	SAA4	serum amyloid A4, constitutive	HGNC:10516	11p15.1-p14
+SAP30BP	Approved symbol	SAP30BP	SAP30 binding protein	HGNC:30785	17q25.1
+SAR1A	Approved symbol	SAR1A	secretion associated, Ras related GTPase 1A	HGNC:10534	10q22.1
+SART1	Approved symbol	SART1	squamous cell carcinoma antigen recognized by T cells	HGNC:10538	11q13.1
+SART3	Approved symbol	SART3	squamous cell carcinoma antigen recognized by T cells 3	HGNC:16860	12q24.11
+SCAMP3	Approved symbol	SCAMP3	secretory carrier membrane protein 3	HGNC:10565	1q21
+SCAMP4	Approved symbol	SCAMP4	secretory carrier membrane protein 4	HGNC:30385	19p13.3
+SCCPDH	Approved symbol	SCCPDH	saccharopine dehydrogenase (putative)	HGNC:24275	1q44
+SCHIP1	Approved symbol	SCHIP1	schwannomin interacting protein 1	HGNC:15678	3q25.32-q25.33
+SCN8A	Approved symbol	SCN8A	sodium channel, voltage gated, type VIII alpha subunit	HGNC:10596	12q13.1
+SCNM1	Approved symbol	SCNM1	sodium channel modifier 1	HGNC:23136	1q21.3
+SCNN1A	Approved symbol	SCNN1A	sodium channel, non voltage gated 1 alpha subunit	HGNC:10599	12p13
+SCRIB	Approved symbol	SCRIB	scribbled planar cell polarity protein	HGNC:30377	8q24.3
+SCYL1	Approved symbol	SCYL1	SCY1-like 1 (S. cerevisiae)	HGNC:14372	11q11-q12
+SCYL1	Synonyms	CCL13	chemokine (C-C motif) ligand 13	HGNC:10611	17q11.2
+SCYL3	Approved symbol	SCYL3	SCY1-like 3 (S. cerevisiae)	HGNC:19285	1q24.2
+SCYL3	Synonyms	CCL15	chemokine (C-C motif) ligand 15	HGNC:10613	17q12
+SDC1	Approved symbol	SDC1	syndecan 1	HGNC:10658	2p24.1
+SDCCAG8	Approved symbol	SDCCAG8	serologically defined colon cancer antigen 8	HGNC:10671	1q43
+SDHAF2	Approved symbol	SDHAF2	succinate dehydrogenase complex assembly factor 2	HGNC:26034	11q12.2
+SDHC	Approved symbol	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	HGNC:10682	1q23.3
+SDSL	Approved symbol	SDSL	serine dehydratase-like	HGNC:30404	12q24.13
+SEC13	Approved symbol	SEC13	SEC13 homolog (S. cerevisiae)	HGNC:10697	3p25-p24
+SEC14L5	Approved symbol	SEC14L5	SEC14-like 5 (S. cerevisiae)	HGNC:29032	16p13.3
+SEC16B	Approved symbol	SEC16B	SEC16 homolog B (S. cerevisiae)	HGNC:30301	1q25.2
+SEC23IP	Approved symbol	SEC23IP	SEC23 interacting protein	HGNC:17018	10q26.11-q26.12
+SEC24C	Approved symbol	SEC24C	SEC24 family member C	HGNC:10705	10q22
+SEC31B	Approved symbol	SEC31B	SEC31 homolog B (S. cerevisiae)	HGNC:23197	10q24.32
+SEC61A2	Approved symbol	SEC61A2	Sec61 alpha 2 subunit (S. cerevisiae)	HGNC:17702	10p14
+SEC61B	Approved symbol	SEC61B	Sec61 beta subunit	HGNC:16993	9q22.33
+SELENBP1	Approved symbol	SELENBP1	selenium binding protein 1	HGNC:10719	1q21.3
+SELPLG	Approved symbol	SELPLG	selectin P ligand	HGNC:10722	12q24
+SEMA6B	Approved symbol	SEMA6B	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6B	HGNC:10739	19p13.3
+SENP8	Approved symbol	SENP8	SUMO/sentrin specific peptidase family member 8	HGNC:22992	15q22.33
+SEPHS1	Approved symbol	SEPHS1	selenophosphate synthetase 1	HGNC:19685	10p14
+SEPT9	Approved symbol	SEPT9	septin 9	HGNC:7323	17q25.3
+SERPINB1	Approved symbol	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1	HGNC:3311	6p25.2
+SERPINF2	Approved symbol	SERPINF2	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2	HGNC:9075	17p13.3
+SETDB1	Approved symbol	SETDB1	SET domain, bifurcated 1	HGNC:10761	1q21
+SF3B2	Approved symbol	SF3B2	splicing factor 3b, subunit 2, 145kDa	HGNC:10769	11q13
+SF3B4	Approved symbol	SF3B4	splicing factor 3b, subunit 4, 49kDa	HGNC:10771	1q21.2
+SF3B5	Approved symbol	SF3B5	splicing factor 3b, subunit 5, 10kDa	HGNC:21083	6q24.1
+SFTA2	Approved symbol	SFTA2	surfactant associated 2	HGNC:18386	6p21.3
+SFXN4	Approved symbol	SFXN4	sideroflexin 4	HGNC:16088	10q26.11
+SFXN5	Approved symbol	SFXN5	sideroflexin 5	HGNC:16073	2p13
+SGMS1	Approved symbol	SGMS1	sphingomyelin synthase 1	HGNC:29799	10q11.2
+SGPL1	Approved symbol	SGPL1	sphingosine-1-phosphate lyase 1	HGNC:10817	10q21
+SGSM3	Approved symbol	SGSM3	small G protein signaling modulator 3	HGNC:25228	22q13.1-q13.2
+SH2B2	Approved symbol	SH2B2	SH2B adaptor protein 2	HGNC:17381	7q22.1
+SH2B3	Approved symbol	SH2B3	SH2B adaptor protein 3	HGNC:29605	12q24.12
+SH2D2A	Approved symbol	SH2D2A	SH2 domain containing 2A	HGNC:10821	1q21
+SH3TC2	Approved symbol	SH3TC2	SH3 domain and tetratricopeptide repeats 2	HGNC:29427	5q32
+SHARPIN	Approved symbol	SHARPIN	SHANK-associated RH domain interactor	HGNC:25321	8q24.3
+SHBG	Approved symbol	SHBG	sex hormone-binding globulin	HGNC:10839	17p13.1
+SHC1	Approved symbol	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	HGNC:10840	1q21
+SHKBP1	Approved symbol	SHKBP1	SH3KBP1 binding protein 1	HGNC:19214	19q13.2
+SHMT2	Approved symbol	SHMT2	serine hydroxymethyltransferase 2 (mitochondrial)	HGNC:10852	12q12-q14
+SHOC2	Approved symbol	SHOC2	soc-2 suppressor of clear homolog (C. elegans)	HGNC:15454	10q25
+SIGLEC11	Approved symbol	SIGLEC11	sialic acid binding Ig-like lectin 11	HGNC:15622	19q13.3
+SIGLEC14	Approved symbol	SIGLEC14	sialic acid binding Ig-like lectin 14	HGNC:32926	19q13.41
+SIGLEC16	Approved symbol	SIGLEC16	sialic acid binding Ig-like lectin 16 (gene/pseudogene)	HGNC:24851	19q13.33
+SIGLEC5	Approved symbol	SIGLEC5	sialic acid binding Ig-like lectin 5	HGNC:10874	19q13.41
+SIK3	Approved symbol	SIK3	SIK family kinase 3	HGNC:29165	11q23.3
+SIRT1	Approved symbol	SIRT1	sirtuin 1	HGNC:14929	10q21
+SIVA1	Approved symbol	SIVA1	SIVA1, apoptosis-inducing factor	HGNC:17712	14q32.33
+SKIV2L	Approved symbol	SKIV2L	superkiller viralicidic activity 2-like (S. cerevisiae)	HGNC:10898	6p21
+SLC11A1	Approved symbol	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporter), member 1	HGNC:10907	2q35
+SLC12A9	Approved symbol	SLC12A9	solute carrier family 12, member 9	HGNC:17435	7q22
+SLC15A3	Approved symbol	SLC15A3	solute carrier family 15 (oligopeptide transporter), member 3	HGNC:18068	11q12.2
+SLC16A3	Approved symbol	SLC16A3	solute carrier family 16 (monocarboxylate transporter), member 3	HGNC:10924	17q25.3
+SLC16A9	Approved symbol	SLC16A9	solute carrier family 16, member 9	HGNC:23520	10q21.3
+SLC19A2	Approved symbol	SLC19A2	solute carrier family 19 (thiamine transporter), member 2	HGNC:10938	1q23.3
+SLC22A2	Approved symbol	SLC22A2	solute carrier family 22 (organic cation transporter), member 2	HGNC:10966	6q25.3
+SLC22A3	Approved symbol	SLC22A3	solute carrier family 22 (organic cation transporter), member 3	HGNC:10967	6q25.3
+SLC25A11	Approved symbol	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11	HGNC:10981	17p13.3
+SLC25A32	Approved symbol	SLC25A32	solute carrier family 25 (mitochondrial folate carrier), member 32	HGNC:29683	8q22.3
+SLC25A44	Approved symbol	SLC25A44	solute carrier family 25, member 44	HGNC:29036	1q22
+SLC26A4	Approved symbol	SLC26A4	solute carrier family 26 (anion exchanger), member 4	HGNC:8818	7q31
+SLC2A5	Approved symbol	SLC2A5	solute carrier family 2 (facilitated glucose/fructose transporter), member 5	HGNC:11010	1p36.2
+SLC30A1	Approved symbol	SLC30A1	solute carrier family 30 (zinc transporter), member 1	HGNC:11012	1q32.3
+SLC30A2	Approved symbol	SLC30A2	solute carrier family 30 (zinc transporter), member 2	HGNC:11013	1p35.3
+SLC31A2	Approved symbol	SLC31A2	solute carrier family 31 (copper transporter), member 2	HGNC:11017	9q32
+SLC34A2	Approved symbol	SLC34A2	solute carrier family 34 (type II sodium/phosphate cotransporter), member 2	HGNC:11020	4p15.2
+SLC35C1	Approved symbol	SLC35C1	solute carrier family 35 (GDP-fucose transporter), member C1	HGNC:20197	11p11.2
+SLC35C2	Approved symbol	SLC35C2	solute carrier family 35 (GDP-fucose transporter), member C2	HGNC:17117	20q13.12
+SLC38A1	Approved symbol	SLC38A1	solute carrier family 38, member 1	HGNC:13447	12q13.11
+SLC38A2	Approved symbol	SLC38A2	solute carrier family 38, member 2	HGNC:13448	12q13.11
+SLC39A1	Approved symbol	SLC39A1	solute carrier family 39 (zinc transporter), member 1	HGNC:12876	1q21
+SLC39A2	Approved symbol	SLC39A2	solute carrier family 39 (zinc transporter), member 2	HGNC:17127	14q11.1
+SLC41A3	Approved symbol	SLC41A3	solute carrier family 41, member 3	HGNC:31046	3q21.2
+SLC43A3	Approved symbol	SLC43A3	solute carrier family 43, member 3	HGNC:17466	11q11
+SLC45A4	Approved symbol	SLC45A4	solute carrier family 45, member 4	HGNC:29196	8q24.3
+SLC47A2	Approved symbol	SLC47A2	solute carrier family 47 (multidrug and toxin extrusion), member 2	HGNC:26439	17p11.2
+SLC6A9	Approved symbol	SLC6A9	solute carrier family 6 (neurotransmitter transporter, glycine), member 9	HGNC:11056	1p33
+SLC9A1	Approved symbol	SLC9A1	solute carrier family 9, subfamily A (NHE1, cation proton antiporter 1), member 1	HGNC:11071	1p36.1-p35
+SLFN11	Approved symbol	SLFN11	schlafen family member 11	HGNC:26633	17q12
+SLFN12L	Approved symbol	SLFN12L	schlafen family member 12-like	HGNC:33920	17q12
+SLK	Approved symbol	SLK	STE20-like kinase	HGNC:11088	10q25.1
+SLK	Synonyms	FYN	FYN proto-oncogene, Src family tyrosine kinase	HGNC:4037	6q21
+SLMO1	Approved symbol	SLMO1	slowmo homolog 1 (Drosophila)	HGNC:24639	18p11.21
+SMAD6	Approved symbol	SMAD6	SMAD family member 6	HGNC:6772	15q22.31
+SMAP2	Approved symbol	SMAP2	small ArfGAP2	HGNC:25082	1p35.3-p34.1
+SMAP2	Synonyms	SMOC2	SPARC related modular calcium binding 2	HGNC:20323	6q27
+SMC3	Approved symbol	SMC3	structural maintenance of chromosomes 3	HGNC:2468	10q25
+SMG5	Approved symbol	SMG5	SMG5 nonsense mediated mRNA decay factor	HGNC:24644	1q21
+SMG7	Approved symbol	SMG7	SMG7 nonsense mediated mRNA decay factor	HGNC:16792	1q25
+SMNDC1	Approved symbol	SMNDC1	survival motor neuron domain containing 1	HGNC:16900	10q23
+SMOC1	Approved symbol	SMOC1	SPARC related modular calcium binding 1	HGNC:20318	14q24.1
+SMPD2	Approved symbol	SMPD2	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)	HGNC:11121	6q21
+SMPD3	Approved symbol	SMPD3	sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)	HGNC:14240	16q22.1
+SMUG1	Approved symbol	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1	HGNC:17148	12q13.13
+SMYD3	Approved symbol	SMYD3	SET and MYND domain containing 3	HGNC:15513	1q44
+SNAI3	Approved symbol	SNAI3	snail family zinc finger 3	HGNC:18411	16q24.3
+SNAP47	Approved symbol	SNAP47	synaptosomal-associated protein, 47kDa	HGNC:30669	1q42.13
+SNAPIN	Approved symbol	SNAPIN	SNAP-associated protein	HGNC:17145	1q22
+SNCAIP	Approved symbol	SNCAIP	synuclein, alpha interacting protein	HGNC:11139	5q23.2
+SNF8	Approved symbol	SNF8	SNF8, ESCRT-II complex subunit	HGNC:17028	17q21.32
+SNORA77	Approved symbol	SNORA77	small nucleolar RNA, H/ACA box 77	HGNC:32663	1q32.1
+SNORD79	Approved symbol	SNORD79	small nucleolar RNA, C/D box 79	HGNC:10100	1q25.1
+SNRPC	Approved symbol	SNRPC	small nuclear ribonucleoprotein polypeptide C	HGNC:11157	6p21
+SNRPE	Approved symbol	SNRPE	small nuclear ribonucleoprotein polypeptide E	HGNC:11161	1q32
+SNRPF	Approved symbol	SNRPF	small nuclear ribonucleoprotein polypeptide F	HGNC:11162	12q23.1
+SNX11	Approved symbol	SNX11	sorting nexin 11	HGNC:14975	17q21.32
+SNX19	Approved symbol	SNX19	sorting nexin 19	HGNC:21532	11q25
+SNX21	Approved symbol	SNX21	sorting nexin family member 21	HGNC:16154	20q13.12
+SNX27	Approved symbol	SNX27	sorting nexin family member 27	HGNC:20073	1q21.3
+SNX33	Approved symbol	SNX33	sorting nexin 33	HGNC:28468	15q23
+SNX8	Approved symbol	SNX8	sorting nexin 8	HGNC:14972	7p22.3
+SOAT1	Approved symbol	SOAT1	sterol O-acyltransferase 1	HGNC:11177	1q25
+SOAT2	Approved symbol	SOAT2	sterol O-acyltransferase 2	HGNC:11178	12q13.13
+SORBS3	Approved symbol	SORBS3	sorbin and SH3 domain containing 3	HGNC:30907	8p21.3
+SOX13	Approved symbol	SOX13	SRY (sex determining region Y)-box 13	HGNC:11192	1q32
+SP100	Approved symbol	SP100	SP100 nuclear antigen	HGNC:11206	2q37.1
+SP140L	Approved symbol	SP140L	SP140 nuclear body protein-like	HGNC:25105	2q37.1
+SPAG1	Approved symbol	SPAG1	sperm associated antigen 1	HGNC:11212	8q22
+SPAG8	Approved symbol	SPAG8	sperm associated antigen 8	HGNC:14105	9p13.3
+SPATA4	Approved symbol	SPATA4	spermatogenesis associated 4	HGNC:17333	4q34.2
+SPERT	Approved symbol	SPERT	spermatid associated	HGNC:30720	13q14.13
+SPHAR	Approved symbol	SPHAR	S-phase response (cyclin related)	HGNC:16957	1q42.13
+SPI1	Approved symbol	SPI1	Spi-1 proto-oncogene	HGNC:11241	11p12-p11.22
+SPINK1	Approved symbol	SPINK1	serine peptidase inhibitor, Kazal type 1	HGNC:11244	5q32
+SPNS3	Approved symbol	SPNS3	spinster homolog 3 (Drosophila)	HGNC:28433	17p13.2
+SPRYD4	Approved symbol	SPRYD4	SPRY domain containing 4	HGNC:27468	12q13.3
+SPSB1	Approved symbol	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1	HGNC:30628	1p36.22
+SPSB2	Approved symbol	SPSB2	splA/ryanodine receptor domain and SOCS box containing 2	HGNC:29522	12p13.31
+SRCAP	Approved symbol	SRCAP	Snf2-related CREBBP activator protein	HGNC:16974	16p11.2
+SRGAP1	Approved symbol	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1	HGNC:17382	12q13.13
+SRGAP2	Approved symbol	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	HGNC:19751	1q32.1
+SRGAP2	Previous symbol	SRGAP3	SLIT-ROBO Rho GTPase activating protein 3	HGNC:19744	3p25.3
+SRP68	Approved symbol	SRP68	signal recognition particle 68kDa	HGNC:11302	17q25.1
+SRP9	Approved symbol	SRP9	signal recognition particle 9kDa	HGNC:11304	1q42.12
+SRRM4	Approved symbol	SRRM4	serine/arginine repetitive matrix 4	HGNC:29389	12q24.23
+SSR2	Approved symbol	SSR2	signal sequence receptor, beta (translocon-associated protein beta)	HGNC:11324	1q21-q23
+SSSCA1	Approved symbol	SSSCA1	Sjogren syndrome/scleroderma autoantigen 1	HGNC:11328	11q13.1
+ST6GAL1	Approved symbol	ST6GAL1	ST6 beta-galactosamide alpha-2,6-sialyltranferase 1	HGNC:10860	3q27.3
+ST6GALNAC6	Approved symbol	ST6GALNAC6	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 6	HGNC:23364	9q34.13
+STAM	Approved symbol	STAM	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1	HGNC:11357	10p14-p13
+STARD10	Approved symbol	STARD10	StAR-related lipid transfer (START) domain containing 10	HGNC:10666	11q13
+STAT2	Approved symbol	STAT2	signal transducer and activator of transcription 2, 113kDa	HGNC:11363	12q13.2
+STAT5A	Approved symbol	STAT5A	signal transducer and activator of transcription 5A	HGNC:11366	17q11.2
+STAT6	Approved symbol	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	HGNC:11368	12q13
+STK10	Approved symbol	STK10	serine/threonine kinase 10	HGNC:11388	5q35.1
+STK11IP	Approved symbol	STK11IP	serine/threonine kinase 11 interacting protein	HGNC:19184	2q35
+STOML2	Approved symbol	STOML2	stomatin (EPB72)-like 2	HGNC:14559	9p13.1
+STOML3	Approved symbol	STOML3	stomatin (EPB72)-like 3	HGNC:19420	13q13.2
+STRA6	Approved symbol	STRA6	stimulated by retinoic acid 6	HGNC:30650	15q24.1
+STX2	Approved symbol	STX2	syntaxin 2	HGNC:3403	12q24
+STX5	Approved symbol	STX5	syntaxin 5	HGNC:11440	11q12.3
+STX6	Approved symbol	STX6	syntaxin 6	HGNC:11441	1q25.3
+STX8	Approved symbol	STX8	syntaxin 8	HGNC:11443	17p13.1
+SUFU	Approved symbol	SUFU	suppressor of fused homolog (Drosophila)	HGNC:16466	10q24.32
+SUPT4H1	Approved symbol	SUPT4H1	suppressor of Ty 4 homolog 1 (S. cerevisiae)	HGNC:11467	17q22
+SUPV3L1	Approved symbol	SUPV3L1	suppressor of var1, 3-like 1 (S. cerevisiae)	HGNC:11471	10q22.1
+SURF1	Approved symbol	SURF1	surfeit 1	HGNC:11474	9q33-q34
+SUV39H2	Approved symbol	SUV39H2	suppressor of variegation 3-9 homolog 2 (Drosophila)	HGNC:17287	10p13
+SVIL	Approved symbol	SVIL	supervillin	HGNC:11480	10p11.2
+SYMPK	Approved symbol	SYMPK	symplekin	HGNC:22935	19q13.3
+SYS1	Approved symbol	SYS1	Sys1 golgi trafficking protein	HGNC:16162	20q13.12
+SYT12	Approved symbol	SYT12	synaptotagmin XII	HGNC:18381	11q13.2
+SYT15	Approved symbol	SYT15	synaptotagmin XV	HGNC:17167	10q11.1
+SYT2	Approved symbol	SYT2	synaptotagmin II	HGNC:11510	1q32.1
+TACO1	Approved symbol	TACO1	translational activator of mitochondrially encoded cytochrome c oxidase I	HGNC:24316	17q23.3
+TADA1	Approved symbol	TADA1	transcriptional adaptor 1	HGNC:30631	1q24.1
+TAF1	Approved symbol	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	HGNC:11535	Xq13.1
+TAF1A	Approved symbol	TAF1A	TATA box binding protein (TBP)-associated factor, RNA polymerase I, A, 48kDa	HGNC:11532	1q42
+TAF5L	Approved symbol	TAF5L	TAF5-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa	HGNC:17304	1q42.11-q42.3
+TAF6	Approved symbol	TAF6	TAF6 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 80kDa	HGNC:11540	7q
+TAF8	Approved symbol	TAF8	TAF8 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 43kDa	HGNC:17300	6p21.1
+TAP2	Approved symbol	TAP2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	HGNC:44	6p21.3
+TAP2	Synonyms	SEC14L3	SEC14-like 3 (S. cerevisiae)	HGNC:18655	22q12.2
+TAPBP	Approved symbol	TAPBP	TAP binding protein (tapasin)	HGNC:11566	6p21.3
+TARBP1	Approved symbol	TARBP1	TAR (HIV-1) RNA binding protein 1	HGNC:11568	1q42.2
+TARBP2	Approved symbol	TARBP2	TAR (HIV-1) RNA binding protein 2	HGNC:11569	12q13.13
+TARS2	Approved symbol	TARS2	threonyl-tRNA synthetase 2, mitochondrial (putative)	HGNC:30740	1q21.2
+TATDN3	Approved symbol	TATDN3	TatD DNase domain containing 3	HGNC:27010	1q32.3
+TBC1D10C	Approved symbol	TBC1D10C	TBC1 domain family, member 10C	HGNC:24702	11q13.1
+TBC1D12	Approved symbol	TBC1D12	TBC1 domain family, member 12	HGNC:29082	10q23.33
+TBC1D22A	Approved symbol	TBC1D22A	TBC1 domain family, member 22A	HGNC:1309	22q13
+TBC1D24	Approved symbol	TBC1D24	TBC1 domain family, member 24	HGNC:29203	16p13.3
+TBCCD1	Approved symbol	TBCCD1	TBCC domain containing 1	HGNC:25546	3q27.3
+TBCE	Approved symbol	TBCE	tubulin folding cofactor E	HGNC:11582	1q42.3
+TBRG4	Approved symbol	TBRG4	transforming growth factor beta regulator 4	HGNC:17443	7p13
+TBX1	Approved symbol	TBX1	T-box 1	HGNC:11592	22q11.21
+TBX19	Approved symbol	TBX19	T-box 19	HGNC:11596	1q23-q24
+TBX21	Approved symbol	TBX21	T-box 21	HGNC:11599	17q21.32
+TCEB1	Approved symbol	TCEB1	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C)	HGNC:11617	8q13.3
+TCF7L2	Approved symbol	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	HGNC:11641	10q25.3
+TCHP	Approved symbol	TCHP	trichoplein, keratin filament binding	HGNC:28135	12q24.11
+TCP11L2	Approved symbol	TCP11L2	t-complex 11, testis-specific-like 2	HGNC:28627	12q23.3
+TCTA	Approved symbol	TCTA	T-cell leukemia translocation altered	HGNC:11692	3p21
+TCTE1	Approved symbol	TCTE1	t-complex-associated-testis-expressed 1	HGNC:11693	6q21.1
+TCTN1	Approved symbol	TCTN1	tectonic family member 1	HGNC:26113	12q24.11
+TCTN3	Approved symbol	TCTN3	tectonic family member 3	HGNC:24519	10q24.1
+TDRD5	Approved symbol	TDRD5	tudor domain containing 5	HGNC:20614	1q24.2
+TDRD9	Approved symbol	TDRD9	tudor domain containing 9	HGNC:20122	14q32.33
+TDRKH	Approved symbol	TDRKH	tudor and KH domain containing	HGNC:11713	1q21
+TECR	Approved symbol	TECR	trans-2,3-enoyl-CoA reductase	HGNC:4551	19p13.12
+TECTA	Approved symbol	TECTA	tectorin alpha	HGNC:11720	11q22-q24
+TEKT2	Approved symbol	TEKT2	tektin 2 (testicular)	HGNC:11725	1p34.3
+TES	Approved symbol	TES	testin LIM domain protein	HGNC:14620	7q31.2
+TET1	Approved symbol	TET1	tet methylcytosine dioxygenase 1	HGNC:29484	10q21
+TEX261	Approved symbol	TEX261	testis expressed 261	HGNC:30712	2p13.3
+TFAM	Approved symbol	TFAM	transcription factor A, mitochondrial	HGNC:11741	10q21
+TFB2M	Approved symbol	TFB2M	transcription factor B2, mitochondrial	HGNC:18559	1q44
+TFG	Approved symbol	TFG	TRK-fused gene	HGNC:11758	3q12.2
+TFIP11	Approved symbol	TFIP11	tuftelin interacting protein 11	HGNC:17165	22q12.1
+TFPT	Approved symbol	TFPT	TCF3 (E2A) fusion partner (in childhood Leukemia)	HGNC:13630	19q13
+TGFBR3	Approved symbol	TGFBR3	transforming growth factor, beta receptor III	HGNC:11774	1p33-p32
+TGM2	Approved symbol	TGM2	transglutaminase 2	HGNC:11778	20q12
+TGS1	Approved symbol	TGS1	trimethylguanosine synthase 1	HGNC:17843	8q11
+THADA	Approved symbol	THADA	thyroid adenoma associated	HGNC:19217	2p21
+THAP11	Approved symbol	THAP11	THAP domain containing 11	HGNC:23194	16q22.1
+THBD	Approved symbol	THBD	thrombomodulin	HGNC:11784	20p11.21
+THEM4	Approved symbol	THEM4	thioesterase superfamily member 4	HGNC:17947	1q21.3
+THNSL1	Approved symbol	THNSL1	threonine synthase-like 1 (S. cerevisiae)	HGNC:26160	10p12.31
+TIAL1	Approved symbol	TIAL1	TIA1 cytotoxic granule-associated RNA binding protein-like 1	HGNC:11804	10q
+TIGD5	Approved symbol	TIGD5	tigger transposable element derived 5	HGNC:18336	8q24.3
+TIMD4	Approved symbol	TIMD4	T-cell immunoglobulin and mucin domain containing 4	HGNC:25132	5q33.3
+TIMM17A	Approved symbol	TIMM17A	translocase of inner mitochondrial membrane 17 homolog A (yeast)	HGNC:17315	1q32.1
+TIPRL	Approved symbol	TIPRL	TOR signaling pathway regulator	HGNC:30231	1q23.2
+TK1	Approved symbol	TK1	thymidine kinase 1, soluble	HGNC:11830	17q23.2-q25.3
+TK2	Approved symbol	TK2	thymidine kinase 2, mitochondrial	HGNC:11831	16q22-q23.1
+TLCD1	Approved symbol	TLCD1	TLC domain containing 1	HGNC:25177	17q11.2
+TLR10	Approved symbol	TLR10	toll-like receptor 10	HGNC:15634	4p14
+TLR5	Approved symbol	TLR5	toll-like receptor 5	HGNC:11851	1q32.3-q42
+TM2D2	Approved symbol	TM2D2	TM2 domain containing 2	HGNC:24127	8p11.23
+TM9SF1	Approved symbol	TM9SF1	transmembrane 9 superfamily member 1	HGNC:11864	14q11.2
+TM9SF3	Approved symbol	TM9SF3	transmembrane 9 superfamily member 3	HGNC:21529	10q24.2
+TMBIM1	Approved symbol	TMBIM1	transmembrane BAX inhibitor motif containing 1	HGNC:23410	2q35
+TMC4	Approved symbol	TMC4	transmembrane channel-like 4	HGNC:22998	19q13.42
+TMC8	Approved symbol	TMC8	transmembrane channel-like 8	HGNC:20474	17q25.3
+TMCO1	Approved symbol	TMCO1	transmembrane and coiled-coil domains 1	HGNC:18188	1q22-q25
+TMEM107	Approved symbol	TMEM107	transmembrane protein 107	HGNC:28128	17p13.1
+TMEM110	Approved symbol	TMEM110	transmembrane protein 110	HGNC:30526	3p21.1
+TMEM115	Approved symbol	TMEM115	transmembrane protein 115	HGNC:30055	3p21.31
+TMEM120A	Approved symbol	TMEM120A	transmembrane protein 120A	HGNC:21697	7q11.23
+TMEM127	Approved symbol	TMEM127	transmembrane protein 127	HGNC:26038	2q11.2
+TMEM138	Approved symbol	TMEM138	transmembrane protein 138	HGNC:26944	11q12.2
+TMEM139	Approved symbol	TMEM139	transmembrane protein 139	HGNC:22058	7q34
+TMEM140	Approved symbol	TMEM140	transmembrane protein 140	HGNC:21870	7q33
+TMEM156	Approved symbol	TMEM156	transmembrane protein 156	HGNC:26260	4p14
+TMEM173	Approved symbol	TMEM173	transmembrane protein 173	HGNC:27962	5q31.2
+TMEM179B	Approved symbol	TMEM179B	transmembrane protein 179B	HGNC:33744	11q12.3
+TMEM183A	Approved symbol	TMEM183A	transmembrane protein 183A	HGNC:20173	1q31.1
+TMEM199	Approved symbol	TMEM199	transmembrane protein 199	HGNC:18085	17q11.2
+TMEM205	Approved symbol	TMEM205	transmembrane protein 205	HGNC:29631	19p13.2
+TMEM206	Approved symbol	TMEM206	transmembrane protein 206	HGNC:25593	1q32.3
+TMEM208	Approved symbol	TMEM208	transmembrane protein 208	HGNC:25015	16q22.1
+TMEM222	Approved symbol	TMEM222	transmembrane protein 222	HGNC:25363	1p36.11
+TMEM231	Approved symbol	TMEM231	transmembrane protein 231	HGNC:37234	16q23.1
+TMEM41A	Approved symbol	TMEM41A	transmembrane protein 41A	HGNC:30544	3q27.2
+TMEM50A	Approved symbol	TMEM50A	transmembrane protein 50A	HGNC:30590	1p36.11
+TMEM53	Approved symbol	TMEM53	transmembrane protein 53	HGNC:26186	1p34.1
+TMEM63A	Approved symbol	TMEM63A	transmembrane protein 63A	HGNC:29118	1q42.12
+TMEM65	Approved symbol	TMEM65	transmembrane protein 65	HGNC:25203	8q24.13
+TMEM70	Approved symbol	TMEM70	transmembrane protein 70	HGNC:26050	8q21.11
+TMEM81	Approved symbol	TMEM81	transmembrane protein 81	HGNC:32349	1q32.1
+TMEM9	Approved symbol	TMEM9	transmembrane protein 9	HGNC:18823	1q41
+TMIE	Approved symbol	TMIE	transmembrane inner ear	HGNC:30800	3p21
+TNFAIP8	Approved symbol	TNFAIP8	tumor necrosis factor, alpha-induced protein 8	HGNC:17260	5q23.1
+TNFAIP8L1	Approved symbol	TNFAIP8L1	tumor necrosis factor, alpha-induced protein 8-like 1	HGNC:28279	19p13.3
+TNFRSF17	Approved symbol	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	HGNC:11913	16p13.1
+TNFRSF1B	Approved symbol	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	HGNC:11917	1p36.22
+TNIP1	Approved symbol	TNIP1	TNFAIP3 interacting protein 1	HGNC:16903	5q32-q33.1
+TNK2	Approved symbol	TNK2	tyrosine kinase, non-receptor, 2	HGNC:19297	3q29
+TNKS2	Approved symbol	TNKS2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	HGNC:15677	10q23.3
+TNNC1	Approved symbol	TNNC1	troponin C type 1 (slow)	HGNC:11943	3p21.1
+TNNC1	Synonyms	TNNI3	troponin I type 3 (cardiac)	HGNC:11947	19q13.4
+TNNI2	Approved symbol	TNNI2	troponin I type 2 (skeletal, fast)	HGNC:11946	11p15.5
+TNXB	Approved symbol	TNXB	tenascin XB	HGNC:11976	6p21.3
+TOM1	Approved symbol	TOM1	target of myb1 (chicken)	HGNC:11982	22q13.1
+TOMM20	Approved symbol	TOMM20	translocase of outer mitochondrial membrane 20 homolog (yeast)	HGNC:20947	1q42
+TOMM40L	Approved symbol	TOMM40L	translocase of outer mitochondrial membrane 40 homolog (yeast)-like	HGNC:25756	1q23.3
+TOR1AIP1	Approved symbol	TOR1AIP1	torsin A interacting protein 1	HGNC:29456	1q24.2
+TOR1AIP2	Approved symbol	TOR1AIP2	torsin A interacting protein 2	HGNC:24055	1q25.2
+TOR2A	Approved symbol	TOR2A	torsin family 2, member A	HGNC:11996	9q34.11
+TOR3A	Approved symbol	TOR3A	torsin family 3, member A	HGNC:11997	1q25.2
+TP53BP2	Approved symbol	TP53BP2	tumor protein p53 binding protein 2	HGNC:12000	1q41
+TPCN1	Approved symbol	TPCN1	two pore segment channel 1	HGNC:18182	12q24.21
+TPM3	Approved symbol	TPM3	tropomyosin 3	HGNC:12012	1q21.2
+TPP1	Approved symbol	TPP1	tripeptidyl peptidase I	HGNC:2073	11p15.4
+TPP1	Synonyms	ACD	adrenocortical dysplasia homolog (mouse)	HGNC:25070	16q22
+TPPP3	Approved symbol	TPPP3	tubulin polymerization-promoting protein family member 3	HGNC:24162	16q22.1
+TPR	Approved symbol	TPR	translocated promoter region, nuclear basket protein	HGNC:12017	1q25
+TPRXL	Approved symbol	TPRXL	tetra-peptide repeat homeobox-like	HGNC:32178	3p25.1
+TPTE2	Approved symbol	TPTE2	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2	HGNC:17299	13q12.11
+TRADD	Approved symbol	TRADD	TNFRSF1A-associated via death domain	HGNC:12030	16q22
+TRAF3	Approved symbol	TRAF3	TNF receptor-associated factor 3	HGNC:12033	14q32.32
+TRAF5	Approved symbol	TRAF5	TNF receptor-associated factor 5	HGNC:12035	1q32
+TRAFD1	Approved symbol	TRAFD1	TRAF-type zinc finger domain containing 1	HGNC:24808	12q24.13
+TRAM1	Approved symbol	TRAM1	translocation associated membrane protein 1	HGNC:20568	8q13.1
+TRAPPC2L	Approved symbol	TRAPPC2L	trafficking protein particle complex 2-like	HGNC:30887	16q24.3
+TRAPPC9	Approved symbol	TRAPPC9	trafficking protein particle complex 9	HGNC:30832	8q24.3
+TRDMT1	Approved symbol	TRDMT1	tRNA aspartic acid methyltransferase 1	HGNC:2977	10p15.1
+TREML2	Approved symbol	TREML2	triggering receptor expressed on myeloid cells-like 2	HGNC:21092	6p21.1
+TRIAP1	Approved symbol	TRIAP1	TP53 regulated inhibitor of apoptosis 1	HGNC:26937	12q24.31
+TRIM10	Approved symbol	TRIM10	tripartite motif containing 10	HGNC:10072	6p21.3
+TRIM11	Approved symbol	TRIM11	tripartite motif containing 11	HGNC:16281	1q42.13
+TRIM15	Approved symbol	TRIM15	tripartite motif containing 15	HGNC:16284	6p21.33
+TRIM21	Approved symbol	TRIM21	tripartite motif containing 21	HGNC:11312	11p15.5-p15.3
+TRIM26	Approved symbol	TRIM26	tripartite motif containing 26	HGNC:12962	6p21.3
+TRIM27	Approved symbol	TRIM27	tripartite motif containing 27	HGNC:9975	6p22
+TRIM31	Approved symbol	TRIM31	tripartite motif containing 31	HGNC:16289	6p21.3
+TRIM35	Approved symbol	TRIM35	tripartite motif containing 35	HGNC:16285	8p21.2
+TRIM39	Approved symbol	TRIM39	tripartite motif containing 39	HGNC:10065	6p22.1
+TRIM40	Approved symbol	TRIM40	tripartite motif containing 40	HGNC:18736	6p21.31
+TRIM47	Approved symbol	TRIM47	tripartite motif containing 47	HGNC:19020	17q25
+TRIM67	Approved symbol	TRIM67	tripartite motif containing 67	HGNC:31859	1q42.2
+TRIM8	Approved symbol	TRIM8	tripartite motif containing 8	HGNC:15579	10q24.3
+TRIP10	Approved symbol	TRIP10	thyroid hormone receptor interactor 10	HGNC:12304	19p13.3
+TRIP6	Approved symbol	TRIP6	thyroid hormone receptor interactor 6	HGNC:12311	7q22
+TRMT61A	Approved symbol	TRMT61A	tRNA methyltransferase 61A	HGNC:23790	14q32
+TRNP1	Approved symbol	TRNP1	TMF1-regulated nuclear protein 1	HGNC:34348	1p36.11
+TRNP1	Previous symbol	TRL-AAG2-1	transfer RNA-Leu (AAG) 2-1	HGNC:12315	14q11.2
+TRNP1	Previous symbol	TRP-AGG2-3	transfer RNA-Pro (AGG) 2-3	HGNC:12330	14q11.2
+TRNP1	Previous symbol	TRP-AGG2-4	transfer RNA-Pro (AGG) 2-4	HGNC:12331	14q11.2
+TROAP	Approved symbol	TROAP	trophinin associated protein	HGNC:12327	12q13.12
+TROVE2	Approved symbol	TROVE2	TROVE domain family, member 2	HGNC:11313	1q31
+TRPV2	Approved symbol	TRPV2	transient receptor potential cation channel, subfamily V, member 2	HGNC:18082	17p11.2
+TRPV4	Approved symbol	TRPV4	transient receptor potential cation channel, subfamily V, member 4	HGNC:18083	12q24.1
+TRUB1	Approved symbol	TRUB1	TruB pseudouridine (psi) synthase family member 1	HGNC:16060	10q25.3
+TSEN15	Approved symbol	TSEN15	TSEN15 tRNA splicing endonuclease subunit	HGNC:16791	1q25
+TSNAX	Approved symbol	TSNAX	translin-associated factor X	HGNC:12380	1q42.2
+TSNAXIP1	Approved symbol	TSNAXIP1	translin-associated factor X interacting protein 1	HGNC:18586	16q22.2
+TSPAN1	Approved symbol	TSPAN1	tetraspanin 1	HGNC:20657	1p33
+TSPAN14	Approved symbol	TSPAN14	tetraspanin 14	HGNC:23303	10q23.1
+TSSC1	Approved symbol	TSSC1	tumor suppressing subtransferable candidate 1	HGNC:12383	2p25.3
+TSSC4	Approved symbol	TSSC4	tumor suppressing subtransferable candidate 4	HGNC:12386	11p15.5
+TST	Approved symbol	TST	thiosulfate sulfurtransferase (rhodanese)	HGNC:12388	22q13.1
+TSTA3	Approved symbol	TSTA3	tissue specific transplantation antigen P35B	HGNC:12390	8q24.3
+TSTD1	Approved symbol	TSTD1	thiosulfate sulfurtransferase (rhodanese)-like domain containing 1	HGNC:35410	1q23.3
+TTC13	Approved symbol	TTC13	tetratricopeptide repeat domain 13	HGNC:26204	1q42.2
+TTC29	Approved symbol	TTC29	tetratricopeptide repeat domain 29	HGNC:29936	4q31.23
+TTC7A	Approved symbol	TTC7A	tetratricopeptide repeat domain 7A	HGNC:19750	2p16.3
+TTC9C	Approved symbol	TTC9C	tetratricopeptide repeat domain 9C	HGNC:28432	11q12.3
+TTLL11	Approved symbol	TTLL11	tubulin tyrosine ligase-like family member 11	HGNC:18113	9q34.11
+TTLL6	Approved symbol	TTLL6	tubulin tyrosine ligase-like family member 6	HGNC:26664	17q21.32
+TUBA1A	Approved symbol	TUBA1A	tubulin, alpha 1a	HGNC:20766	12q13.12
+TUBA1B	Approved symbol	TUBA1B	tubulin, alpha 1b	HGNC:18809	12q13.12
+TUBB	Approved symbol	TUBB	tubulin, beta class I	HGNC:20778	6p21.33
+TUBB	Previous symbol	TUBB2A	tubulin, beta 2A class IIa	HGNC:12412	6p25.2
+TUBB2A	Approved symbol	TUBB2A	tubulin, beta 2A class IIa	HGNC:12412	6p25.2
+TUBB6	Approved symbol	TUBB6	tubulin, beta 6 class V	HGNC:20776	18p11.21
+TUBGCP2	Approved symbol	TUBGCP2	tubulin, gamma complex associated protein 2	HGNC:18599	10q26.3
+TUFT1	Approved symbol	TUFT1	tuftelin 1	HGNC:12422	1q21
+TULP3	Approved symbol	TULP3	tubby like protein 3	HGNC:12425	12p13
+TUSC2	Approved symbol	TUSC2	tumor suppressor candidate 2	HGNC:17034	3p21.3
+TXNDC11	Approved symbol	TXNDC11	thioredoxin domain containing 11	HGNC:28030	16p13.13
+TXNIP	Approved symbol	TXNIP	thioredoxin interacting protein	HGNC:16952	1q11
+TXNRD1	Approved symbol	TXNRD1	thioredoxin reductase 1	HGNC:12437	12q23-q24.1
+TYK2	Approved symbol	TYK2	tyrosine kinase 2	HGNC:12440	19p13.2
+U2AF1	Approved symbol	U2AF1	U2 small nuclear RNA auxiliary factor 1	HGNC:12453	21q22.3
+UAP1	Approved symbol	UAP1	UDP-N-acetylglucosamine pyrophosphorylase 1	HGNC:12457	1q23.2
+UBA7	Approved symbol	UBA7	ubiquitin-like modifier activating enzyme 7	HGNC:12471	3p21
+UBAC1	Approved symbol	UBAC1	UBA domain containing 1	HGNC:30221	9q34.3
+UBAC2	Approved symbol	UBAC2	UBA domain containing 2	HGNC:20486	13q32.3
+UBAP2L	Approved symbol	UBAP2L	ubiquitin associated protein 2-like	HGNC:29877	1q21.3
+UBASH3A	Approved symbol	UBASH3A	ubiquitin associated and SH3 domain containing A	HGNC:12462	21q22.3
+UBD	Approved symbol	UBD	ubiquitin D	HGNC:18795	6p21.3
+UBE2D1	Approved symbol	UBE2D1	ubiquitin-conjugating enzyme E2D 1	HGNC:12474	10q21.1
+UBE2L6	Approved symbol	UBE2L6	ubiquitin-conjugating enzyme E2L 6	HGNC:12490	11q12.1
+UBE2Q1	Approved symbol	UBE2Q1	ubiquitin-conjugating enzyme E2Q family member 1	HGNC:15698	1q22
+UBE2T	Approved symbol	UBE2T	ubiquitin-conjugating enzyme E2T	HGNC:25009	1q32.1
+UBE2V2	Approved symbol	UBE2V2	ubiquitin-conjugating enzyme E2 variant 2	HGNC:12495	8q11.21
+UBE2W	Approved symbol	UBE2W	ubiquitin-conjugating enzyme E2W (putative)	HGNC:25616	8q21.11
+UBE2Z	Approved symbol	UBE2Z	ubiquitin-conjugating enzyme E2Z	HGNC:25847	17q21.32
+UBE3B	Approved symbol	UBE3B	ubiquitin protein ligase E3B	HGNC:13478	12q24.12
+UBN1	Approved symbol	UBN1	ubinuclein 1	HGNC:12506	16p13.3
+UBQLN4	Approved symbol	UBQLN4	ubiquilin 4	HGNC:1237	1q21
+UBXN1	Approved symbol	UBXN1	UBX domain protein 1	HGNC:18402	11q23
+UBXN10	Approved symbol	UBXN10	UBX domain protein 10	HGNC:26354	1p36.13
+UBXN11	Approved symbol	UBXN11	UBX domain protein 11	HGNC:30600	1p36.11
+UBXN6	Approved symbol	UBXN6	UBX domain protein 6	HGNC:14928	19p13
+UCHL5	Approved symbol	UCHL5	ubiquitin carboxyl-terminal hydrolase L5	HGNC:19678	1q32
+UCP2	Approved symbol	UCP2	uncoupling protein 2 (mitochondrial, proton carrier)	HGNC:12518	11q13
+UFC1	Approved symbol	UFC1	ubiquitin-fold modifier conjugating enzyme 1	HGNC:26941	1q23.3
+UFD1L	Approved symbol	UFD1L	ubiquitin fusion degradation 1 like (yeast)	HGNC:12520	22q11.2
+UFSP1	Approved symbol	UFSP1	UFM1-specific peptidase 1 (non-functional)	HGNC:33821	7q22.1
+UHMK1	Approved symbol	UHMK1	U2AF homology motif (UHM) kinase 1	HGNC:19683	1q23.1
+UMPS	Approved symbol	UMPS	uridine monophosphate synthetase	HGNC:12563	3q13
+UNC5A	Approved symbol	UNC5A	unc-5 homolog A (C. elegans)	HGNC:12567	5q35.3
+UNC93B1	Approved symbol	UNC93B1	unc-93 homolog B1 (C. elegans)	HGNC:13481	11q13.2
+UPF1	Approved symbol	UPF1	UPF1 regulator of nonsense transcripts homolog (yeast)	HGNC:9962	19p13.11
+UPF2	Approved symbol	UPF2	UPF2 regulator of nonsense transcripts homolog (yeast)	HGNC:17854	10p14-p13
+UQCR11	Approved symbol	UQCR11	ubiquinol-cytochrome c reductase, complex III subunit XI	HGNC:30862	19p13.3
+URB2	Approved symbol	URB2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae)	HGNC:28967	1q42.13
+URM1	Approved symbol	URM1	ubiquitin related modifier 1	HGNC:28378	9q34.13
+UROD	Approved symbol	UROD	uroporphyrinogen decarboxylase	HGNC:12591	1p34
+UROS	Approved symbol	UROS	uroporphyrinogen III synthase	HGNC:12592	10q25.2-q26.3
+USF1	Approved symbol	USF1	upstream transcription factor 1	HGNC:12593	1q22-q23
+USH1C	Approved symbol	USH1C	Usher syndrome 1C (autosomal recessive, severe)	HGNC:12597	11p14.3
+USP19	Approved symbol	USP19	ubiquitin specific peptidase 19	HGNC:12617	3p21.31
+USP2	Approved symbol	USP2	ubiquitin specific peptidase 2	HGNC:12618	11q23.3
+USP21	Approved symbol	USP21	ubiquitin specific peptidase 21	HGNC:12620	1q22
+USP21	Synonyms	USP25	ubiquitin specific peptidase 25	HGNC:12624	21q11.2
+USP4	Approved symbol	USP4	ubiquitin specific peptidase 4 (proto-oncogene)	HGNC:12627	3p21.3
+USP54	Approved symbol	USP54	ubiquitin specific peptidase 54	HGNC:23513	10q22.3
+USP6NL	Approved symbol	USP6NL	USP6 N-terminal like	HGNC:16858	10p13
+UTP23	Approved symbol	UTP23	UTP23, small subunit (SSU) processome component, homolog (yeast)	HGNC:28224	8q24.11
+VAC14	Approved symbol	VAC14	Vac14 homolog (S. cerevisiae)	HGNC:25507	16q22.1
+VAMP4	Approved symbol	VAMP4	vesicle-associated membrane protein 4	HGNC:12645	1q24-q25
+VAPB	Approved symbol	VAPB	VAMP (vesicle-associated membrane protein)-associated protein B and C	HGNC:12649	20q13
+VCL	Approved symbol	VCL	vinculin	HGNC:12665	10q22.1-q23
+VCP	Approved symbol	VCP	valosin containing protein	HGNC:12666	9p13.3
+VCPIP1	Approved symbol	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	HGNC:30897	8q13
+VDAC2	Approved symbol	VDAC2	voltage-dependent anion channel 2	HGNC:12672	10q22
+VDAC3	Approved symbol	VDAC3	voltage-dependent anion channel 3	HGNC:12674	8p11.21
+VDAC3	Previous symbol	VDAC1P5	voltage-dependent anion channel 1 pseudogene 5	HGNC:12676	12q13.2
+VEGFC	Approved symbol	VEGFC	vascular endothelial growth factor C	HGNC:12682	4q34.3
+VIM	Approved symbol	VIM	vimentin	HGNC:12692	10p13
+VPS16	Approved symbol	VPS16	vacuolar protein sorting 16 homolog (S. cerevisiae)	HGNC:14584	20p13
+VPS18	Approved symbol	VPS18	vacuolar protein sorting 18 homolog (S. cerevisiae)	HGNC:15972	15q14-q15
+VPS25	Approved symbol	VPS25	vacuolar protein sorting 25 homolog (S. cerevisiae)	HGNC:28122	17q21.31
+VPS26A	Approved symbol	VPS26A	vacuolar protein sorting 26 homolog A (S. pombe)	HGNC:12711	10q21.1
+VPS33A	Approved symbol	VPS33A	vacuolar protein sorting 33 homolog A (S. cerevisiae)	HGNC:18179	12q24.31
+VPS33B	Approved symbol	VPS33B	vacuolar protein sorting 33 homolog B (yeast)	HGNC:12712	15q26.1
+VPS37B	Approved symbol	VPS37B	vacuolar protein sorting 37 homolog B (S. cerevisiae)	HGNC:25754	12q24.31
+VPS45	Approved symbol	VPS45	vacuolar protein sorting 45 homolog (S. cerevisiae)	HGNC:14579	1q21.2
+VPS52	Approved symbol	VPS52	vacuolar protein sorting 52 homolog (S. cerevisiae)	HGNC:10518	6p21.3
+VPS72	Approved symbol	VPS72	vacuolar protein sorting 72 homolog (S. cerevisiae)	HGNC:11644	1q21
+VRK3	Approved symbol	VRK3	vaccinia related kinase 3	HGNC:18996	19q13.33
+VTI1A	Approved symbol	VTI1A	vesicle transport through interaction with t-SNAREs 1A	HGNC:17792	10q25.2
+VTI1A	Synonyms	VTI1A	vesicle transport through interaction with t-SNAREs 1A	HGNC:17792	10q25.2
+VWA2	Approved symbol	VWA2	von Willebrand factor A domain containing 2	HGNC:24709	10q25.3
+WAC	Approved symbol	WAC	WW domain containing adaptor with coiled-coil	HGNC:17327	10p12.1
+WAPAL	Approved symbol	WAPAL	wings apart-like homolog (Drosophila)	HGNC:23293	10q23.31
+WARS	Approved symbol	WARS	tryptophanyl-tRNA synthetase	HGNC:12729	14q32.2
+WBP11	Approved symbol	WBP11	WW domain binding protein 11	HGNC:16461	12p12.3
+WBSCR16	Approved symbol	WBSCR16	Williams-Beuren syndrome chromosome region 16	HGNC:14948	7q11.23
+WDR1	Approved symbol	WDR1	WD repeat domain 1	HGNC:12754	4p16.1
+WDR11	Approved symbol	WDR11	WD repeat domain 11	HGNC:13831	10q26
+WDR11	Previous symbol	PHIP	pleckstrin homology domain interacting protein	HGNC:15673	6q14
+WDR19	Approved symbol	WDR19	WD repeat domain 19	HGNC:18340	4p14
+WDR24	Approved symbol	WDR24	WD repeat domain 24	HGNC:20852	16p13.3
+WDR25	Approved symbol	WDR25	WD repeat domain 25	HGNC:21064	14q32.32
+WDR26	Approved symbol	WDR26	WD repeat domain 26	HGNC:21208	1q42.13
+WDR34	Approved symbol	WDR34	WD repeat domain 34	HGNC:28296	9q34.11
+WDR38	Approved symbol	WDR38	WD repeat domain 38	HGNC:23745	9q33.3
+WDR46	Approved symbol	WDR46	WD repeat domain 46	HGNC:13923	6p21.3
+WDR63	Approved symbol	WDR63	WD repeat domain 63	HGNC:30711	1p22.3
+WDR66	Approved symbol	WDR66	WD repeat domain 66	HGNC:28506	12q24.31
+WDR73	Approved symbol	WDR73	WD repeat domain 73	HGNC:25928	15q25.2
+WDR93	Approved symbol	WDR93	WD repeat domain 93	HGNC:26924	15q26.1
+WDTC1	Approved symbol	WDTC1	WD and tetratricopeptide repeats 1	HGNC:29175	1p35.3
+WFDC2	Approved symbol	WFDC2	WAP four-disulfide core domain 2	HGNC:15939	20q13.12
+WHSC1L1	Approved symbol	WHSC1L1	Wolf-Hirschhorn syndrome candidate 1-like 1	HGNC:12767	8p11.2
+WIPI2	Approved symbol	WIPI2	WD repeat domain, phosphoinositide interacting 2	HGNC:32225	7p22.1
+WNT3	Approved symbol	WNT3	wingless-type MMTV integration site family, member 3	HGNC:12782	17q21-q22
+WNT7B	Approved symbol	WNT7B	wingless-type MMTV integration site family, member 7B	HGNC:12787	22q13
+WNT8B	Approved symbol	WNT8B	wingless-type MMTV integration site family, member 8B	HGNC:12789	10q24
+WRAP53	Approved symbol	WRAP53	WD repeat containing, antisense to TP53	HGNC:25522	17p13.1
+WSCD1	Approved symbol	WSCD1	WSC domain containing 1	HGNC:29060	17p13.2
+WT1	Approved symbol	WT1	Wilms tumor 1	HGNC:12796	11p13
+WTIP	Approved symbol	WTIP	Wilms tumor 1 interacting protein	HGNC:20964	19q13.11
+WWOX	Approved symbol	WWOX	WW domain containing oxidoreductase	HGNC:12799	16q23.1-q23.2
+WWP2	Approved symbol	WWP2	WW domain containing E3 ubiquitin protein ligase 2	HGNC:16804	16q22.1
+XAF1	Approved symbol	XAF1	XIAP associated factor 1	HGNC:30932	17p13.2
+XDH	Approved symbol	XDH	xanthine dehydrogenase	HGNC:12805	2p23.1
+XIAP	Approved symbol	XIAP	X-linked inhibitor of apoptosis, E3 ubiquitin protein ligase	HGNC:592	Xq25
+XPNPEP1	Approved symbol	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	HGNC:12822	10q25.3
+XPO6	Approved symbol	XPO6	exportin 6	HGNC:19733	16p11.2
+XPO7	Approved symbol	XPO7	exportin 7	HGNC:14108	8p21
+XPR1	Approved symbol	XPR1	xenotropic and polytropic retrovirus receptor 1	HGNC:12827	1q25.1
+XRRA1	Approved symbol	XRRA1	X-ray radiation resistance associated 1	HGNC:18868	11q13.4
+XYLT1	Approved symbol	XYLT1	xylosyltransferase I	HGNC:15516	16p12
+YIF1A	Approved symbol	YIF1A	Yip1 interacting factor homolog A (S. cerevisiae)	HGNC:16688	11q13
+YIPF2	Approved symbol	YIPF2	Yip1 domain family, member 2	HGNC:28476	19p13.2
+YIPF7	Approved symbol	YIPF7	Yip1 domain family, member 7	HGNC:26825	4p13
+YKT6	Approved symbol	YKT6	YKT6 v-SNARE homolog (S. cerevisiae)	HGNC:16959	7p13
+YME1L1	Approved symbol	YME1L1	YME1-like 1 ATPase	HGNC:12843	10p14
+YOD1	Approved symbol	YOD1	YOD1 deubiquitinase	HGNC:25035	1q32.2
+YPEL5	Approved symbol	YPEL5	yippee-like 5 (Drosophila)	HGNC:18329	2p23
+YTHDF1	Approved symbol	YTHDF1	YTH N(6)-methyladenosine RNA binding protein 1	HGNC:15867	20q13.33
+YWHAH	Approved symbol	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta	HGNC:12853	22q12.1-q13.1
+YWHAZ	Approved symbol	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta	HGNC:12855	8q22.3
+YY1AP1	Approved symbol	YY1AP1	YY1 associated protein 1	HGNC:30935	1q22
+ZAR1	Approved symbol	ZAR1	zygote arrest 1	HGNC:20436	4p11
+ZBP1	Approved symbol	ZBP1	Z-DNA binding protein 1	HGNC:16176	20q13.31
+ZBTB37	Approved symbol	ZBTB37	zinc finger and BTB domain containing 37	HGNC:28365	1q24.2
+ZBTB41	Approved symbol	ZBTB41	zinc finger and BTB domain containing 41	HGNC:24819	1q31.3
+ZBTB7B	Approved symbol	ZBTB7B	zinc finger and BTB domain containing 7B	HGNC:18668	1q21.2
+ZC3H11A	Approved symbol	ZC3H11A	zinc finger CCCH-type containing 11A	HGNC:29093	1q32.1
+ZC3H12D	Approved symbol	ZC3H12D	zinc finger CCCH-type containing 12D	HGNC:21175	6q25.1
+ZC3H3	Approved symbol	ZC3H3	zinc finger CCCH-type containing 3	HGNC:28972	8q24.3
+ZC4H2	Approved symbol	ZC4H2	zinc finger, C4H2 domain containing	HGNC:24931	Xq11.1
+ZDHHC1	Approved symbol	ZDHHC1	zinc finger, DHHC-type containing 1	HGNC:17916	16q22.1
+ZDHHC16	Approved symbol	ZDHHC16	zinc finger, DHHC-type containing 16	HGNC:20714	10q24.1
+ZDHHC19	Approved symbol	ZDHHC19	zinc finger, DHHC-type containing 19	HGNC:20713	3q29
+ZDHHC24	Approved symbol	ZDHHC24	zinc finger, DHHC-type containing 24	HGNC:27387	11q13.2
+ZDHHC6	Approved symbol	ZDHHC6	zinc finger, DHHC-type containing 6	HGNC:19160	10q26.11
+ZDHHC7	Approved symbol	ZDHHC7	zinc finger, DHHC-type containing 7	HGNC:18459	16q23.1
+ZFAT	Approved symbol	ZFAT	zinc finger and AT hook domain containing	HGNC:19899	8q24.23
+ZFP41	Approved symbol	ZFP41	ZFP41 zinc finger protein	HGNC:26786	8q24.3
+ZFP82	Approved symbol	ZFP82	ZFP82 zinc finger protein	HGNC:28682	19q13.13
+ZFYVE26	Approved symbol	ZFYVE26	zinc finger, FYVE domain containing 26	HGNC:20761	14q23.3
+ZFYVE27	Approved symbol	ZFYVE27	zinc finger, FYVE domain containing 27	HGNC:26559	10q24.2
+ZKSCAN5	Approved symbol	ZKSCAN5	zinc finger with KRAB and SCAN domains 5	HGNC:12867	7q22
+ZMAT2	Approved symbol	ZMAT2	zinc finger, matrin-type 2	HGNC:26433	5q31
+ZMIZ1	Approved symbol	ZMIZ1	zinc finger, MIZ-type containing 1	HGNC:16493	10q22.3
+ZMYND10	Approved symbol	ZMYND10	zinc finger, MYND-type containing 10	HGNC:19412	3p21.3
+ZNF124	Approved symbol	ZNF124	zinc finger protein 124	HGNC:12907	1q44
+ZNF135	Approved symbol	ZNF135	zinc finger protein 135	HGNC:12919	19q13.4
+ZNF19	Approved symbol	ZNF19	zinc finger protein 19	HGNC:12981	16q22
+ZNF214	Approved symbol	ZNF214	zinc finger protein 214	HGNC:13006	11p15.4
+ZNF22	Approved symbol	ZNF22	zinc finger protein 22	HGNC:13012	10q11
+ZNF248	Approved symbol	ZNF248	zinc finger protein 248	HGNC:13041	10p11.21
+ZNF25	Approved symbol	ZNF25	zinc finger protein 25	HGNC:13043	10p11.2
+ZNF264	Approved symbol	ZNF264	zinc finger protein 264	HGNC:13057	19q13.4
+ZNF329	Approved symbol	ZNF329	zinc finger protein 329	HGNC:14209	19q13.43
+ZNF33A	Approved symbol	ZNF33A	zinc finger protein 33A	HGNC:13096	10p11.2
+ZNF33B	Approved symbol	ZNF33B	zinc finger protein 33B	HGNC:13097	10q11.2
+ZNF343	Approved symbol	ZNF343	zinc finger protein 343	HGNC:16017	20p13
+ZNF37A	Approved symbol	ZNF37A	zinc finger protein 37A	HGNC:13102	10p11.2
+ZNF384	Approved symbol	ZNF384	zinc finger protein 384	HGNC:11955	12p12
+ZNF423	Approved symbol	ZNF423	zinc finger protein 423	HGNC:16762	16q12
+ZNF438	Approved symbol	ZNF438	zinc finger protein 438	HGNC:21029	10p11.23
+ZNF487	Approved symbol	ZNF487	zinc finger protein 487	HGNC:23488	10q11.21
+ZNF496	Approved symbol	ZNF496	zinc finger protein 496	HGNC:23713	1q44
+ZNF500	Approved symbol	ZNF500	zinc finger protein 500	HGNC:23716	16p13.3
+ZNF511	Approved symbol	ZNF511	zinc finger protein 511	HGNC:28445	10q26.3
+ZNF526	Approved symbol	ZNF526	zinc finger protein 526	HGNC:29415	19q13.31
+ZNF544	Approved symbol	ZNF544	zinc finger protein 544	HGNC:16759	19q13.43
+ZNF568	Approved symbol	ZNF568	zinc finger protein 568	HGNC:25392	19q13.12
+ZNF592	Approved symbol	ZNF592	zinc finger protein 592	HGNC:28986	15q25.2
+ZNF648	Approved symbol	ZNF648	zinc finger protein 648	HGNC:18190	1q25.3
+ZNF669	Approved symbol	ZNF669	zinc finger protein 669	HGNC:25736	1q44
+ZNF671	Approved symbol	ZNF671	zinc finger protein 671	HGNC:26279	19q13.43
+ZNF678	Approved symbol	ZNF678	zinc finger protein 678	HGNC:28652	1q42.13
+ZNF687	Approved symbol	ZNF687	zinc finger protein 687	HGNC:29277	1q21.2
+ZNF69	Approved symbol	ZNF69	zinc finger protein 69	HGNC:13138	19p13.2
+ZNF695	Approved symbol	ZNF695	zinc finger protein 695	HGNC:30954	1q44
+ZNF706	Approved symbol	ZNF706	zinc finger protein 706	HGNC:24992	8q22.3
+ZNF707	Approved symbol	ZNF707	zinc finger protein 707	HGNC:27815	8q24.3
+ZNF786	Approved symbol	ZNF786	zinc finger protein 786	HGNC:21806	7q36.1
+ZNF829	Approved symbol	ZNF829	zinc finger protein 829	HGNC:34032	19q13.12
+ZNFX1	Approved symbol	ZNFX1	zinc finger, NFX1-type containing 1	HGNC:29271	20q13.13
+ZNHIT2	Approved symbol	ZNHIT2	zinc finger, HIT-type containing 2	HGNC:1177	11q13
+ZNRF1	Approved symbol	ZNRF1	zinc and ring finger 1, E3 ubiquitin protein ligase	HGNC:18452	16q22.3
+ZRANB1	Approved symbol	ZRANB1	zinc finger, RAN-binding domain containing 1	HGNC:18224	10q26.12
+ZSCAN1	Approved symbol	ZSCAN1	zinc finger and SCAN domain containing 1	HGNC:23712	19q13.43
+ZSCAN18	Approved symbol	ZSCAN18	zinc finger and SCAN domain containing 18	HGNC:21037	19q13.43
+ZSCAN4	Approved symbol	ZSCAN4	zinc finger and SCAN domain containing 4	HGNC:23709	19q13.43
+ZSCAN5A	Approved symbol	ZSCAN5A	zinc finger and SCAN domain containing 5A	HGNC:23710	19q13.43
+ZWI	Unmatched				
